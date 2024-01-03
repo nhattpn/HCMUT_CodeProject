@@ -1,0 +1,2463 @@
+MAXSIZE 50
+Line 2: LAPSE 40
+Line 3: LAPSE 86
+Line 4: LAPSE 44
+Line 5: LAPSE 40
+Line 6: LAPSE 194
+Line 7: LAPSE 74
+Line 8: LAPSE 16
+Line 9: LAPSE 166
+Line 10: LAPSE 182
+Line 11: LAPSE 70
+Line 12: LAPSE 100
+Line 13: LAPSE 142
+Line 14: LAPSE 172
+Line 15: LAPSE 134
+Line 16: LAPSE 162
+Line 17: LAPSE 56
+Line 18: LAPSE 160
+Line 19: LAPSE 94
+Line 20: LAPSE 106
+Line 21: LAPSE 26
+Line 22: LAPSE 16
+Line 23: LAPSE 170
+Line 24: LAPSE 38
+Line 25: LAPSE 70
+Line 26: LAPSE 144
+Line 27: LAPSE 90
+Line 28: LAPSE 22
+Line 29: LAPSE 132
+Line 30: LAPSE 68
+Line 31: LAPSE 88
+Line 32: LAPSE 54
+Line 33: LAPSE 198
+Line 34: LAPSE 132
+Line 35: LAPSE 38
+Line 36: LAPSE 38
+Line 37: LAPSE 144
+Line 38: LAPSE 2
+Line 39: CLEAVE 39
+37-86
+25-74
+1-100
+19-68
+41-90
+41-40
+41-40
+39-38
+39-38
+39-88
+39-38
+43-142
+5-54
+49-198
+35-134
+3-2
+17-16
+17-166
+17-16
+23-22
+23-172
+13-162
+7-106
+7-56
+45-144
+45-144
+45-94
+45-194
+45-44
+33-132
+33-132
+33-182
+11-160
+21-70
+21-170
+21-70
+27-26
+Line 40: LAPSE 90
+Line 41: LAPSE 18
+Line 42: LAPSE 78
+Line 43: CLEAVE 17
+37-86
+25-74
+1-100
+19-18
+19-68
+41-90
+41-90
+41-40
+41-40
+39-38
+39-38
+39-88
+39-38
+43-142
+5-54
+49-198
+35-134
+3-2
+17-16
+17-166
+17-16
+29-78
+23-22
+23-172
+13-162
+7-106
+7-56
+45-144
+45-144
+45-94
+45-194
+45-44
+33-132
+33-132
+33-182
+11-160
+21-70
+21-170
+21-70
+27-26
+Line 44: KEITEIKEN 29
+86-37
+74-25
+100-1
+142-43
+134-35
+162-13
+160-11
+26-27
+54-5
+198-49
+2-3
+78-29
+56-7
+106-7
+172-23
+22-23
+68-19
+18-19
+16-17
+166-17
+16-17
+70-21
+170-21
+70-21
+182-33
+132-33
+132-33
+38-39
+88-39
+38-39
+38-39
+40-41
+40-41
+90-41
+90-41
+44-45
+194-45
+94-45
+144-45
+144-45
+Heap_before_KEITEIKEN : {ID=37,Len=1} {ID=25,Len=1} {ID=13,Len=1} {ID=1,Len=1} {ID=35,Len=1} {ID=7,Len=2} {ID=11,Len=1} {ID=19,Len=2} {ID=43,Len=1} {ID=3,Len=1} {ID=23,Len=2} {ID=45,Len=5} {ID=33,Len=3} {ID=21,Len=3} {ID=27,Len=1} {ID=41,Len=4} {ID=39,Len=4} {ID=5,Len=1} {ID=49,Len=1} {ID=17,Len=3} {ID=29,Len=1} 
+customers_before_KEITEIKEN : 
+AreaTable ID=37 : 86 
+AreaTable ID=25 : 74 
+AreaTable ID=13 : 162 
+AreaTable ID=1 : 100 
+AreaTable ID=35 : 134 
+AreaTable ID=7 : 106 56 
+AreaTable ID=11 : 160 
+AreaTable ID=19 : 18 68 
+AreaTable ID=43 : 142 
+AreaTable ID=3 : 2 
+AreaTable ID=23 : 22 172 
+AreaTable ID=45 : 144 144 94 194 44 
+AreaTable ID=33 : 132 132 182 
+AreaTable ID=21 : 70 170 70 
+AreaTable ID=27 : 26 
+AreaTable ID=41 : 90 90 40 40 
+AreaTable ID=39 : 38 38 88 38 
+AreaTable ID=5 : 54 
+AreaTable ID=49 : 198 
+AreaTable ID=17 : 16 166 16 
+AreaTable ID=29 : 78 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 45: CLEAVE 27
+Line 46: LAPSE 72
+Line 47: LAPSE 198
+Line 48: LAPSE 128
+Line 49: LAPSE 162
+Line 50: LAPSE 118
+Line 51: LAPSE 26
+Line 52: CLEAVE 6
+23-72
+49-198
+13-162
+19-118
+29-128
+27-26
+Line 53: KEITEIKEN 11
+72-23
+198-49
+128-29
+162-13
+118-19
+26-27
+Heap_before_KEITEIKEN : {ID=23,Len=1} {ID=49,Len=1} {ID=29,Len=1} {ID=13,Len=1} {ID=19,Len=1} {ID=27,Len=1} 
+customers_before_KEITEIKEN : 
+AreaTable ID=23 : 72 
+AreaTable ID=49 : 198 
+AreaTable ID=29 : 128 
+AreaTable ID=13 : 162 
+AreaTable ID=19 : 118 
+AreaTable ID=27 : 26 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 54: CLEAVE 9
+Line 55: LAPSE 22
+Line 56: LAPSE 180
+Line 57: LAPSE 104
+Line 58: LAPSE 36
+Line 59: LAPSE 134
+Line 60: LAPSE 72
+Line 61: LAPSE 58
+Line 62: CLEAVE 50
+31-180
+37-36
+23-72
+23-22
+35-134
+5-104
+9-58
+Line 63: KEITEIKEN 35
+180-31
+104-5
+36-37
+134-35
+58-9
+22-23
+72-23
+Heap_before_KEITEIKEN : {ID=31,Len=1} {ID=37,Len=1} {ID=5,Len=1} {ID=23,Len=2} {ID=35,Len=1} {ID=9,Len=1} 
+customers_before_KEITEIKEN : 
+AreaTable ID=31 : 180 
+AreaTable ID=37 : 36 
+AreaTable ID=5 : 104 
+AreaTable ID=23 : 72 22 
+AreaTable ID=35 : 134 
+AreaTable ID=9 : 58 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 64: CLEAVE 31
+Line 65: LAPSE 156
+Line 66: LAPSE 6
+Line 67: LAPSE 46
+Line 68: LAPSE 180
+Line 69: LAPSE 42
+Line 70: LAPSE 176
+Line 71: LAPSE 4
+Line 72: LAPSE 76
+Line 73: LAPSE 142
+Line 74: LAPSE 20
+Line 75: LAPSE 116
+Line 76: CLEAVE 44
+47-46
+17-116
+7-6
+7-156
+43-142
+43-42
+27-76
+27-176
+31-180
+5-4
+21-20
+Line 77: KEITEIKEN 46
+46-47
+180-31
+4-5
+20-21
+116-17
+156-7
+6-7
+176-27
+76-27
+42-43
+142-43
+Heap_before_KEITEIKEN : {ID=47,Len=1} {ID=17,Len=1} {ID=31,Len=1} {ID=7,Len=2} {ID=27,Len=2} {ID=5,Len=1} {ID=21,Len=1} {ID=43,Len=2} 
+customers_before_KEITEIKEN : 
+AreaTable ID=47 : 46 
+AreaTable ID=17 : 116 
+AreaTable ID=31 : 180 
+AreaTable ID=7 : 6 156 
+AreaTable ID=27 : 76 176 
+AreaTable ID=5 : 4 
+AreaTable ID=21 : 20 
+AreaTable ID=43 : 142 42 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 78: CLEAVE 15
+Line 79: LAPSE 8
+Line 80: LAPSE 164
+Line 81: LAPSE 184
+Line 82: LAPSE 104
+Line 83: LAPSE 118
+Line 84: LAPSE 14
+Line 85: LAPSE 40
+Line 86: LAPSE 44
+Line 87: LAPSE 94
+Line 88: LAPSE 14
+Line 89: LAPSE 50
+Line 90: LAPSE 66
+Line 91: LAPSE 82
+Line 92: LAPSE 84
+Line 93: LAPSE 108
+Line 94: LAPSE 86
+Line 95: LAPSE 74
+Line 96: LAPSE 24
+Line 97: LAPSE 178
+Line 98: LAPSE 80
+Line 99: LAPSE 106
+Line 100: LAPSE 80
+Line 101: LAPSE 38
+Line 102: LAPSE 98
+Line 103: LAPSE 92
+Line 104: LAPSE 64
+Line 105: LAPSE 190
+Line 106: LAPSE 174
+Line 107: LAPSE 186
+Line 108: LAPSE 26
+Line 109: LAPSE 104
+Line 110: LAPSE 112
+Line 111: LAPSE 12
+Line 112: LAPSE 60
+Line 113: LAPSE 14
+Line 114: LAPSE 14
+Line 115: LAPSE 188
+Line 116: LAPSE 132
+Line 117: LAPSE 164
+Line 118: CLEAVE 30
+19-118
+1-50
+17-66
+49-98
+15-164
+15-14
+15-14
+15-64
+15-14
+15-14
+15-164
+39-188
+39-38
+43-92
+5-104
+5-104
+27-26
+11-60
+9-108
+9-8
+13-12
+13-112
+33-132
+33-82
+37-186
+37-86
+29-178
+35-84
+35-184
+25-174
+25-24
+25-74
+41-190
+41-40
+7-106
+45-94
+45-44
+31-80
+31-80
+Line 119: KEITEIKEN 9
+118-19
+50-1
+66-17
+178-29
+106-7
+98-49
+92-43
+26-27
+60-11
+Heap_before_KEITEIKEN : {ID=19,Len=1} {ID=1,Len=1} {ID=29,Len=1} {ID=17,Len=1} {ID=11,Len=1} {ID=35,Len=2} {ID=7,Len=1} {ID=49,Len=1} {ID=43,Len=1} {ID=9,Len=2} {ID=37,Len=2} {ID=25,Len=3} {ID=41,Len=2} {ID=45,Len=2} {ID=31,Len=2} {ID=15,Len=7} {ID=39,Len=2} {ID=5,Len=2} {ID=27,Len=1} {ID=13,Len=2} {ID=33,Len=2} 
+customers_before_KEITEIKEN : 
+AreaTable ID=19 : 118 
+AreaTable ID=1 : 50 
+AreaTable ID=29 : 178 
+AreaTable ID=17 : 66 
+AreaTable ID=11 : 60 
+AreaTable ID=35 : 84 184 
+AreaTable ID=7 : 106 
+AreaTable ID=49 : 98 
+AreaTable ID=43 : 92 
+AreaTable ID=9 : 108 8 
+AreaTable ID=37 : 186 86 
+AreaTable ID=25 : 174 24 74 
+AreaTable ID=41 : 190 40 
+AreaTable ID=45 : 94 44 
+AreaTable ID=31 : 80 80 
+AreaTable ID=15 : 164 14 14 64 14 14 164 
+AreaTable ID=39 : 188 38 
+AreaTable ID=5 : 104 104 
+AreaTable ID=27 : 26 
+AreaTable ID=13 : 12 112 
+AreaTable ID=33 : 132 82 
+Heap_after_KEITEIKEN : {ID=45,Len=2} {ID=9,Len=2} {ID=35,Len=2} {ID=39,Len=2} {ID=37,Len=2} {ID=41,Len=2} {ID=31,Len=2} {ID=15,Len=7} {ID=33,Len=2} {ID=5,Len=2} {ID=13,Len=2} {ID=25,Len=3} 
+customers_after_KEITEIKEN : 
+AreaTable ID=45 : 94 44 
+AreaTable ID=9 : 108 8 
+AreaTable ID=35 : 84 184 
+AreaTable ID=39 : 188 38 
+AreaTable ID=37 : 186 86 
+AreaTable ID=41 : 190 40 
+AreaTable ID=31 : 80 80 
+AreaTable ID=15 : 164 14 14 64 14 14 164 
+AreaTable ID=33 : 132 82 
+AreaTable ID=5 : 104 104 
+AreaTable ID=13 : 12 112 
+AreaTable ID=25 : 174 24 74 
+Line 120: CLEAVE 2
+45-94
+45-44
+9-108
+9-8
+39-188
+39-38
+15-164
+15-14
+33-132
+33-82
+37-186
+37-86
+5-104
+5-104
+13-12
+13-112
+35-84
+35-184
+41-190
+41-40
+25-174
+25-24
+31-80
+31-80
+Line 121: LAPSE 44
+Line 122: LAPSE 138
+Line 123: CLEAVE 37
+35-84
+35-184
+9-108
+9-8
+33-132
+33-82
+15-164
+15-14
+15-14
+15-64
+15-14
+15-14
+15-164
+39-138
+39-188
+39-38
+37-186
+37-86
+5-104
+5-104
+13-12
+13-112
+31-80
+31-80
+41-190
+41-40
+25-174
+25-24
+25-74
+45-44
+45-94
+45-44
+Line 124: LAPSE 100
+Line 125: LAPSE 150
+Line 126: LAPSE 146
+Line 127: LAPSE 22
+Line 128: LAPSE 48
+Line 129: LAPSE 84
+Line 130: LAPSE 24
+Line 131: LAPSE 186
+Line 132: LAPSE 42
+Line 133: LAPSE 20
+Line 134: LAPSE 186
+Line 135: LAPSE 66
+Line 136: LAPSE 84
+Line 137: LAPSE 24
+Line 138: LAPSE 54
+Line 139: LAPSE 20
+Line 140: LAPSE 122
+Line 141: LAPSE 58
+Line 142: LAPSE 166
+Line 143: LAPSE 50
+Line 144: LAPSE 146
+Line 145: LAPSE 20
+Line 146: LAPSE 58
+Line 147: LAPSE 82
+Line 148: LAPSE 120
+Line 149: LAPSE 78
+Line 150: LAPSE 12
+Line 151: LAPSE 150
+Line 152: LAPSE 140
+Line 153: LAPSE 118
+Line 154: CLEAVE 13
+49-48
+43-42
+17-166
+17-66
+47-146
+47-146
+15-164
+15-14
+15-14
+15-64
+15-14
+15-14
+15-164
+9-58
+9-58
+9-108
+9-8
+39-138
+39-188
+39-38
+33-82
+33-132
+33-82
+21-120
+21-20
+21-20
+21-20
+29-78
+19-118
+37-186
+37-186
+37-186
+37-86
+13-12
+13-12
+13-112
+5-54
+5-104
+5-104
+31-80
+31-80
+41-140
+41-190
+41-40
+25-24
+25-24
+25-174
+25-24
+25-74
+1-150
+1-50
+1-150
+1-100
+23-122
+23-22
+45-44
+45-94
+45-44
+35-84
+35-84
+35-84
+35-184
+Line 155: KEITEIKEN 4
+48-49
+42-43
+78-29
+118-19
+Heap_before_KEITEIKEN : {ID=49,Len=1} {ID=43,Len=1} {ID=31,Len=2} {ID=17,Len=2} {ID=29,Len=1} {ID=41,Len=3} {ID=23,Len=2} {ID=47,Len=2} {ID=39,Len=3} {ID=19,Len=1} {ID=5,Len=3} {ID=25,Len=5} {ID=1,Len=4} {ID=45,Len=3} {ID=35,Len=4} {ID=15,Len=7} {ID=9,Len=4} {ID=33,Len=3} {ID=21,Len=4} {ID=37,Len=4} {ID=13,Len=3} 
+customers_before_KEITEIKEN : 
+AreaTable ID=49 : 48 
+AreaTable ID=43 : 42 
+AreaTable ID=31 : 80 80 
+AreaTable ID=17 : 166 66 
+AreaTable ID=29 : 78 
+AreaTable ID=41 : 140 190 40 
+AreaTable ID=23 : 122 22 
+AreaTable ID=47 : 146 146 
+AreaTable ID=39 : 138 188 38 
+AreaTable ID=19 : 118 
+AreaTable ID=5 : 54 104 104 
+AreaTable ID=25 : 24 24 174 24 74 
+AreaTable ID=1 : 150 50 150 100 
+AreaTable ID=45 : 44 94 44 
+AreaTable ID=35 : 84 84 84 184 
+AreaTable ID=15 : 164 14 14 64 14 14 164 
+AreaTable ID=9 : 58 58 108 8 
+AreaTable ID=33 : 82 132 82 
+AreaTable ID=21 : 120 20 20 20 
+AreaTable ID=37 : 186 186 186 86 
+AreaTable ID=13 : 12 12 112 
+Heap_after_KEITEIKEN : {ID=31,Len=2} {ID=17,Len=2} {ID=23,Len=2} {ID=47,Len=2} {ID=5,Len=3} {ID=41,Len=3} {ID=45,Len=3} {ID=9,Len=4} {ID=39,Len=3} {ID=13,Len=3} {ID=37,Len=4} {ID=25,Len=5} {ID=1,Len=4} {ID=33,Len=3} {ID=35,Len=4} {ID=15,Len=7} {ID=21,Len=4} 
+customers_after_KEITEIKEN : 
+AreaTable ID=31 : 80 80 
+AreaTable ID=17 : 166 66 
+AreaTable ID=23 : 122 22 
+AreaTable ID=47 : 146 146 
+AreaTable ID=5 : 54 104 104 
+AreaTable ID=41 : 140 190 40 
+AreaTable ID=45 : 44 94 44 
+AreaTable ID=9 : 58 58 108 8 
+AreaTable ID=39 : 138 188 38 
+AreaTable ID=13 : 12 12 112 
+AreaTable ID=37 : 186 186 186 86 
+AreaTable ID=25 : 24 24 174 24 74 
+AreaTable ID=1 : 150 50 150 100 
+AreaTable ID=33 : 82 132 82 
+AreaTable ID=35 : 84 84 84 184 
+AreaTable ID=15 : 164 14 14 64 14 14 164 
+AreaTable ID=21 : 120 20 20 20 
+Line 156: CLEAVE 48
+31-80
+31-80
+17-166
+17-66
+47-146
+47-146
+9-58
+9-58
+9-108
+9-8
+15-164
+15-14
+15-14
+15-64
+15-14
+15-14
+15-164
+21-120
+21-20
+21-20
+21-20
+39-138
+39-188
+39-38
+5-54
+5-104
+5-104
+13-12
+13-12
+13-112
+37-186
+37-186
+37-186
+37-86
+23-122
+23-22
+41-140
+41-190
+41-40
+25-24
+25-24
+25-174
+25-24
+25-74
+1-150
+1-50
+1-150
+1-100
+45-44
+45-94
+45-44
+33-82
+33-132
+33-82
+35-84
+35-84
+35-84
+35-184
+Line 157: LAPSE 182
+Line 158: LAPSE 172
+Line 159: LAPSE 56
+Line 160: LAPSE 190
+Line 161: LAPSE 24
+Line 162: LAPSE 114
+Line 163: LAPSE 176
+Line 164: LAPSE 42
+Line 165: LAPSE 88
+Line 166: LAPSE 78
+Line 167: LAPSE 40
+Line 168: CLEAVE 35
+7-56
+27-176
+31-80
+31-80
+9-58
+9-58
+9-108
+9-8
+15-114
+15-164
+15-14
+15-14
+15-64
+15-14
+15-14
+15-164
+21-120
+21-20
+21-20
+21-20
+17-166
+17-66
+39-88
+39-138
+39-188
+39-38
+47-146
+47-146
+43-42
+29-78
+13-12
+13-12
+13-112
+5-54
+5-104
+5-104
+37-186
+37-186
+37-186
+37-86
+45-44
+45-94
+45-44
+1-150
+1-50
+1-150
+1-100
+25-24
+25-24
+25-24
+25-174
+25-24
+25-74
+41-40
+41-190
+41-140
+41-190
+41-40
+23-172
+23-122
+23-22
+33-182
+33-82
+33-132
+33-82
+35-84
+35-84
+35-84
+35-184
+Line 169: KEITEIKEN 23
+56-7
+176-27
+42-43
+78-29
+80-31
+80-31
+66-17
+166-17
+146-47
+146-47
+44-45
+94-45
+44-45
+104-5
+104-5
+54-5
+112-13
+12-13
+12-13
+22-23
+122-23
+172-23
+86-37
+186-37
+186-37
+186-37
+184-35
+84-35
+84-35
+84-35
+8-9
+108-9
+58-9
+58-9
+20-21
+20-21
+20-21
+120-21
+100-1
+150-1
+50-1
+150-1
+82-33
+132-33
+82-33
+182-33
+38-39
+188-39
+138-39
+88-39
+40-41
+190-41
+140-41
+190-41
+40-41
+74-25
+24-25
+174-25
+24-25
+24-25
+24-25
+164-15
+14-15
+14-15
+64-15
+14-15
+14-15
+164-15
+114-15
+Heap_before_KEITEIKEN : {ID=7,Len=1} {ID=27,Len=1} {ID=45,Len=3} {ID=31,Len=2} {ID=43,Len=1} {ID=1,Len=4} {ID=23,Len=3} {ID=9,Len=4} {ID=17,Len=2} {ID=29,Len=1} {ID=37,Len=4} {ID=25,Len=6} {ID=41,Len=5} {ID=33,Len=4} {ID=35,Len=4} {ID=15,Len=8} {ID=21,Len=4} {ID=39,Len=4} {ID=47,Len=2} {ID=13,Len=3} {ID=5,Len=3} 
+customers_before_KEITEIKEN : 
+AreaTable ID=7 : 56 
+AreaTable ID=27 : 176 
+AreaTable ID=45 : 44 94 44 
+AreaTable ID=31 : 80 80 
+AreaTable ID=43 : 42 
+AreaTable ID=1 : 150 50 150 100 
+AreaTable ID=23 : 172 122 22 
+AreaTable ID=9 : 58 58 108 8 
+AreaTable ID=17 : 166 66 
+AreaTable ID=29 : 78 
+AreaTable ID=37 : 186 186 186 86 
+AreaTable ID=25 : 24 24 24 174 24 74 
+AreaTable ID=41 : 40 190 140 190 40 
+AreaTable ID=33 : 182 82 132 82 
+AreaTable ID=35 : 84 84 84 184 
+AreaTable ID=15 : 114 164 14 14 64 14 14 164 
+AreaTable ID=21 : 120 20 20 20 
+AreaTable ID=39 : 88 138 188 38 
+AreaTable ID=47 : 146 146 
+AreaTable ID=13 : 12 12 112 
+AreaTable ID=5 : 54 104 104 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 170: CLEAVE 27
+Line 171: LAPSE 138
+Line 172: LAPSE 42
+Line 173: LAPSE 158
+Line 174: LAPSE 168
+Line 175: LAPSE 64
+Line 176: LAPSE 10
+Line 177: LAPSE 70
+Line 178: CLEAVE 19
+39-138
+43-42
+19-168
+15-64
+9-158
+11-10
+21-70
+Line 179: LAPSE 186
+Line 180: LAPSE 22
+Line 181: LAPSE 78
+Line 182: LAPSE 104
+Line 183: LAPSE 196
+Line 184: CLEAVE 26
+39-138
+43-42
+19-168
+37-186
+23-22
+15-64
+29-78
+5-104
+9-158
+11-10
+47-196
+21-70
+Line 185: KEITEIKEN 6
+138-39
+42-43
+158-9
+168-19
+64-15
+10-11
+Heap_before_KEITEIKEN : {ID=39,Len=1} {ID=43,Len=1} {ID=9,Len=1} {ID=19,Len=1} {ID=15,Len=1} {ID=11,Len=1} {ID=21,Len=1} {ID=37,Len=1} {ID=23,Len=1} {ID=29,Len=1} {ID=5,Len=1} {ID=47,Len=1} 
+customers_before_KEITEIKEN : 
+AreaTable ID=39 : 138 
+AreaTable ID=43 : 42 
+AreaTable ID=9 : 158 
+AreaTable ID=19 : 168 
+AreaTable ID=15 : 64 
+AreaTable ID=11 : 10 
+AreaTable ID=21 : 70 
+AreaTable ID=37 : 186 
+AreaTable ID=23 : 22 
+AreaTable ID=29 : 78 
+AreaTable ID=5 : 104 
+AreaTable ID=47 : 196 
+Heap_after_KEITEIKEN : {ID=21,Len=1} {ID=37,Len=1} {ID=5,Len=1} {ID=23,Len=1} {ID=29,Len=1} {ID=47,Len=1} 
+customers_after_KEITEIKEN : 
+AreaTable ID=21 : 70 
+AreaTable ID=37 : 186 
+AreaTable ID=5 : 104 
+AreaTable ID=23 : 22 
+AreaTable ID=29 : 78 
+AreaTable ID=47 : 196 
+Line 186: CLEAVE 50
+21-70
+37-186
+23-22
+29-78
+5-104
+47-196
+Line 187: LAPSE 50
+Line 188: LAPSE 136
+Line 189: LAPSE 84
+Line 190: LAPSE 108
+Line 191: LAPSE 180
+Line 192: LAPSE 72
+Line 193: LAPSE 120
+Line 194: LAPSE 0
+Line 195: LAPSE 198
+Line 196: LAPSE 34
+Line 197: LAPSE 16
+Line 198: LAPSE 34
+Line 199: LAPSE 146
+Line 200: LAPSE 84
+Line 201: LAPSE 112
+Line 202: LAPSE 102
+Line 203: LAPSE 140
+Line 204: CLEAVE 41
+29-78
+9-108
+37-136
+37-186
+35-84
+35-34
+35-34
+35-84
+21-120
+21-70
+31-180
+23-72
+23-22
+49-198
+5-104
+17-16
+47-146
+47-196
+13-112
+3-102
+1-0
+1-50
+41-140
+Line 205: LAPSE 88
+Line 206: LAPSE 8
+Line 207: LAPSE 48
+Line 208: LAPSE 88
+Line 209: LAPSE 148
+Line 210: LAPSE 28
+Line 211: LAPSE 134
+Line 212: CLEAVE 49
+5-104
+31-180
+37-136
+37-186
+39-88
+39-88
+35-134
+35-84
+35-34
+35-34
+35-84
+21-120
+21-70
+23-72
+23-22
+49-148
+49-48
+49-198
+9-8
+9-108
+17-16
+13-112
+47-146
+47-196
+29-28
+29-78
+3-102
+1-0
+1-50
+41-140
+Line 213: KEITEIKEN 12
+104-5
+180-31
+16-17
+112-13
+102-3
+140-41
+186-37
+136-37
+22-23
+72-23
+70-21
+120-21
+50-1
+0-1
+196-47
+146-47
+108-9
+8-9
+Heap_before_KEITEIKEN : {ID=5,Len=1} {ID=31,Len=1} {ID=17,Len=1} {ID=37,Len=2} {ID=23,Len=2} {ID=13,Len=1} {ID=3,Len=1} {ID=39,Len=2} {ID=21,Len=2} {ID=49,Len=3} {ID=9,Len=2} {ID=47,Len=2} {ID=29,Len=2} {ID=1,Len=2} {ID=41,Len=1} {ID=35,Len=5} 
+customers_before_KEITEIKEN : 
+AreaTable ID=5 : 104 
+AreaTable ID=31 : 180 
+AreaTable ID=17 : 16 
+AreaTable ID=37 : 136 186 
+AreaTable ID=23 : 72 22 
+AreaTable ID=13 : 112 
+AreaTable ID=3 : 102 
+AreaTable ID=39 : 88 88 
+AreaTable ID=21 : 120 70 
+AreaTable ID=49 : 148 48 198 
+AreaTable ID=9 : 8 108 
+AreaTable ID=47 : 146 196 
+AreaTable ID=29 : 28 78 
+AreaTable ID=1 : 0 50 
+AreaTable ID=41 : 140 
+AreaTable ID=35 : 134 84 34 34 84 
+Heap_after_KEITEIKEN : {ID=39,Len=2} {ID=49,Len=3} {ID=29,Len=2} {ID=35,Len=5} 
+customers_after_KEITEIKEN : 
+AreaTable ID=39 : 88 88 
+AreaTable ID=49 : 148 48 198 
+AreaTable ID=29 : 28 78 
+AreaTable ID=35 : 134 84 34 34 84 
+Line 214: CLEAVE 2
+39-88
+39-88
+49-148
+49-48
+35-134
+35-84
+29-28
+29-78
+Line 215: LAPSE 164
+Line 216: LAPSE 154
+Line 217: LAPSE 194
+Line 218: CLEAVE 31
+15-164
+39-88
+39-88
+35-134
+35-84
+35-34
+35-34
+35-84
+49-148
+49-48
+49-198
+5-154
+29-28
+29-78
+45-194
+Line 219: LAPSE 64
+Line 220: LAPSE 86
+Line 221: LAPSE 112
+Line 222: LAPSE 78
+Line 223: LAPSE 142
+Line 224: LAPSE 54
+Line 225: LAPSE 104
+Line 226: LAPSE 54
+Line 227: LAPSE 26
+Line 228: LAPSE 74
+Line 229: LAPSE 118
+Line 230: LAPSE 138
+Line 231: LAPSE 140
+Line 232: CLEAVE 28
+45-194
+37-86
+13-112
+35-134
+35-84
+35-34
+35-34
+35-84
+39-138
+39-88
+39-88
+43-142
+49-148
+49-48
+49-198
+27-26
+25-74
+19-118
+29-78
+29-28
+29-78
+15-64
+15-164
+41-140
+5-54
+5-104
+5-54
+5-154
+Line 233: KEITEIKEN 36
+194-45
+86-37
+112-13
+142-43
+26-27
+74-25
+118-19
+140-41
+164-15
+64-15
+198-49
+48-49
+148-49
+78-29
+28-29
+78-29
+88-39
+88-39
+138-39
+154-5
+54-5
+104-5
+54-5
+84-35
+34-35
+34-35
+84-35
+134-35
+Heap_before_KEITEIKEN : {ID=45,Len=1} {ID=37,Len=1} {ID=25,Len=1} {ID=13,Len=1} {ID=43,Len=1} {ID=19,Len=1} {ID=41,Len=1} {ID=35,Len=5} {ID=39,Len=3} {ID=49,Len=3} {ID=27,Len=1} {ID=29,Len=3} {ID=15,Len=2} {ID=5,Len=4} 
+customers_before_KEITEIKEN : 
+AreaTable ID=45 : 194 
+AreaTable ID=37 : 86 
+AreaTable ID=25 : 74 
+AreaTable ID=13 : 112 
+AreaTable ID=43 : 142 
+AreaTable ID=19 : 118 
+AreaTable ID=41 : 140 
+AreaTable ID=35 : 134 84 34 34 84 
+AreaTable ID=39 : 138 88 88 
+AreaTable ID=49 : 148 48 198 
+AreaTable ID=27 : 26 
+AreaTable ID=29 : 78 28 78 
+AreaTable ID=15 : 64 164 
+AreaTable ID=5 : 54 104 54 154 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 234: CLEAVE 8
+Line 235: LAPSE 60
+Line 236: LAPSE 102
+Line 237: LAPSE 180
+Line 238: LAPSE 128
+Line 239: LAPSE 142
+Line 240: LAPSE 194
+Line 241: LAPSE 92
+Line 242: CLEAVE 21
+11-60
+3-102
+29-128
+43-92
+43-142
+31-180
+45-194
+Line 243: KEITEIKEN 1
+60-11
+Heap_before_KEITEIKEN : {ID=11,Len=1} {ID=3,Len=1} {ID=31,Len=1} {ID=29,Len=1} {ID=43,Len=2} {ID=45,Len=1} 
+customers_before_KEITEIKEN : 
+AreaTable ID=11 : 60 
+AreaTable ID=3 : 102 
+AreaTable ID=31 : 180 
+AreaTable ID=29 : 128 
+AreaTable ID=43 : 92 142 
+AreaTable ID=45 : 194 
+Heap_after_KEITEIKEN : {ID=3,Len=1} {ID=29,Len=1} {ID=31,Len=1} {ID=45,Len=1} {ID=43,Len=2} 
+customers_after_KEITEIKEN : 
+AreaTable ID=3 : 102 
+AreaTable ID=29 : 128 
+AreaTable ID=31 : 180 
+AreaTable ID=45 : 194 
+AreaTable ID=43 : 92 142 
+Line 244: CLEAVE 2
+3-102
+29-128
+45-194
+43-92
+43-142
+31-180
+Line 245: LAPSE 56
+Line 246: CLEAVE 49
+3-102
+29-128
+45-194
+43-92
+43-142
+31-180
+7-56
+Line 247: KEITEIKEN 3
+102-3
+180-31
+128-29
+Heap_before_KEITEIKEN : {ID=3,Len=1} {ID=29,Len=1} {ID=31,Len=1} {ID=45,Len=1} {ID=43,Len=2} {ID=7,Len=1} 
+customers_before_KEITEIKEN : 
+AreaTable ID=3 : 102 
+AreaTable ID=29 : 128 
+AreaTable ID=31 : 180 
+AreaTable ID=45 : 194 
+AreaTable ID=43 : 92 142 
+AreaTable ID=7 : 56 
+Heap_after_KEITEIKEN : {ID=45,Len=1} {ID=43,Len=2} {ID=7,Len=1} 
+customers_after_KEITEIKEN : 
+AreaTable ID=45 : 194 
+AreaTable ID=43 : 92 142 
+AreaTable ID=7 : 56 
+Line 248: CLEAVE 16
+45-194
+43-92
+43-142
+7-56
+Line 249: LAPSE 176
+Line 250: LAPSE 184
+Line 251: LAPSE 140
+Line 252: LAPSE 158
+Line 253: LAPSE 80
+Line 254: LAPSE 166
+Line 255: LAPSE 76
+Line 256: LAPSE 164
+Line 257: LAPSE 186
+Line 258: LAPSE 20
+Line 259: LAPSE 160
+Line 260: LAPSE 138
+Line 261: LAPSE 132
+Line 262: LAPSE 40
+Line 263: LAPSE 112
+Line 264: LAPSE 76
+Line 265: LAPSE 62
+Line 266: LAPSE 186
+Line 267: LAPSE 96
+Line 268: LAPSE 138
+Line 269: LAPSE 78
+Line 270: CLEAVE 37
+45-194
+35-184
+31-80
+47-96
+13-62
+13-112
+43-92
+43-142
+17-166
+29-78
+15-164
+27-76
+27-76
+27-176
+37-186
+37-186
+7-56
+21-20
+41-40
+41-140
+11-160
+9-158
+39-138
+39-138
+33-132
+Line 271: CLEAVE 30
+45-194
+35-184
+31-80
+47-96
+13-62
+13-112
+43-92
+43-142
+17-166
+29-78
+15-164
+27-76
+27-76
+27-176
+37-186
+37-186
+7-56
+21-20
+41-40
+41-140
+11-160
+9-158
+39-138
+39-138
+33-132
+Line 272: KEITEIKEN 46
+194-45
+56-7
+184-35
+158-9
+80-31
+166-17
+164-15
+20-21
+160-11
+132-33
+96-47
+78-29
+142-43
+92-43
+140-41
+40-41
+112-13
+62-13
+186-37
+186-37
+138-39
+138-39
+176-27
+76-27
+76-27
+Heap_before_KEITEIKEN : {ID=45,Len=1} {ID=35,Len=1} {ID=7,Len=1} {ID=31,Len=1} {ID=15,Len=1} {ID=21,Len=1} {ID=9,Len=1} {ID=47,Len=1} {ID=17,Len=1} {ID=27,Len=3} {ID=37,Len=2} {ID=41,Len=2} {ID=11,Len=1} {ID=39,Len=2} {ID=33,Len=1} {ID=13,Len=2} {ID=43,Len=2} {ID=29,Len=1} 
+customers_before_KEITEIKEN : 
+AreaTable ID=45 : 194 
+AreaTable ID=35 : 184 
+AreaTable ID=7 : 56 
+AreaTable ID=31 : 80 
+AreaTable ID=15 : 164 
+AreaTable ID=21 : 20 
+AreaTable ID=9 : 158 
+AreaTable ID=47 : 96 
+AreaTable ID=17 : 166 
+AreaTable ID=27 : 76 76 176 
+AreaTable ID=37 : 186 186 
+AreaTable ID=41 : 40 140 
+AreaTable ID=11 : 160 
+AreaTable ID=39 : 138 138 
+AreaTable ID=33 : 132 
+AreaTable ID=13 : 62 112 
+AreaTable ID=43 : 92 142 
+AreaTable ID=29 : 78 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 273: CLEAVE 41
+Line 274: LAPSE 26
+Line 275: LAPSE 142
+Line 276: LAPSE 114
+Line 277: LAPSE 134
+Line 278: LAPSE 20
+Line 279: LAPSE 92
+Line 280: LAPSE 0
+Line 281: LAPSE 160
+Line 282: LAPSE 14
+Line 283: LAPSE 158
+Line 284: LAPSE 86
+Line 285: LAPSE 22
+Line 286: LAPSE 94
+Line 287: LAPSE 34
+Line 288: LAPSE 178
+Line 289: LAPSE 146
+Line 290: LAPSE 96
+Line 291: LAPSE 136
+Line 292: LAPSE 102
+Line 293: CLEAVE 9
+27-26
+21-20
+9-158
+43-92
+43-142
+37-136
+37-86
+23-22
+35-34
+35-134
+45-94
+1-0
+29-178
+15-14
+15-114
+47-96
+47-146
+11-160
+3-102
+Line 294: LAPSE 32
+Line 295: LAPSE 96
+Line 296: LAPSE 42
+Line 297: LAPSE 180
+Line 298: CLEAVE 29
+27-26
+21-20
+9-158
+31-180
+43-42
+43-92
+43-142
+37-136
+37-86
+23-22
+35-34
+35-134
+45-94
+1-0
+29-178
+15-14
+15-114
+47-96
+47-96
+47-146
+11-160
+3-102
+33-32
+Line 299: CLEAVE 24
+27-26
+21-20
+9-158
+31-180
+43-42
+43-92
+43-142
+37-136
+37-86
+23-22
+35-34
+35-134
+45-94
+1-0
+29-178
+15-14
+15-114
+47-96
+47-96
+47-146
+11-160
+3-102
+33-32
+Line 300: LAPSE 166
+Line 301: LAPSE 194
+Line 302: LAPSE 28
+Line 303: LAPSE 8
+Line 304: LAPSE 68
+Line 305: LAPSE 64
+Line 306: LAPSE 84
+Line 307: LAPSE 100
+Line 308: LAPSE 94
+Line 309: LAPSE 6
+Line 310: LAPSE 10
+Line 311: LAPSE 44
+Line 312: LAPSE 72
+Line 313: LAPSE 188
+Line 314: LAPSE 44
+Line 315: LAPSE 156
+Line 316: CLEAVE 16
+27-26
+21-20
+31-180
+17-166
+43-42
+43-92
+43-142
+9-8
+9-158
+19-68
+37-136
+37-86
+7-156
+7-6
+39-188
+23-72
+23-22
+35-84
+35-34
+35-134
+45-44
+45-44
+45-94
+45-194
+45-94
+3-102
+29-28
+29-178
+15-64
+15-14
+15-114
+47-96
+47-96
+47-146
+33-32
+1-100
+1-0
+11-10
+11-160
+Line 317: KEITEIKEN 42
+26-27
+20-21
+102-3
+32-33
+180-31
+166-17
+68-19
+188-39
+86-37
+136-37
+178-29
+28-29
+158-9
+8-9
+0-1
+100-1
+160-11
+10-11
+22-23
+72-23
+6-7
+156-7
+146-47
+96-47
+96-47
+142-43
+92-43
+42-43
+114-15
+14-15
+64-15
+134-35
+34-35
+84-35
+94-45
+194-45
+94-45
+44-45
+44-45
+Heap_before_KEITEIKEN : {ID=27,Len=1} {ID=21,Len=1} {ID=3,Len=1} {ID=31,Len=1} {ID=39,Len=1} {ID=29,Len=2} {ID=33,Len=1} {ID=17,Len=1} {ID=19,Len=1} {ID=23,Len=2} {ID=45,Len=5} {ID=15,Len=3} {ID=47,Len=3} {ID=1,Len=2} {ID=11,Len=2} {ID=43,Len=3} {ID=9,Len=2} {ID=37,Len=2} {ID=7,Len=2} {ID=35,Len=3} 
+customers_before_KEITEIKEN : 
+AreaTable ID=27 : 26 
+AreaTable ID=21 : 20 
+AreaTable ID=3 : 102 
+AreaTable ID=31 : 180 
+AreaTable ID=39 : 188 
+AreaTable ID=29 : 28 178 
+AreaTable ID=33 : 32 
+AreaTable ID=17 : 166 
+AreaTable ID=19 : 68 
+AreaTable ID=23 : 72 22 
+AreaTable ID=45 : 44 44 94 194 94 
+AreaTable ID=15 : 64 14 114 
+AreaTable ID=47 : 96 96 146 
+AreaTable ID=1 : 100 0 
+AreaTable ID=11 : 10 160 
+AreaTable ID=43 : 42 92 142 
+AreaTable ID=9 : 8 158 
+AreaTable ID=37 : 136 86 
+AreaTable ID=7 : 156 6 
+AreaTable ID=35 : 84 34 134 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 318: CLEAVE 31
+Line 319: LAPSE 2
+Line 320: LAPSE 132
+Line 321: LAPSE 44
+Line 322: CLEAVE 48
+3-2
+33-132
+45-44
+Line 323: LAPSE 30
+Line 324: LAPSE 4
+Line 325: LAPSE 30
+Line 326: LAPSE 172
+Line 327: LAPSE 172
+Line 328: LAPSE 170
+Line 329: LAPSE 144
+Line 330: LAPSE 74
+Line 331: CLEAVE 2
+3-2
+33-132
+25-74
+31-30
+31-30
+5-4
+21-170
+23-172
+23-172
+45-144
+45-44
+Line 332: KEITEIKEN 14
+2-3
+132-33
+4-5
+170-21
+74-25
+30-31
+30-31
+172-23
+172-23
+44-45
+144-45
+Heap_before_KEITEIKEN : {ID=3,Len=1} {ID=33,Len=1} {ID=21,Len=1} {ID=25,Len=1} {ID=5,Len=1} {ID=23,Len=2} {ID=45,Len=2} {ID=31,Len=2} 
+customers_before_KEITEIKEN : 
+AreaTable ID=3 : 2 
+AreaTable ID=33 : 132 
+AreaTable ID=21 : 170 
+AreaTable ID=25 : 74 
+AreaTable ID=5 : 4 
+AreaTable ID=23 : 172 172 
+AreaTable ID=45 : 144 44 
+AreaTable ID=31 : 30 30 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 333: CLEAVE 49
+Line 334: CLEAVE 35
+Line 335: LAPSE 138
+Line 336: LAPSE 194
+Line 337: LAPSE 178
+Line 338: LAPSE 74
+Line 339: LAPSE 76
+Line 340: LAPSE 148
+Line 341: LAPSE 156
+Line 342: LAPSE 186
+Line 343: LAPSE 108
+Line 344: LAPSE 160
+Line 345: LAPSE 152
+Line 346: LAPSE 88
+Line 347: LAPSE 172
+Line 348: LAPSE 16
+Line 349: LAPSE 102
+Line 350: LAPSE 74
+Line 351: LAPSE 194
+Line 352: LAPSE 108
+Line 353: CLEAVE 28
+29-178
+27-76
+37-186
+39-88
+39-138
+9-108
+9-108
+11-160
+25-74
+25-74
+3-102
+3-152
+49-148
+23-172
+45-194
+45-194
+17-16
+7-156
+Line 354: KEITEIKEN 50
+178-29
+76-27
+148-49
+156-7
+186-37
+160-11
+172-23
+16-17
+138-39
+88-39
+152-3
+102-3
+74-25
+74-25
+194-45
+194-45
+108-9
+108-9
+Heap_before_KEITEIKEN : {ID=29,Len=1} {ID=27,Len=1} {ID=49,Len=1} {ID=37,Len=1} {ID=11,Len=1} {ID=23,Len=1} {ID=7,Len=1} {ID=39,Len=2} {ID=9,Len=2} {ID=25,Len=2} {ID=3,Len=2} {ID=45,Len=2} {ID=17,Len=1} 
+customers_before_KEITEIKEN : 
+AreaTable ID=29 : 178 
+AreaTable ID=27 : 76 
+AreaTable ID=49 : 148 
+AreaTable ID=37 : 186 
+AreaTable ID=11 : 160 
+AreaTable ID=23 : 172 
+AreaTable ID=7 : 156 
+AreaTable ID=39 : 88 138 
+AreaTable ID=9 : 108 108 
+AreaTable ID=25 : 74 74 
+AreaTable ID=3 : 102 152 
+AreaTable ID=45 : 194 194 
+AreaTable ID=17 : 16 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 355: CLEAVE 8
+Line 356: LAPSE 198
+Line 357: LAPSE 44
+Line 358: LAPSE 92
+Line 359: LAPSE 56
+Line 360: LAPSE 52
+Line 361: LAPSE 122
+Line 362: LAPSE 48
+Line 363: LAPSE 12
+Line 364: LAPSE 62
+Line 365: LAPSE 152
+Line 366: LAPSE 102
+Line 367: LAPSE 184
+Line 368: LAPSE 186
+Line 369: LAPSE 8
+Line 370: LAPSE 86
+Line 371: LAPSE 62
+Line 372: LAPSE 154
+Line 373: LAPSE 80
+Line 374: LAPSE 50
+Line 375: LAPSE 40
+Line 376: LAPSE 8
+Line 377: LAPSE 80
+Line 378: LAPSE 70
+Line 379: LAPSE 40
+Line 380: LAPSE 48
+Line 381: LAPSE 6
+Line 382: LAPSE 152
+Line 383: LAPSE 132
+Line 384: LAPSE 58
+Line 385: LAPSE 4
+Line 386: LAPSE 52
+Line 387: LAPSE 16
+Line 388: LAPSE 14
+Line 389: LAPSE 148
+Line 390: LAPSE 190
+Line 391: LAPSE 8
+Line 392: LAPSE 98
+Line 393: LAPSE 98
+Line 394: LAPSE 48
+Line 395: LAPSE 50
+Line 396: LAPSE 134
+Line 397: LAPSE 14
+Line 398: LAPSE 168
+Line 399: CLEAVE 48
+45-44
+33-132
+17-16
+37-86
+37-186
+49-48
+49-98
+49-98
+49-148
+49-48
+49-48
+49-198
+35-134
+35-184
+19-168
+15-14
+15-14
+7-6
+7-56
+5-4
+5-154
+3-52
+3-152
+3-102
+3-152
+3-52
+9-8
+9-58
+9-8
+9-8
+43-92
+23-122
+31-80
+31-80
+1-50
+1-50
+21-70
+13-62
+13-62
+13-12
+41-190
+41-40
+41-40
+Line 400: LAPSE 104
+Line 401: LAPSE 84
+Line 402: LAPSE 174
+Line 403: LAPSE 104
+Line 404: LAPSE 90
+Line 405: LAPSE 98
+Line 406: LAPSE 16
+Line 407: LAPSE 160
+Line 408: LAPSE 118
+Line 409: LAPSE 58
+Line 410: LAPSE 152
+Line 411: LAPSE 154
+Line 412: LAPSE 140
+Line 413: LAPSE 152
+Line 414: LAPSE 120
+Line 415: LAPSE 22
+Line 416: LAPSE 196
+Line 417: LAPSE 86
+Line 418: LAPSE 104
+Line 419: LAPSE 104
+Line 420: LAPSE 170
+Line 421: LAPSE 150
+Line 422: LAPSE 172
+Line 423: LAPSE 96
+Line 424: LAPSE 28
+Line 425: LAPSE 34
+Line 426: LAPSE 30
+Line 427: LAPSE 198
+Line 428: LAPSE 26
+Line 429: LAPSE 6
+Line 430: LAPSE 112
+Line 431: LAPSE 4
+Line 432: LAPSE 26
+Line 433: LAPSE 62
+Line 434: LAPSE 140
+Line 435: LAPSE 16
+Line 436: LAPSE 186
+Line 437: LAPSE 128
+Line 438: LAPSE 182
+Line 439: LAPSE 30
+Line 440: LAPSE 172
+Line 441: LAPSE 100
+Line 442: LAPSE 66
+Line 443: LAPSE 142
+Line 444: LAPSE 38
+Line 445: LAPSE 164
+Line 446: LAPSE 138
+Line 447: LAPSE 58
+Line 448: LAPSE 114
+Line 449: LAPSE 74
+Line 450: LAPSE 28
+Line 451: LAPSE 36
+Line 452: LAPSE 40
+Line 453: LAPSE 86
+Line 454: LAPSE 196
+Line 455: CLEAVE 24
+45-44
+11-160
+19-118
+19-168
+35-34
+35-84
+35-134
+35-184
+49-198
+49-98
+49-48
+49-98
+49-98
+49-148
+49-48
+49-48
+49-198
+15-114
+15-164
+15-14
+15-14
+7-6
+7-6
+7-56
+17-66
+17-16
+17-16
+17-16
+37-86
+37-36
+37-186
+37-86
+37-86
+37-186
+33-182
+33-132
+47-196
+47-96
+47-196
+3-152
+3-152
+3-52
+3-152
+3-102
+3-152
+3-52
+5-4
+5-104
+5-104
+5-154
+5-104
+5-104
+5-4
+5-154
+25-74
+25-174
+9-58
+9-58
+9-8
+9-58
+9-8
+9-8
+29-28
+29-128
+29-28
+27-26
+27-26
+43-142
+43-92
+39-138
+39-38
+1-100
+1-150
+1-50
+1-50
+23-172
+23-172
+23-22
+23-122
+31-30
+31-30
+31-80
+31-80
+21-170
+21-120
+21-70
+13-62
+13-112
+13-62
+13-62
+13-12
+41-40
+41-140
+41-140
+41-90
+41-190
+41-40
+41-40
+Line 456: KEITEIKEN 36
+44-45
+160-11
+168-19
+118-19
+26-27
+26-27
+132-33
+182-33
+92-43
+142-43
+38-39
+138-39
+174-25
+74-25
+70-21
+120-21
+170-21
+56-7
+6-7
+6-7
+28-29
+128-29
+28-29
+196-47
+96-47
+196-47
+184-35
+134-35
+84-35
+34-35
+80-31
+80-31
+30-31
+30-31
+122-23
+22-23
+172-23
+172-23
+50-1
+50-1
+150-1
+100-1
+16-17
+16-17
+16-17
+66-17
+14-15
+14-15
+164-15
+114-15
+12-13
+62-13
+62-13
+112-13
+62-13
+8-9
+8-9
+58-9
+8-9
+58-9
+58-9
+186-37
+86-37
+86-37
+186-37
+36-37
+86-37
+52-3
+152-3
+102-3
+152-3
+52-3
+152-3
+152-3
+40-41
+40-41
+190-41
+90-41
+140-41
+140-41
+40-41
+154-5
+4-5
+104-5
+104-5
+154-5
+104-5
+104-5
+4-5
+198-49
+48-49
+48-49
+148-49
+98-49
+98-49
+48-49
+98-49
+198-49
+Heap_before_KEITEIKEN : {ID=45,Len=1} {ID=11,Len=1} {ID=27,Len=2} {ID=19,Len=2} {ID=33,Len=2} {ID=43,Len=2} {ID=21,Len=3} {ID=35,Len=4} {ID=7,Len=3} {ID=47,Len=3} {ID=25,Len=2} {ID=39,Len=2} {ID=31,Len=4} {ID=13,Len=5} {ID=41,Len=7} {ID=49,Len=9} {ID=15,Len=4} {ID=17,Len=4} {ID=37,Len=6} {ID=3,Len=7} {ID=5,Len=8} {ID=9,Len=6} {ID=29,Len=3} {ID=1,Len=4} {ID=23,Len=4} 
+customers_before_KEITEIKEN : 
+AreaTable ID=45 : 44 
+AreaTable ID=11 : 160 
+AreaTable ID=27 : 26 26 
+AreaTable ID=19 : 118 168 
+AreaTable ID=33 : 182 132 
+AreaTable ID=43 : 142 92 
+AreaTable ID=21 : 170 120 70 
+AreaTable ID=35 : 34 84 134 184 
+AreaTable ID=7 : 6 6 56 
+AreaTable ID=47 : 196 96 196 
+AreaTable ID=25 : 74 174 
+AreaTable ID=39 : 138 38 
+AreaTable ID=31 : 30 30 80 80 
+AreaTable ID=13 : 62 112 62 62 12 
+AreaTable ID=41 : 40 140 140 90 190 40 40 
+AreaTable ID=49 : 198 98 48 98 98 148 48 48 198 
+AreaTable ID=15 : 114 164 14 14 
+AreaTable ID=17 : 66 16 16 16 
+AreaTable ID=37 : 86 36 186 86 86 186 
+AreaTable ID=3 : 152 152 52 152 102 152 52 
+AreaTable ID=5 : 4 104 104 154 104 104 4 154 
+AreaTable ID=9 : 58 58 8 58 8 8 
+AreaTable ID=29 : 28 128 28 
+AreaTable ID=1 : 100 150 50 50 
+AreaTable ID=23 : 172 172 22 122 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 457: CLEAVE 28
+Line 458: LAPSE 132
+Line 459: LAPSE 178
+Line 460: LAPSE 122
+Line 461: LAPSE 112
+Line 462: CLEAVE 1
+33-132
+29-178
+13-112
+23-122
+Line 463: LAPSE 90
+Line 464: LAPSE 84
+Line 465: CLEAVE 33
+33-132
+29-178
+13-112
+41-90
+23-122
+35-84
+Line 466: LAPSE 94
+Line 467: LAPSE 148
+Line 468: LAPSE 30
+Line 469: LAPSE 108
+Line 470: LAPSE 46
+Line 471: LAPSE 42
+Line 472: LAPSE 114
+Line 473: LAPSE 36
+Line 474: LAPSE 192
+Line 475: CLEAVE 19
+33-132
+29-178
+13-112
+49-148
+31-30
+41-90
+9-108
+47-46
+23-122
+35-84
+43-192
+43-42
+15-114
+45-94
+37-36
+Line 476: LAPSE 44
+Line 477: LAPSE 64
+Line 478: LAPSE 66
+Line 479: LAPSE 120
+Line 480: LAPSE 130
+Line 481: CLEAVE 29
+33-132
+29-178
+13-112
+49-148
+21-120
+31-130
+31-30
+41-90
+9-108
+47-46
+23-122
+35-84
+43-192
+43-42
+15-64
+15-114
+37-36
+45-44
+45-94
+17-66
+Line 482: KEITEIKEN 29
+132-33
+178-29
+122-23
+112-13
+90-41
+84-35
+148-49
+108-9
+46-47
+36-37
+66-17
+120-21
+42-43
+192-43
+94-45
+44-45
+114-15
+64-15
+30-31
+130-31
+Heap_before_KEITEIKEN : {ID=33,Len=1} {ID=29,Len=1} {ID=23,Len=1} {ID=13,Len=1} {ID=41,Len=1} {ID=35,Len=1} {ID=37,Len=1} {ID=49,Len=1} {ID=31,Len=2} {ID=9,Len=1} {ID=47,Len=1} {ID=43,Len=2} {ID=15,Len=2} {ID=45,Len=2} {ID=17,Len=1} {ID=21,Len=1} 
+customers_before_KEITEIKEN : 
+AreaTable ID=33 : 132 
+AreaTable ID=29 : 178 
+AreaTable ID=23 : 122 
+AreaTable ID=13 : 112 
+AreaTable ID=41 : 90 
+AreaTable ID=35 : 84 
+AreaTable ID=37 : 36 
+AreaTable ID=49 : 148 
+AreaTable ID=31 : 130 30 
+AreaTable ID=9 : 108 
+AreaTable ID=47 : 46 
+AreaTable ID=43 : 192 42 
+AreaTable ID=15 : 64 114 
+AreaTable ID=45 : 44 94 
+AreaTable ID=17 : 66 
+AreaTable ID=21 : 120 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 483: CLEAVE 42
+Line 484: LAPSE 172
+Line 485: LAPSE 160
+Line 486: LAPSE 182
+Line 487: LAPSE 18
+Line 488: LAPSE 102
+Line 489: LAPSE 184
+Line 490: LAPSE 144
+Line 491: LAPSE 152
+Line 492: LAPSE 180
+Line 493: CLEAVE 5
+23-172
+11-160
+19-18
+31-180
+3-152
+3-102
+33-182
+35-184
+45-144
+Line 494: LAPSE 2
+Line 495: CLEAVE 3
+23-172
+11-160
+19-18
+31-180
+3-2
+3-152
+3-102
+33-182
+35-184
+45-144
+Line 496: LAPSE 66
+Line 497: LAPSE 30
+Line 498: LAPSE 132
+Line 499: LAPSE 90
+Line 500: LAPSE 154
+Line 501: LAPSE 44
+Line 502: LAPSE 166
+Line 503: LAPSE 126
+Line 504: LAPSE 146
+Line 505: LAPSE 104
+Line 506: LAPSE 106
+Line 507: LAPSE 160
+Line 508: LAPSE 6
+Line 509: LAPSE 136
+Line 510: LAPSE 54
+Line 511: LAPSE 96
+Line 512: LAPSE 120
+Line 513: CLEAVE 7
+23-172
+19-18
+21-120
+31-30
+31-180
+11-160
+11-160
+17-166
+17-66
+41-90
+3-2
+3-152
+3-102
+5-54
+5-104
+5-154
+35-184
+27-126
+33-132
+33-182
+47-96
+47-146
+37-136
+7-6
+7-106
+45-44
+45-144
+Line 514: KEITEIKEN 9
+172-23
+18-19
+184-35
+90-41
+126-27
+136-37
+120-21
+180-31
+30-31
+182-33
+132-33
+Heap_before_KEITEIKEN : {ID=23,Len=1} {ID=19,Len=1} {ID=35,Len=1} {ID=21,Len=1} {ID=41,Len=1} {ID=27,Len=1} {ID=37,Len=1} {ID=31,Len=2} {ID=17,Len=2} {ID=3,Len=3} {ID=5,Len=3} {ID=33,Len=2} {ID=47,Len=2} {ID=7,Len=2} {ID=45,Len=2} {ID=11,Len=2} 
+customers_before_KEITEIKEN : 
+AreaTable ID=23 : 172 
+AreaTable ID=19 : 18 
+AreaTable ID=35 : 184 
+AreaTable ID=21 : 120 
+AreaTable ID=41 : 90 
+AreaTable ID=27 : 126 
+AreaTable ID=37 : 136 
+AreaTable ID=31 : 30 180 
+AreaTable ID=17 : 166 66 
+AreaTable ID=3 : 2 152 102 
+AreaTable ID=5 : 54 104 154 
+AreaTable ID=33 : 132 182 
+AreaTable ID=47 : 96 146 
+AreaTable ID=7 : 6 106 
+AreaTable ID=45 : 44 144 
+AreaTable ID=11 : 160 160 
+Heap_after_KEITEIKEN : {ID=45,Len=2} {ID=17,Len=2} {ID=47,Len=2} {ID=7,Len=2} {ID=11,Len=2} {ID=5,Len=3} {ID=3,Len=3} 
+customers_after_KEITEIKEN : 
+AreaTable ID=45 : 44 144 
+AreaTable ID=17 : 166 66 
+AreaTable ID=47 : 96 146 
+AreaTable ID=7 : 6 106 
+AreaTable ID=11 : 160 160 
+AreaTable ID=5 : 54 104 154 
+AreaTable ID=3 : 2 152 102 
+Line 515: CLEAVE 40
+45-44
+45-144
+17-166
+17-66
+7-6
+7-106
+11-160
+11-160
+47-96
+47-146
+5-54
+5-104
+5-154
+3-2
+3-152
+3-102
+Line 516: LAPSE 172
+Line 517: LAPSE 148
+Line 518: LAPSE 150
+Line 519: CLEAVE 2
+23-172
+49-148
+45-44
+45-144
+7-6
+7-106
+17-166
+17-66
+1-150
+11-160
+11-160
+47-96
+47-146
+5-54
+5-104
+3-2
+3-152
+Line 520: LAPSE 68
+Line 521: LAPSE 68
+Line 522: LAPSE 132
+Line 523: LAPSE 46
+Line 524: LAPSE 178
+Line 525: LAPSE 40
+Line 526: LAPSE 110
+Line 527: LAPSE 98
+Line 528: CLEAVE 34
+23-172
+1-150
+45-44
+45-144
+7-6
+7-106
+17-166
+17-66
+19-68
+19-68
+11-110
+11-160
+11-160
+49-98
+49-148
+33-132
+29-178
+47-46
+47-96
+47-146
+5-54
+5-104
+5-154
+41-40
+3-2
+3-152
+3-102
+Line 529: KEITEIKEN 23
+172-23
+150-1
+132-33
+178-29
+40-41
+144-45
+44-45
+66-17
+166-17
+106-7
+6-7
+68-19
+68-19
+148-49
+98-49
+102-3
+152-3
+2-3
+154-5
+104-5
+54-5
+146-47
+96-47
+46-47
+160-11
+160-11
+110-11
+Heap_before_KEITEIKEN : {ID=23,Len=1} {ID=1,Len=1} {ID=33,Len=1} {ID=45,Len=2} {ID=19,Len=2} {ID=29,Len=1} {ID=41,Len=1} {ID=7,Len=2} {ID=17,Len=2} {ID=11,Len=3} {ID=49,Len=2} {ID=47,Len=3} {ID=5,Len=3} {ID=3,Len=3} 
+customers_before_KEITEIKEN : 
+AreaTable ID=23 : 172 
+AreaTable ID=1 : 150 
+AreaTable ID=33 : 132 
+AreaTable ID=45 : 44 144 
+AreaTable ID=19 : 68 68 
+AreaTable ID=29 : 178 
+AreaTable ID=41 : 40 
+AreaTable ID=7 : 6 106 
+AreaTable ID=17 : 166 66 
+AreaTable ID=11 : 110 160 160 
+AreaTable ID=49 : 98 148 
+AreaTable ID=47 : 46 96 146 
+AreaTable ID=5 : 54 104 154 
+AreaTable ID=3 : 2 152 102 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 530: CLEAVE 22
+Line 531: CLEAVE 50
+Line 532: LAPSE 44
+Line 533: LAPSE 50
+Line 534: LAPSE 20
+Line 535: LAPSE 110
+Line 536: LAPSE 116
+Line 537: LAPSE 74
+Line 538: LAPSE 136
+Line 539: LAPSE 166
+Line 540: LAPSE 190
+Line 541: CLEAVE 16
+45-44
+1-50
+11-110
+41-190
+17-166
+17-116
+21-20
+25-74
+37-136
+Line 542: KEITEIKEN 36
+44-45
+50-1
+20-21
+110-11
+74-25
+136-37
+190-41
+116-17
+166-17
+Heap_before_KEITEIKEN : {ID=45,Len=1} {ID=1,Len=1} {ID=21,Len=1} {ID=11,Len=1} {ID=17,Len=2} {ID=25,Len=1} {ID=37,Len=1} {ID=41,Len=1} 
+customers_before_KEITEIKEN : 
+AreaTable ID=45 : 44 
+AreaTable ID=1 : 50 
+AreaTable ID=21 : 20 
+AreaTable ID=11 : 110 
+AreaTable ID=17 : 166 116 
+AreaTable ID=25 : 74 
+AreaTable ID=37 : 136 
+AreaTable ID=41 : 190 
+Heap_after_KEITEIKEN : 
+customers_after_KEITEIKEN : 
+Line 543: CLEAVE 21
+Line 544: CLEAVE 50

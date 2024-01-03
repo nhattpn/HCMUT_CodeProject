@@ -1,0 +1,1435 @@
+MAXSIZE 11
+Line 2: LIMITLESS 7
+Line 3: KOKUSEN 
+number_KOKUSEN : 
+root_before_KOKUSEN : 
+root_after_KOKUSEN : 
+Line 4: LIMITLESS 7
+Line 5: LAPSE 13
+Line 6: LAPSE 21
+Line 7: LAPSE 97
+Line 8: LAPSE 55
+Line 9: LAPSE 51
+Line 10: LAPSE 33
+Line 11: LAPSE 99
+Line 12: LAPSE 47
+Line 13: LAPSE 19
+Line 14: LAPSE 47
+Line 15: LAPSE 55
+Line 16: LAPSE 23
+Line 17: LAPSE 99
+Line 18: LAPSE 99
+Line 19: LAPSE 89
+Line 20: LIMITLESS 1
+33
+55
+55
+99
+99
+99
+Line 21: KOKUSEN 
+number_KOKUSEN : 4 1 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 55(33,99(55,99(NULL,99)))
+AreaTable ID=2 : 23(NULL,89)
+AreaTable ID=3 : 13
+AreaTable ID=4 : 47(NULL,47)
+AreaTable ID=8 : 51
+AreaTable ID=9 : 19
+AreaTable ID=10 : 97
+AreaTable ID=11 : 21
+root_after_KOKUSEN : 
+AreaTable ID=1 : 99(NULL,99)
+AreaTable ID=2 : 89
+AreaTable ID=4 : 47
+Line 22: LIMITLESS 1
+99
+99
+Line 23: LAPSE 5
+Line 24: LAPSE 49
+Line 25: LIMITLESS 3
+Line 26: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 99(NULL,99)
+AreaTable ID=2 : 89
+AreaTable ID=4 : 47
+AreaTable ID=6 : 5(NULL,49)
+root_after_KOKUSEN : 
+AreaTable ID=1 : 99
+AreaTable ID=6 : 49
+Line 27: LIMITLESS 3
+Line 28: LAPSE 97
+Line 29: LAPSE 89
+Line 30: LAPSE 75
+Line 31: LAPSE 99
+Line 32: LAPSE 65
+Line 33: LAPSE 77
+Line 34: LAPSE 75
+Line 35: LAPSE 69
+Line 36: LAPSE 13
+Line 37: LAPSE 77
+Line 38: LAPSE 37
+Line 39: LAPSE 45
+Line 40: LAPSE 69
+Line 41: LAPSE 69
+Line 42: LAPSE 59
+Line 43: LAPSE 67
+Line 44: LAPSE 63
+Line 45: LAPSE 71
+Line 46: LAPSE 61
+Line 47: LAPSE 45
+Line 48: LIMITLESS 5
+37
+59
+Line 49: LAPSE 39
+Line 50: LAPSE 41
+Line 51: LIMITLESS 11
+65
+Line 52: KOKUSEN 
+number_KOKUSEN : 3 1 1 1 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 99(77(NULL,77),99)
+AreaTable ID=2 : 89(45(NULL,67(45,NULL)),NULL)
+AreaTable ID=3 : 13
+AreaTable ID=4 : 69(NULL,69(NULL,69))
+AreaTable ID=5 : 37(NULL,59)
+AreaTable ID=6 : 49(NULL,71)
+AreaTable ID=7 : 61(39,NULL)
+AreaTable ID=9 : 63(41,NULL)
+AreaTable ID=10 : 97(75(NULL,75),NULL)
+AreaTable ID=11 : 65
+root_after_KOKUSEN : 
+AreaTable ID=1 : 77
+AreaTable ID=2 : 45(NULL,67(45,NULL))
+AreaTable ID=4 : 69(NULL,69)
+AreaTable ID=5 : 59
+AreaTable ID=6 : 71
+AreaTable ID=7 : 39
+AreaTable ID=9 : 41
+AreaTable ID=10 : 75(NULL,75)
+Line 53: LIMITLESS 11
+Line 54: LAPSE 27
+Line 55: LAPSE 3
+Line 56: LIMITLESS 11
+Line 57: KOKUSEN 
+number_KOKUSEN : 1 1 2 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 77
+AreaTable ID=2 : 45(NULL,67(45,NULL))
+AreaTable ID=4 : 69(3,69)
+AreaTable ID=5 : 59
+AreaTable ID=6 : 71(27,NULL)
+AreaTable ID=7 : 39
+AreaTable ID=9 : 41
+AreaTable ID=10 : 75(NULL,75)
+root_after_KOKUSEN : 
+AreaTable ID=2 : 67(45,NULL)
+AreaTable ID=4 : 3
+AreaTable ID=6 : 27
+AreaTable ID=10 : 75
+Line 58: LIMITLESS 11
+Line 59: LAPSE 9
+Line 60: LAPSE 45
+Line 61: LAPSE 73
+Line 62: LAPSE 5
+Line 63: LIMITLESS 9
+Line 64: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 67(45(NULL,45),NULL)
+AreaTable ID=4 : 3
+AreaTable ID=6 : 27(5,NULL)
+AreaTable ID=8 : 73
+AreaTable ID=10 : 75(9,NULL)
+root_after_KOKUSEN : 
+AreaTable ID=2 : 45(NULL,45)
+AreaTable ID=6 : 5
+AreaTable ID=10 : 9
+Line 65: LIMITLESS 9
+Line 66: LAPSE 43
+Line 67: LAPSE 39
+Line 68: LAPSE 33
+Line 69: LIMITLESS 10
+9
+Line 70: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 33
+AreaTable ID=2 : 45(NULL,45)
+AreaTable ID=6 : 5
+AreaTable ID=7 : 39
+AreaTable ID=10 : 9
+AreaTable ID=11 : 43
+root_after_KOKUSEN : 
+AreaTable ID=2 : 45
+Line 71: LIMITLESS 10
+Line 72: LAPSE 57
+Line 73: LAPSE 83
+Line 74: LAPSE 33
+Line 75: LAPSE 55
+Line 76: LIMITLESS 3
+57
+Line 77: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 33(NULL,55)
+AreaTable ID=2 : 45
+AreaTable ID=3 : 57
+AreaTable ID=7 : 83
+root_after_KOKUSEN : 
+AreaTable ID=1 : 55
+Line 78: LIMITLESS 3
+Line 79: LAPSE 95
+Line 80: LAPSE 67
+Line 81: LIMITLESS 11
+Line 82: KOKUSEN 
+number_KOKUSEN : 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 55
+AreaTable ID=2 : 67
+AreaTable ID=8 : 95
+root_after_KOKUSEN : 
+Line 83: LIMITLESS 11
+Line 84: LIMITLESS 7
+Line 85: KOKUSEN 
+number_KOKUSEN : 
+root_before_KOKUSEN : 
+root_after_KOKUSEN : 
+Line 86: LIMITLESS 7
+Line 87: LAPSE 95
+Line 88: LAPSE 63
+Line 89: LAPSE 71
+Line 90: LAPSE 55
+Line 91: LAPSE 63
+Line 92: LAPSE 45
+Line 93: LAPSE 27
+Line 94: LAPSE 27
+Line 95: LAPSE 35
+Line 96: LAPSE 11
+Line 97: LAPSE 85
+Line 98: LAPSE 29
+Line 99: LAPSE 1
+Line 100: LAPSE 93
+Line 101: LAPSE 57
+Line 102: LAPSE 11
+Line 103: LAPSE 93
+Line 104: LAPSE 83
+Line 105: LAPSE 3
+Line 106: LAPSE 81
+Line 107: LIMITLESS 6
+27
+27
+71
+93
+93
+Line 108: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 6 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 55(11(NULL,11),NULL)
+AreaTable ID=2 : 45(1,NULL)
+AreaTable ID=3 : 35(NULL,57)
+AreaTable ID=4 : 3
+AreaTable ID=5 : 81
+AreaTable ID=6 : 71(27(NULL,27),93(NULL,93))
+AreaTable ID=7 : 83
+AreaTable ID=8 : 95(29,NULL)
+AreaTable ID=9 : 63(NULL,63(NULL,85))
+root_after_KOKUSEN : 
+AreaTable ID=1 : 11(NULL,11)
+AreaTable ID=2 : 1
+AreaTable ID=3 : 57
+AreaTable ID=8 : 29
+AreaTable ID=9 : 63(NULL,85)
+Line 109: LIMITLESS 6
+Line 110: LAPSE 43
+Line 111: LAPSE 51
+Line 112: LIMITLESS 4
+Line 113: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 11(NULL,11)
+AreaTable ID=2 : 1
+AreaTable ID=3 : 57
+AreaTable ID=8 : 29(NULL,51)
+AreaTable ID=9 : 63(NULL,85)
+AreaTable ID=11 : 43
+root_after_KOKUSEN : 
+AreaTable ID=1 : 11
+AreaTable ID=8 : 51
+AreaTable ID=9 : 85
+Line 114: LIMITLESS 4
+Line 115: LAPSE 73
+Line 116: LAPSE 59
+Line 117: LAPSE 87
+Line 118: LAPSE 23
+Line 119: LAPSE 3
+Line 120: LAPSE 3
+Line 121: LAPSE 65
+Line 122: LAPSE 69
+Line 123: LAPSE 67
+Line 124: LAPSE 1
+Line 125: LAPSE 5
+Line 126: LAPSE 53
+Line 127: LAPSE 7
+Line 128: LAPSE 41
+Line 129: LAPSE 35
+Line 130: LAPSE 85
+Line 131: LAPSE 21
+Line 132: LAPSE 97
+Line 133: LIMITLESS 7
+Line 134: KOKUSEN 
+number_KOKUSEN : 1 2 1 1 1 1 2 2 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 11
+AreaTable ID=2 : 23(1,67)
+AreaTable ID=3 : 35
+AreaTable ID=4 : 3(NULL,3(NULL,69))
+AreaTable ID=5 : 59
+AreaTable ID=6 : 5
+AreaTable ID=8 : 51(7,73)
+AreaTable ID=9 : 85(41,85)
+AreaTable ID=10 : 53(NULL,97)
+AreaTable ID=11 : 87(65(21,NULL),NULL)
+root_after_KOKUSEN : 
+AreaTable ID=2 : 1
+AreaTable ID=4 : 3(NULL,69)
+AreaTable ID=8 : 7
+AreaTable ID=9 : 85
+AreaTable ID=10 : 97
+AreaTable ID=11 : 65(21,NULL)
+Line 135: LIMITLESS 7
+Line 136: LAPSE 31
+Line 137: LAPSE 5
+Line 138: LAPSE 35
+Line 139: LAPSE 77
+Line 140: LAPSE 77
+Line 141: LAPSE 85
+Line 142: LAPSE 29
+Line 143: LAPSE 83
+Line 144: LAPSE 37
+Line 145: LAPSE 53
+Line 146: LAPSE 77
+Line 147: LIMITLESS 6
+5
+Line 148: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 77(NULL,77(NULL,77))
+AreaTable ID=2 : 1
+AreaTable ID=3 : 35
+AreaTable ID=4 : 3(NULL,69)
+AreaTable ID=5 : 37
+AreaTable ID=6 : 5
+AreaTable ID=7 : 83
+AreaTable ID=8 : 7(NULL,29)
+AreaTable ID=9 : 85(NULL,85)
+AreaTable ID=10 : 97(31(NULL,53),NULL)
+AreaTable ID=11 : 65(21,NULL)
+root_after_KOKUSEN : 
+AreaTable ID=1 : 77(NULL,77)
+AreaTable ID=4 : 69
+AreaTable ID=8 : 29
+AreaTable ID=9 : 85
+AreaTable ID=10 : 31(NULL,53)
+AreaTable ID=11 : 21
+Line 149: LIMITLESS 6
+Line 150: LIMITLESS 9
+85
+Line 151: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 77(NULL,77)
+AreaTable ID=4 : 69
+AreaTable ID=8 : 29
+AreaTable ID=9 : 85
+AreaTable ID=10 : 31(NULL,53)
+AreaTable ID=11 : 21
+root_after_KOKUSEN : 
+AreaTable ID=1 : 77
+AreaTable ID=10 : 53
+Line 152: LIMITLESS 9
+Line 153: LAPSE 29
+Line 154: LAPSE 87
+Line 155: LAPSE 17
+Line 156: LAPSE 71
+Line 157: LAPSE 85
+Line 158: LAPSE 15
+Line 159: LIMITLESS 4
+Line 160: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 77
+AreaTable ID=5 : 15
+AreaTable ID=6 : 71
+AreaTable ID=7 : 17
+AreaTable ID=8 : 29
+AreaTable ID=9 : 85
+AreaTable ID=10 : 53
+AreaTable ID=11 : 87
+root_after_KOKUSEN : 
+Line 161: LIMITLESS 4
+Line 162: LAPSE 79
+Line 163: LAPSE 31
+Line 164: LAPSE 19
+Line 165: LAPSE 93
+Line 166: LAPSE 73
+Line 167: LIMITLESS 3
+79
+Line 168: LIMITLESS 4
+Line 169: LAPSE 17
+Line 170: LAPSE 59
+Line 171: LAPSE 47
+Line 172: LAPSE 67
+Line 173: LAPSE 77
+Line 174: LAPSE 19
+Line 175: LAPSE 51
+Line 176: LAPSE 29
+Line 177: LAPSE 75
+Line 178: LAPSE 13
+Line 179: LIMITLESS 2
+67
+Line 180: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 77
+AreaTable ID=2 : 67
+AreaTable ID=3 : 79(13,NULL)
+AreaTable ID=4 : 47
+AreaTable ID=5 : 59
+AreaTable ID=6 : 93
+AreaTable ID=7 : 17
+AreaTable ID=8 : 73(51(29,NULL),NULL)
+AreaTable ID=9 : 19(NULL,19)
+AreaTable ID=10 : 31(NULL,75)
+root_after_KOKUSEN : 
+AreaTable ID=3 : 13
+AreaTable ID=8 : 51(29,NULL)
+AreaTable ID=9 : 19
+AreaTable ID=10 : 75
+Line 181: LIMITLESS 2
+Line 182: LIMITLESS 3
+13
+Line 183: LAPSE 51
+Line 184: LAPSE 85
+Line 185: LIMITLESS 3
+13
+Line 186: LAPSE 95
+Line 187: LIMITLESS 9
+19
+85
+Line 188: KOKUSEN 
+number_KOKUSEN : 1 3 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=3 : 13
+AreaTable ID=8 : 51(29,51(NULL,95))
+AreaTable ID=9 : 19(NULL,85)
+AreaTable ID=10 : 75
+root_after_KOKUSEN : 
+AreaTable ID=8 : 95
+AreaTable ID=9 : 85
+Line 189: LIMITLESS 9
+85
+Line 190: LAPSE 95
+Line 191: LAPSE 21
+Line 192: LAPSE 39
+Line 193: LAPSE 69
+Line 194: LAPSE 37
+Line 195: LAPSE 39
+Line 196: LAPSE 65
+Line 197: LAPSE 67
+Line 198: LAPSE 59
+Line 199: LAPSE 63
+Line 200: LAPSE 57
+Line 201: LAPSE 25
+Line 202: LAPSE 39
+Line 203: LAPSE 3
+Line 204: LAPSE 13
+Line 205: LAPSE 1
+Line 206: LAPSE 51
+Line 207: LIMITLESS 7
+39
+39
+39
+Line 208: LAPSE 91
+Line 209: LIMITLESS 5
+37
+59
+Line 210: KOKUSEN 
+number_KOKUSEN : 1 1 3 1 1 2 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 67(1,NULL)
+AreaTable ID=3 : 57(13,NULL)
+AreaTable ID=4 : 69(25(3,NULL),91)
+AreaTable ID=5 : 37(NULL,59)
+AreaTable ID=7 : 39(NULL,39(NULL,39))
+AreaTable ID=8 : 95(51,95)
+AreaTable ID=9 : 85(63,NULL)
+AreaTable ID=11 : 21(NULL,65)
+root_after_KOKUSEN : 
+AreaTable ID=2 : 1
+AreaTable ID=3 : 13
+AreaTable ID=4 : 91
+AreaTable ID=5 : 59
+AreaTable ID=7 : 39(NULL,39)
+AreaTable ID=8 : 51
+AreaTable ID=9 : 63
+AreaTable ID=11 : 65
+Line 211: LIMITLESS 5
+59
+Line 212: LAPSE 63
+Line 213: LAPSE 53
+Line 214: LAPSE 61
+Line 215: LIMITLESS 4
+91
+Line 216: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 1
+AreaTable ID=3 : 13
+AreaTable ID=4 : 91
+AreaTable ID=5 : 59
+AreaTable ID=7 : 39(NULL,39(NULL,61))
+AreaTable ID=8 : 51
+AreaTable ID=9 : 63(NULL,63)
+AreaTable ID=10 : 53
+AreaTable ID=11 : 65
+root_after_KOKUSEN : 
+AreaTable ID=7 : 39(NULL,61)
+AreaTable ID=9 : 63
+Line 217: LIMITLESS 4
+Line 218: LAPSE 71
+Line 219: LAPSE 17
+Line 220: LAPSE 59
+Line 221: LAPSE 85
+Line 222: LAPSE 51
+Line 223: LAPSE 5
+Line 224: LIMITLESS 11
+Line 225: LAPSE 19
+Line 226: LAPSE 63
+Line 227: LIMITLESS 3
+Line 228: LAPSE 99
+Line 229: LAPSE 95
+Line 230: LAPSE 17
+Line 231: LAPSE 31
+Line 232: LAPSE 73
+Line 233: LAPSE 25
+Line 234: LIMITLESS 5
+59
+Line 235: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 3 1 3 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 99
+AreaTable ID=4 : 25
+AreaTable ID=5 : 59
+AreaTable ID=6 : 71(5,NULL)
+AreaTable ID=7 : 39(17(NULL,17),61)
+AreaTable ID=8 : 51(NULL,95(73,NULL))
+AreaTable ID=9 : 63(19,85(63,NULL))
+AreaTable ID=10 : 31
+root_after_KOKUSEN : 
+AreaTable ID=6 : 5
+AreaTable ID=7 : 17
+AreaTable ID=8 : 95(73,NULL)
+AreaTable ID=9 : 63
+Line 236: LIMITLESS 5
+Line 237: LIMITLESS 5
+Line 238: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=6 : 5
+AreaTable ID=7 : 17
+AreaTable ID=8 : 95(73,NULL)
+AreaTable ID=9 : 63
+root_after_KOKUSEN : 
+AreaTable ID=8 : 73
+Line 239: LIMITLESS 5
+Line 240: LAPSE 67
+Line 241: LAPSE 91
+Line 242: LAPSE 69
+Line 243: LAPSE 69
+Line 244: LAPSE 81
+Line 245: LIMITLESS 6
+Line 246: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 67
+AreaTable ID=4 : 91(69(NULL,69),NULL)
+AreaTable ID=5 : 81
+AreaTable ID=8 : 73
+root_after_KOKUSEN : 
+AreaTable ID=4 : 69(NULL,69)
+Line 247: LIMITLESS 6
+Line 248: LIMITLESS 3
+Line 249: LAPSE 57
+Line 250: LAPSE 71
+Line 251: LAPSE 37
+Line 252: LAPSE 97
+Line 253: LAPSE 93
+Line 254: LAPSE 17
+Line 255: LAPSE 91
+Line 256: LAPSE 19
+Line 257: LAPSE 25
+Line 258: LIMITLESS 9
+19
+Line 259: KOKUSEN 
+number_KOKUSEN : 1 3 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=3 : 57
+AreaTable ID=4 : 69(25,69(NULL,91))
+AreaTable ID=5 : 37
+AreaTable ID=6 : 71(NULL,93)
+AreaTable ID=7 : 17
+AreaTable ID=9 : 19
+AreaTable ID=10 : 97
+root_after_KOKUSEN : 
+AreaTable ID=4 : 25
+AreaTable ID=6 : 93
+Line 260: LIMITLESS 9
+Line 261: LAPSE 61
+Line 262: LIMITLESS 1
+Line 263: KOKUSEN 
+number_KOKUSEN : 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=4 : 25
+AreaTable ID=6 : 93
+AreaTable ID=7 : 61
+root_after_KOKUSEN : 
+Line 264: LIMITLESS 1
+Line 265: LAPSE 65
+Line 266: LAPSE 47
+Line 267: LAPSE 5
+Line 268: LAPSE 25
+Line 269: LAPSE 31
+Line 270: LAPSE 93
+Line 271: LAPSE 1
+Line 272: LIMITLESS 1
+Line 273: LAPSE 73
+Line 274: LIMITLESS 2
+1
+Line 275: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 1
+AreaTable ID=4 : 47(25,NULL)
+AreaTable ID=6 : 5(NULL,93)
+AreaTable ID=8 : 73
+AreaTable ID=10 : 31
+AreaTable ID=11 : 65
+root_after_KOKUSEN : 
+AreaTable ID=4 : 25
+AreaTable ID=6 : 93
+Line 276: LIMITLESS 2
+Line 277: LAPSE 23
+Line 278: LAPSE 11
+Line 279: LAPSE 1
+Line 280: LIMITLESS 2
+1
+23
+Line 281: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 11
+AreaTable ID=2 : 23(1,NULL)
+AreaTable ID=4 : 25
+AreaTable ID=6 : 93
+root_after_KOKUSEN : 
+AreaTable ID=2 : 1
+Line 282: LIMITLESS 2
+1
+Line 283: LAPSE 53
+Line 284: LAPSE 21
+Line 285: LAPSE 65
+Line 286: LAPSE 85
+Line 287: LAPSE 65
+Line 288: LAPSE 93
+Line 289: LIMITLESS 6
+93
+Line 290: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 1
+AreaTable ID=6 : 93
+AreaTable ID=9 : 85
+AreaTable ID=10 : 53
+AreaTable ID=11 : 21(NULL,65(NULL,65))
+root_after_KOKUSEN : 
+AreaTable ID=11 : 65(NULL,65)
+Line 291: LIMITLESS 6
+Line 292: LAPSE 89
+Line 293: LAPSE 3
+Line 294: LAPSE 81
+Line 295: LAPSE 43
+Line 296: LAPSE 31
+Line 297: LAPSE 3
+Line 298: LAPSE 17
+Line 299: LIMITLESS 3
+Line 300: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 2 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 89
+AreaTable ID=4 : 3(NULL,3)
+AreaTable ID=5 : 81
+AreaTable ID=7 : 17
+AreaTable ID=10 : 31
+AreaTable ID=11 : 65(43,65)
+root_after_KOKUSEN : 
+AreaTable ID=4 : 3
+AreaTable ID=11 : 43
+Line 301: LIMITLESS 3
+Line 302: LAPSE 65
+Line 303: LAPSE 57
+Line 304: LAPSE 55
+Line 305: LIMITLESS 1
+55
+Line 306: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 55
+AreaTable ID=3 : 57
+AreaTable ID=4 : 3
+AreaTable ID=11 : 43(NULL,65)
+root_after_KOKUSEN : 
+AreaTable ID=11 : 65
+Line 307: LIMITLESS 1
+Line 308: LAPSE 39
+Line 309: LAPSE 85
+Line 310: LAPSE 59
+Line 311: LAPSE 59
+Line 312: LAPSE 79
+Line 313: LIMITLESS 6
+Line 314: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=3 : 79
+AreaTable ID=5 : 59(NULL,59)
+AreaTable ID=7 : 39
+AreaTable ID=9 : 85
+AreaTable ID=11 : 65
+root_after_KOKUSEN : 
+AreaTable ID=5 : 59
+Line 315: LIMITLESS 6
+Line 316: LAPSE 43
+Line 317: LAPSE 17
+Line 318: LIMITLESS 7
+17
+Line 319: LIMITLESS 10
+Line 320: LAPSE 37
+Line 321: LAPSE 9
+Line 322: LAPSE 71
+Line 323: LAPSE 79
+Line 324: LAPSE 63
+Line 325: LAPSE 31
+Line 326: LAPSE 5
+Line 327: LAPSE 81
+Line 328: LAPSE 75
+Line 329: LIMITLESS 6
+5
+71
+Line 330: KOKUSEN 
+number_KOKUSEN : 1 2 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=3 : 79
+AreaTable ID=5 : 59(37,81)
+AreaTable ID=6 : 71(5,NULL)
+AreaTable ID=7 : 17
+AreaTable ID=9 : 63
+AreaTable ID=10 : 9(NULL,31(NULL,75))
+AreaTable ID=11 : 43
+root_after_KOKUSEN : 
+AreaTable ID=5 : 81
+AreaTable ID=6 : 5
+AreaTable ID=10 : 31(NULL,75)
+Line 331: LIMITLESS 6
+5
+Line 332: LAPSE 5
+Line 333: LIMITLESS 2
+Line 334: KOKUSEN 
+number_KOKUSEN : 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=5 : 81
+AreaTable ID=6 : 5(NULL,5)
+AreaTable ID=10 : 31(NULL,75)
+root_after_KOKUSEN : 
+AreaTable ID=6 : 5
+AreaTable ID=10 : 75
+Line 335: LIMITLESS 2
+Line 336: LAPSE 23
+Line 337: LAPSE 17
+Line 338: LAPSE 67
+Line 339: LAPSE 61
+Line 340: LAPSE 97
+Line 341: LIMITLESS 11
+Line 342: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 23(NULL,67)
+AreaTable ID=6 : 5
+AreaTable ID=7 : 17(NULL,61)
+AreaTable ID=10 : 75(NULL,97)
+root_after_KOKUSEN : 
+AreaTable ID=2 : 67
+AreaTable ID=7 : 61
+AreaTable ID=10 : 97
+Line 343: LIMITLESS 11
+Line 344: LAPSE 63
+Line 345: LAPSE 83
+Line 346: LAPSE 83
+Line 347: LAPSE 65
+Line 348: LAPSE 75
+Line 349: LAPSE 33
+Line 350: LAPSE 3
+Line 351: LAPSE 87
+Line 352: LAPSE 51
+Line 353: LAPSE 95
+Line 354: LAPSE 63
+Line 355: LAPSE 47
+Line 356: LAPSE 87
+Line 357: LAPSE 65
+Line 358: LAPSE 17
+Line 359: LAPSE 95
+Line 360: LAPSE 5
+Line 361: LAPSE 83
+Line 362: LAPSE 77
+Line 363: LAPSE 85
+Line 364: LAPSE 43
+Line 365: LAPSE 7
+Line 366: LAPSE 9
+Line 367: LAPSE 57
+Line 368: LAPSE 21
+Line 369: LAPSE 3
+Line 370: LAPSE 13
+Line 371: LAPSE 43
+Line 372: LAPSE 53
+Line 373: LAPSE 3
+Line 374: LIMITLESS 3
+13
+57
+Line 375: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 4 3 1 1 3 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 33(NULL,77)
+AreaTable ID=2 : 67
+AreaTable ID=3 : 57(13,NULL)
+AreaTable ID=4 : 3(NULL,47(3(NULL,3),NULL))
+AreaTable ID=6 : 5
+AreaTable ID=7 : 61(17,83(NULL,83(NULL,83)))
+AreaTable ID=8 : 51(7,95(NULL,95))
+AreaTable ID=9 : 63(NULL,63(NULL,85))
+AreaTable ID=10 : 97(75(9(NULL,53),NULL),NULL)
+AreaTable ID=11 : 65(43(21,43),87(65,87))
+root_after_KOKUSEN : 
+AreaTable ID=1 : 77
+AreaTable ID=3 : 13
+AreaTable ID=4 : 47(3(NULL,3),NULL)
+AreaTable ID=7 : 83
+AreaTable ID=8 : 7
+AreaTable ID=9 : 63(NULL,85)
+AreaTable ID=10 : 75(9(NULL,53),NULL)
+AreaTable ID=11 : 65(43(21,43),NULL)
+Line 376: LIMITLESS 3
+13
+Line 377: LAPSE 23
+Line 378: LAPSE 39
+Line 379: LAPSE 19
+Line 380: LAPSE 87
+Line 381: LAPSE 93
+Line 382: LAPSE 11
+Line 383: LAPSE 33
+Line 384: LIMITLESS 10
+9
+53
+75
+Line 385: LAPSE 47
+Line 386: LAPSE 87
+Line 387: LAPSE 3
+Line 388: LIMITLESS 3
+13
+Line 389: KOKUSEN 
+number_KOKUSEN : 1 1 1 4 1 1 1 2 1 9 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 77(11(NULL,33),NULL)
+AreaTable ID=2 : 23
+AreaTable ID=3 : 13
+AreaTable ID=4 : 47(3(NULL,3(NULL,3)),47)
+AreaTable ID=6 : 93
+AreaTable ID=7 : 83(39,NULL)
+AreaTable ID=8 : 7
+AreaTable ID=9 : 63(19,85)
+AreaTable ID=10 : 75(9(NULL,53),NULL)
+AreaTable ID=11 : 65(43(21,43),87(NULL,87))
+root_after_KOKUSEN : 
+AreaTable ID=1 : 11(NULL,33)
+AreaTable ID=4 : 3
+AreaTable ID=7 : 39
+AreaTable ID=9 : 19
+AreaTable ID=10 : 9(NULL,53)
+Line 390: LIMITLESS 3
+Line 391: LIMITLESS 3
+Line 392: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 11(NULL,33)
+AreaTable ID=4 : 3
+AreaTable ID=7 : 39
+AreaTable ID=9 : 19
+AreaTable ID=10 : 9(NULL,53)
+root_after_KOKUSEN : 
+AreaTable ID=1 : 33
+AreaTable ID=10 : 53
+Line 393: LIMITLESS 3
+Line 394: LAPSE 73
+Line 395: LAPSE 77
+Line 396: LAPSE 9
+Line 397: LAPSE 49
+Line 398: LAPSE 77
+Line 399: LAPSE 43
+Line 400: LAPSE 35
+Line 401: LAPSE 93
+Line 402: LAPSE 17
+Line 403: LAPSE 41
+Line 404: LAPSE 11
+Line 405: LAPSE 23
+Line 406: LAPSE 67
+Line 407: LAPSE 13
+Line 408: LAPSE 57
+Line 409: LAPSE 73
+Line 410: LAPSE 47
+Line 411: LAPSE 93
+Line 412: LAPSE 83
+Line 413: LAPSE 71
+Line 414: LAPSE 35
+Line 415: LAPSE 77
+Line 416: LAPSE 41
+Line 417: LAPSE 49
+Line 418: LAPSE 99
+Line 419: LAPSE 11
+Line 420: LIMITLESS 5
+Line 421: KOKUSEN 
+number_KOKUSEN : 4 1 3 1 3 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 33(11(NULL,11),77(NULL,77(NULL,77(NULL,99))))
+AreaTable ID=2 : 23(NULL,67)
+AreaTable ID=3 : 35(13,57(35,NULL))
+AreaTable ID=4 : 47
+AreaTable ID=6 : 49(NULL,93(71(49,NULL),93))
+AreaTable ID=7 : 17(NULL,83)
+AreaTable ID=8 : 73(NULL,73)
+AreaTable ID=9 : 41(NULL,41)
+AreaTable ID=10 : 53(9,NULL)
+AreaTable ID=11 : 43
+root_after_KOKUSEN : 
+AreaTable ID=1 : 77(11,99)
+AreaTable ID=2 : 67
+AreaTable ID=3 : 35
+AreaTable ID=6 : 71(49,NULL)
+AreaTable ID=7 : 83
+AreaTable ID=8 : 73
+AreaTable ID=9 : 41
+AreaTable ID=10 : 9
+Line 422: LIMITLESS 5
+Line 423: LAPSE 65
+Line 424: LAPSE 67
+Line 425: LAPSE 45
+Line 426: LAPSE 13
+Line 427: LAPSE 9
+Line 428: LAPSE 37
+Line 429: LAPSE 33
+Line 430: LAPSE 79
+Line 431: LAPSE 89
+Line 432: LIMITLESS 8
+73
+Line 433: LAPSE 37
+Line 434: LIMITLESS 3
+13
+35
+79
+Line 435: KOKUSEN 
+number_KOKUSEN : 3 3 2 1 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 77(11(NULL,33),99)
+AreaTable ID=2 : 67(45,67(NULL,89))
+AreaTable ID=3 : 35(13,79)
+AreaTable ID=5 : 37(NULL,37)
+AreaTable ID=6 : 71(49,NULL)
+AreaTable ID=7 : 83
+AreaTable ID=8 : 73
+AreaTable ID=9 : 41
+AreaTable ID=10 : 9(NULL,9)
+AreaTable ID=11 : 65
+root_after_KOKUSEN : 
+AreaTable ID=1 : 33
+AreaTable ID=2 : 89
+AreaTable ID=3 : 79
+AreaTable ID=5 : 37
+AreaTable ID=6 : 49
+AreaTable ID=10 : 9
+Line 436: LIMITLESS 3
+79
+Line 437: LAPSE 1
+Line 438: LAPSE 95
+Line 439: LAPSE 37
+Line 440: LAPSE 55
+Line 441: LAPSE 53
+Line 442: LAPSE 11
+Line 443: LAPSE 95
+Line 444: LAPSE 53
+Line 445: LIMITLESS 7
+Line 446: LAPSE 67
+Line 447: LAPSE 63
+Line 448: LAPSE 47
+Line 449: LAPSE 23
+Line 450: LAPSE 45
+Line 451: LAPSE 69
+Line 452: LAPSE 39
+Line 453: LAPSE 85
+Line 454: LAPSE 63
+Line 455: LAPSE 75
+Line 456: LAPSE 41
+Line 457: LAPSE 49
+Line 458: LAPSE 41
+Line 459: LAPSE 95
+Line 460: LAPSE 61
+Line 461: LAPSE 49
+Line 462: LAPSE 89
+Line 463: LAPSE 97
+Line 464: LIMITLESS 9
+41
+41
+63
+63
+85
+Line 465: KOKUSEN 
+number_KOKUSEN : 2 5 1 1 1 1 1 1 6 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 33(11,55)
+AreaTable ID=2 : 89(1(NULL,67(23(NULL,45),NULL)),89)
+AreaTable ID=3 : 79
+AreaTable ID=4 : 47(NULL,69)
+AreaTable ID=5 : 37(NULL,37)
+AreaTable ID=6 : 49(NULL,49(NULL,49))
+AreaTable ID=7 : 39(NULL,61)
+AreaTable ID=8 : 95(NULL,95(NULL,95))
+AreaTable ID=9 : 63(41(NULL,41),85(63,NULL))
+AreaTable ID=10 : 9(NULL,53(NULL,53(NULL,75(NULL,97))))
+root_after_KOKUSEN : 
+AreaTable ID=1 : 11
+AreaTable ID=2 : 89
+AreaTable ID=4 : 69
+AreaTable ID=5 : 37
+AreaTable ID=6 : 49(NULL,49)
+AreaTable ID=7 : 61
+AreaTable ID=8 : 95(NULL,95)
+AreaTable ID=10 : 53(NULL,53(NULL,75(NULL,97)))
+Line 466: LIMITLESS 9
+Line 467: LIMITLESS 10
+53
+53
+75
+97
+Line 468: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 11
+AreaTable ID=2 : 89
+AreaTable ID=4 : 69
+AreaTable ID=5 : 37
+AreaTable ID=6 : 49(NULL,49)
+AreaTable ID=7 : 61
+AreaTable ID=8 : 95(NULL,95)
+AreaTable ID=10 : 53(NULL,53(NULL,75(NULL,97)))
+root_after_KOKUSEN : 
+AreaTable ID=6 : 49
+AreaTable ID=8 : 95
+AreaTable ID=10 : 53(NULL,75(NULL,97))
+Line 469: LIMITLESS 10
+53
+75
+97
+Line 470: LAPSE 59
+Line 471: LAPSE 61
+Line 472: LAPSE 75
+Line 473: LIMITLESS 8
+95
+Line 474: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=5 : 59
+AreaTable ID=6 : 49
+AreaTable ID=7 : 61
+AreaTable ID=8 : 95
+AreaTable ID=10 : 53(NULL,75(NULL,97(75,NULL)))
+root_after_KOKUSEN : 
+AreaTable ID=10 : 75(NULL,97(75,NULL))
+Line 475: LIMITLESS 8
+Line 476: LAPSE 55
+Line 477: LAPSE 31
+Line 478: LAPSE 81
+Line 479: LIMITLESS 10
+31
+75
+75
+97
+Line 480: LAPSE 33
+Line 481: LAPSE 73
+Line 482: LIMITLESS 6
+Line 483: KOKUSEN 
+number_KOKUSEN : 1 1 1 3 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 55(33,NULL)
+AreaTable ID=5 : 81
+AreaTable ID=8 : 73
+AreaTable ID=10 : 75(31,97(75,NULL))
+root_after_KOKUSEN : 
+AreaTable ID=1 : 33
+AreaTable ID=10 : 31
+Line 484: LIMITLESS 6
+Line 485: LAPSE 91
+Line 486: LAPSE 1
+Line 487: LAPSE 95
+Line 488: LAPSE 91
+Line 489: LAPSE 13
+Line 490: LAPSE 1
+Line 491: LAPSE 89
+Line 492: LAPSE 97
+Line 493: LAPSE 11
+Line 494: LAPSE 31
+Line 495: LAPSE 73
+Line 496: LIMITLESS 10
+31
+31
+97
+Line 497: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 33(11,NULL)
+AreaTable ID=2 : 1(NULL,1(NULL,89))
+AreaTable ID=3 : 13
+AreaTable ID=4 : 91(NULL,91)
+AreaTable ID=8 : 95(73,NULL)
+AreaTable ID=10 : 31(NULL,97(31,NULL))
+root_after_KOKUSEN : 
+AreaTable ID=1 : 11
+AreaTable ID=2 : 1(NULL,89)
+AreaTable ID=4 : 91
+AreaTable ID=8 : 73
+AreaTable ID=10 : 97(31,NULL)
+Line 498: LIMITLESS 10
+31
+97
+Line 499: LIMITLESS 2
+1
+89
+Line 500: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 11
+AreaTable ID=2 : 1(NULL,89)
+AreaTable ID=4 : 91
+AreaTable ID=8 : 73
+AreaTable ID=10 : 97(31,NULL)
+root_after_KOKUSEN : 
+AreaTable ID=2 : 89
+AreaTable ID=10 : 31
+Line 501: LIMITLESS 2
+89
+Line 502: LAPSE 23
+Line 503: LIMITLESS 9
+Line 504: KOKUSEN 
+number_KOKUSEN : 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 89(23,NULL)
+AreaTable ID=10 : 31
+root_after_KOKUSEN : 
+AreaTable ID=2 : 23
+Line 505: LIMITLESS 9
+Line 506: LAPSE 55
+Line 507: LAPSE 29
+Line 508: LAPSE 49
+Line 509: LAPSE 79
+Line 510: LAPSE 59
+Line 511: LAPSE 51
+Line 512: LAPSE 59
+Line 513: LAPSE 61
+Line 514: LAPSE 23
+Line 515: LIMITLESS 10
+Line 516: LAPSE 81
+Line 517: LAPSE 47
+Line 518: LAPSE 5
+Line 519: LAPSE 67
+Line 520: LAPSE 65
+Line 521: LIMITLESS 6
+5
+49
+Line 522: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 55
+AreaTable ID=2 : 23(NULL,23(NULL,67))
+AreaTable ID=3 : 79
+AreaTable ID=4 : 47
+AreaTable ID=5 : 59(NULL,59(NULL,81))
+AreaTable ID=6 : 49(5,NULL)
+AreaTable ID=7 : 61
+AreaTable ID=8 : 29(NULL,51)
+AreaTable ID=11 : 65
+root_after_KOKUSEN : 
+AreaTable ID=2 : 23(NULL,67)
+AreaTable ID=5 : 59(NULL,81)
+AreaTable ID=6 : 5
+AreaTable ID=8 : 51
+Line 523: LIMITLESS 6
+5
+Line 524: LAPSE 55
+Line 525: LAPSE 93
+Line 526: LAPSE 39
+Line 527: LAPSE 91
+Line 528: LAPSE 65
+Line 529: LAPSE 27
+Line 530: LAPSE 63
+Line 531: LAPSE 81
+Line 532: LAPSE 65
+Line 533: LIMITLESS 5
+59
+81
+81
+Line 534: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 55
+AreaTable ID=2 : 23(NULL,67)
+AreaTable ID=4 : 91
+AreaTable ID=5 : 59(NULL,81(NULL,81))
+AreaTable ID=6 : 5(NULL,93(27,NULL))
+AreaTable ID=7 : 39
+AreaTable ID=8 : 51
+AreaTable ID=9 : 63
+AreaTable ID=11 : 65(NULL,65)
+root_after_KOKUSEN : 
+AreaTable ID=2 : 67
+AreaTable ID=5 : 81(NULL,81)
+AreaTable ID=6 : 93(27,NULL)
+AreaTable ID=11 : 65
+Line 535: LIMITLESS 5
+81
+81
+Line 536: LAPSE 93
+Line 537: LAPSE 99
+Line 538: LAPSE 27
+Line 539: LAPSE 9
+Line 540: LAPSE 71
+Line 541: LAPSE 85
+Line 542: LAPSE 35
+Line 543: LAPSE 37
+Line 544: LAPSE 19
+Line 545: LAPSE 9
+Line 546: LAPSE 9
+Line 547: LAPSE 85
+Line 548: LAPSE 13
+Line 549: LAPSE 15
+Line 550: LAPSE 99
+Line 551: LAPSE 29
+Line 552: LAPSE 55
+Line 553: LAPSE 3
+Line 554: LAPSE 7
+Line 555: LIMITLESS 1
+55
+99
+99
+Line 556: KOKUSEN 
+number_KOKUSEN : 2 1 1 1 3 4 1 2 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 99(55,99)
+AreaTable ID=2 : 67
+AreaTable ID=3 : 35(13,NULL)
+AreaTable ID=4 : 3
+AreaTable ID=5 : 81(37(15,NULL),81)
+AreaTable ID=6 : 93(27(NULL,27(NULL,71)),93)
+AreaTable ID=8 : 29(7,NULL)
+AreaTable ID=9 : 85(19,85)
+AreaTable ID=10 : 9(NULL,9(NULL,9))
+AreaTable ID=11 : 65
+root_after_KOKUSEN : 
+AreaTable ID=1 : 55
+AreaTable ID=3 : 13
+AreaTable ID=5 : 15
+AreaTable ID=6 : 71
+AreaTable ID=8 : 7
+AreaTable ID=9 : 85
+AreaTable ID=10 : 9(NULL,9)
+Line 557: LIMITLESS 1
+55
+Line 558: LAPSE 79
+Line 559: LAPSE 17
+Line 560: LIMITLESS 4
+Line 561: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 55
+AreaTable ID=3 : 13(NULL,79)
+AreaTable ID=5 : 15
+AreaTable ID=6 : 71
+AreaTable ID=7 : 17
+AreaTable ID=8 : 7
+AreaTable ID=9 : 85
+AreaTable ID=10 : 9(NULL,9)
+root_after_KOKUSEN : 
+AreaTable ID=3 : 79
+AreaTable ID=10 : 9
+Line 562: LIMITLESS 4
+Line 563: LAPSE 29
+Line 564: LIMITLESS 6
+Line 565: KOKUSEN 
+number_KOKUSEN : 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=3 : 79
+AreaTable ID=8 : 29
+AreaTable ID=10 : 9
+root_after_KOKUSEN : 
+Line 566: LIMITLESS 6
+Line 567: LAPSE 27
+Line 568: LIMITLESS 6
+27
+Line 569: KOKUSEN 
+number_KOKUSEN : 1 
+root_before_KOKUSEN : 
+AreaTable ID=6 : 27
+root_after_KOKUSEN : 
+Line 570: LIMITLESS 6
+Line 571: LAPSE 9
+Line 572: LIMITLESS 5
+Line 573: KOKUSEN 
+number_KOKUSEN : 1 
+root_before_KOKUSEN : 
+AreaTable ID=10 : 9
+root_after_KOKUSEN : 
+Line 574: LIMITLESS 5
+Line 575: LAPSE 31
+Line 576: LAPSE 37
+Line 577: LAPSE 51
+Line 578: LAPSE 29
+Line 579: LAPSE 53
+Line 580: LAPSE 57
+Line 581: LAPSE 35
+Line 582: LAPSE 67
+Line 583: LAPSE 29
+Line 584: LAPSE 43
+Line 585: LIMITLESS 1
+Line 586: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 67
+AreaTable ID=3 : 57(35,NULL)
+AreaTable ID=5 : 37
+AreaTable ID=8 : 51(29(NULL,29),NULL)
+AreaTable ID=10 : 31(NULL,53)
+AreaTable ID=11 : 43
+root_after_KOKUSEN : 
+AreaTable ID=3 : 35
+AreaTable ID=8 : 29(NULL,29)
+AreaTable ID=10 : 53
+Line 587: LIMITLESS 1
+Line 588: LAPSE 35
+Line 589: LAPSE 39
+Line 590: LAPSE 19
+Line 591: LAPSE 37
+Line 592: LAPSE 29
+Line 593: LIMITLESS 2
+Line 594: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=3 : 35(NULL,35)
+AreaTable ID=5 : 37
+AreaTable ID=7 : 39
+AreaTable ID=8 : 29(NULL,29(NULL,29))
+AreaTable ID=9 : 19
+AreaTable ID=10 : 53
+root_after_KOKUSEN : 
+AreaTable ID=3 : 35
+AreaTable ID=8 : 29(NULL,29)
+Line 595: LIMITLESS 2
+Line 596: LAPSE 83
+Line 597: LAPSE 55
+Line 598: LIMITLESS 4
+Line 599: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 55
+AreaTable ID=3 : 35
+AreaTable ID=7 : 83
+AreaTable ID=8 : 29(NULL,29)
+root_after_KOKUSEN : 
+AreaTable ID=8 : 29
+Line 600: LIMITLESS 4
+Line 601: LAPSE 45
+Line 602: LAPSE 79
+Line 603: LAPSE 93
+Line 604: LAPSE 59
+Line 605: LAPSE 67
+Line 606: LAPSE 5
+Line 607: LAPSE 87
+Line 608: LAPSE 85
+Line 609: LAPSE 57
+Line 610: LAPSE 77
+Line 611: LAPSE 97
+Line 612: LAPSE 81
+Line 613: LAPSE 9
+Line 614: LIMITLESS 1
+77
+Line 615: LIMITLESS 2
+45
+67
+Line 616: LIMITLESS 3
+57
+79
+Line 617: LIMITLESS 4
+Line 618: LIMITLESS 5
+59
+81
+Line 619: LIMITLESS 6
+5
+93
+Line 620: LIMITLESS 7
+Line 621: LIMITLESS 8
+29
+Line 622: LIMITLESS 9
+85
+Line 623: LIMITLESS 10
+9
+97
+Line 624: LIMITLESS 11
+87
+Line 625: KOKUSEN 
+number_KOKUSEN : 1 1 1 1 1 1 1 1 1 
+root_before_KOKUSEN : 
+AreaTable ID=1 : 77
+AreaTable ID=2 : 45(NULL,67)
+AreaTable ID=3 : 79(57,NULL)
+AreaTable ID=5 : 59(NULL,81)
+AreaTable ID=6 : 93(5,NULL)
+AreaTable ID=8 : 29
+AreaTable ID=9 : 85
+AreaTable ID=10 : 97(9,NULL)
+AreaTable ID=11 : 87
+root_after_KOKUSEN : 
+AreaTable ID=2 : 67
+AreaTable ID=3 : 57
+AreaTable ID=5 : 81
+AreaTable ID=6 : 5
+AreaTable ID=10 : 9
+Line 626: LIMITLESS 1
+Line 627: LIMITLESS 2
+67
+Line 628: LIMITLESS 3
+57
+Line 629: LIMITLESS 4
+Line 630: LIMITLESS 5
+81
+Line 631: LIMITLESS 6
+5
+Line 632: LIMITLESS 7
+Line 633: LIMITLESS 8
+Line 634: LIMITLESS 9
+Line 635: LIMITLESS 10
+9
+Line 636: LIMITLESS 11

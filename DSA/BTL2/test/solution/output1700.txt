@@ -1,0 +1,1630 @@
+MAXSIZE 2
+Line 2: LAPSE edetuzcllrtigazbkrvuoijlCnuwyygannjafbdpzzzjpfludbivlik
+freq_LAPSE : {m,9} {q,8} {e,8} {g,5} {y,4} {d,4} {x,3} {v,2} {t,2} {r,2} {i,2} {h,2} {a,2} {D,1} {p,1} 
+result_LAPSE : 885
+root_LAPSE : [30]([13]([5]([2]([1,p],[1,D]),[13]([3,x],[8,e])),[13]([8,q],[8]([4,d],[4,y]))),[17]([8]([4]([2,a],[2,h]),[17]([4]([2,i],[2,r]),[9,m])),[9]([4]([2,t],[2,v]),[5,g])))
+Line 3: LAPSE zhnfYmgpwkk
+freq_LAPSE : {m,2} {Z,1} {x,1} {q,1} {o,1} {n,1} {i,1} {h,1} {g,1} {a,1} 
+result_LAPSE : 732
+root_LAPSE : [11]([4]([2]([1,n],[1,o]),[2]([1,q],[1,x])),[7]([3]([1,Z],[2,m]),[4]([2]([1,a],[1,g]),[2]([1,h],[1,i]))))
+Line 4: LAPSE brardnxIwpuaukRupoxnzx
+freq_LAPSE : {x,4} {a,4} {p,3} {c,3} {t,2} {r,2} {S,1} {J,1} {l,1} {e,1} 
+result_LAPSE : 442
+root_LAPSE : [22]([8]([4]([2,r],[2,t]),[4]([2]([1,e],[1,l]),[2]([1,J],[1,S]))),[14]([6]([3,c],[3,p]),[8]([4,a],[4,x])))
+Line 5: LAPSE psmivxuoQnTwczpcenwzgXxcfoavpahwfhmncddjs
+freq_LAPSE : {z,5} {q,5} {g,4} {s,3} {j,3} {h,3} {f,3} {x,2} {u,2} {o,2} {c,2} {b,2} {Y,1} {U,1} {R,1} {v,1} {k,1} 
+result_LAPSE : 386
+root_LAPSE : [36]([15]([7]([3]([1,Y],[2,b]),[4,g]),[8]([4]([2,c],[2,o]),[4]([2,u],[2,x]))),[21]([9]([4]([2]([1,k],[1,v]),[2]([1,R],[1,U])),[9]([5,q],[5,z])),[12]([6]([3,f],[3,h]),[6]([3,j],[3,s]))))
+Line 6: LAPSE wprflabweyuaoytmkjryopkbegqfhZluqrzlgwruxovfswuvv
+freq_LAPSE : {y,8} {i,6} {r,5} {a,5} {v,4} {o,3} {b,3} {s,2} {m,2} {g,2} {d,2} {c,2} {A,1} {u,1} {t,1} {n,1} {k,1} 
+result_LAPSE : 819
+root_LAPSE : [36]([15]([7]([3]([1,A],[2,c]),[15]([4,v],[8,y])),[8]([4]([2,d],[2,g]),[4]([2,m],[2,s]))),[21]([9]([4]([2]([1,k],[1,n]),[2]([1,t],[1,u])),[9]([5,a],[5,r])),[12]([6,i],[6]([3,b],[3,o]))))
+Line 7: LAPSE ekcndmeGXtagpqtWjitkmxueaicqwauwirxBbxSvzutdgpdtmcitozqpv
+freq_LAPSE : {z,6} {m,6} {x,5} {s,4} {p,4} {t,3} {h,3} {g,3} {f,3} {d,3} {a,3} {y,2} {i,2} {b,2} {Y,1} {X,1} {T,1} {H,1} {C,1} {o,1} {k,1} {c,1} 
+result_LAPSE : 78
+root_LAPSE : [43]([16]([8]([4]([2,y],[2]([1,c],[1,k])),[4]([2]([1,o],[1,C]),[2]([1,H],[1,T]))),[8]([2]([10]([5,x],[1,X]),[5]([1,Y],[3,a])),[8]([6,m],[6,z]))),[27]([12]([6]([3,d],[3,f]),[6]([3,g],[3,h])),[15]([7]([3,t],[4,p]),[8]([4,s],[4]([2,b],[2,i])))))
+Line 8: LAPSE lelosnyyaBbmdoxlzivoeutMHtcwilvompfoogvzgazqwSjdhpqojodepsaekqjejovdhkpwpueubt
+freq_LAPSE : {x,12} {k,8} {z,7} {u,7} {d,6} {p,4} {n,4} {h,4} {w,3} {t,3} {o,3} {c,3} {m,2} {j,2} {i,2} {a,2} {T,1} {N,1} {I,1} {C,1} {y,1} {g,1} 
+result_LAPSE : 143
+root_LAPSE : [37]([66]([29]([14]([7,u],[7,z]),[15]([7]([3,w],[4,h]),[8,k])),[16]([8]([4,n],[4,p]),[8]([4]([2,a],[2,i]),[4]([2,j],[2,m])))),[21]([9]([4]([2]([1,g],[1,y]),[2]([1,C],[1,I])),[5]([2]([1,N],[1,T]),[21]([3,c],[12,x]))),[12]([6,d],[6]([3,o],[3,t]))))
+Line 9: LAPSE naylgsfpoiee
+freq_LAPSE : {g,3} {z,1} {t,1} {q,1} {p,1} {o,1} {m,1} {j,1} {h,1} {b,1} 
+result_LAPSE : 655
+root_LAPSE : [12]([5]([2]([1,q],[1,t]),[3,g]),[7]([3]([1,z],[2]([1,b],[1,h])),[4]([2]([1,j],[1,m]),[2]([1,o],[1,p]))))
+Line 10: LAPSE obvjqvlincwyslshbaizxrrjghUvXwplibpecxxxiehlyVbtbqjoagotqmzbtHjmtivjsxl
+freq_LAPSE : {o,8} {c,7} {h,6} {t,5} {r,5} {q,5} {n,5} {z,4} {x,4} {v,3} {k,3} {y,2} {i,2} {g,2} {e,2} {b,2} {a,2} {Y,1} {W,1} {V,1} {I,1} 
+result_LAPSE : 910
+root_LAPSE : [30]([14]([4]([8]([4]([2,i],[2,y]),[2]([1,I],[1,V])),[18]([2]([1,W],[1,Y]),[10]([5,n],[5,q]))),[12]([16]([10]([5,r],[5,t]),[6,h]),[29]([6]([3,k],[3,v]),[15]([7,c],[8,o])))),[16]([8]([4,x],[4,z]),[8]([4]([2,a],[2,b]),[4]([2,e],[2,g]))))
+Line 11: LAPSE ttkwspcdsziyuCdnwHzifyckawpfkasdxrmhulqsmopurkvdgudkfvjxoHpyndulbtiosehophxUyZ
+freq_LAPSE : {z,8} {x,7} {p,7} {c,7} {j,6} {u,5} {s,4} {k,4} {w,3} {l,3} {i,3} {a,3} {J,2} {t,2} {o,2} {n,2} {e,2} {b,2} {V,1} {D,1} {A,1} {r,1} {h,1} {f,1} 
+result_LAPSE : 677
+root_LAPSE : [21]([37]([16]([8]([4]([2,n],[2,o]),[4]([2,t],[2,J])),[8]([16]([8,z],[4,s]),[4]([2,b],[2,e]))),[9]([4]([2]([1,f],[1,h]),[9]([2]([1,r],[1,A]),[5,u])),[5]([2]([1,D],[1,V]),[3,a]))),[23]([23]([12]([6,j],[6]([3,i],[3,l])),[14]([7,c],[7,p])),[14]([7,x],[7]([3,w],[4,k]))))
+Line 12: LAPSE rfnazsfnsiolyZtz
+freq_LAPSE : {u,3} {p,3} {b,3} {h,2} {A,1} {z,1} {s,1} {m,1} {j,1} 
+result_LAPSE : 395
+root_LAPSE : [16]([6]([3,u],[3]([1,A],[2,h])),[10]([4]([2]([1,j],[1,m]),[2]([1,s],[1,z])),[6]([3,b],[3,p])))
+Line 13: LAPSE nmyrtdcHzgdspdxbgifncaeqxibknskzEyyzgebvmrbDxrknfnixvKlvxviguioskvgcjyjumkuglgaesrqbrkvcjbqzusv
+freq_LAPSE : {c,18} {n,14} {h,11} {q,7} {g,7} {x,5} {w,5} {s,5} {y,4} {p,4} {d,4} {t,3} {m,3} {L,1} {I,1} {F,1} {E,1} {u,1} 
+result_LAPSE : 958
+root_LAPSE : [12]([5]([23]([11,h],[2]([1,F],[1,I])),[12]([12]([3,m],[7,g]),[7,q])),[31]([7]([3]([6]([3,t],[1,L]),[2]([1,u],[1,E])),[26]([7]([4,d],[4,p]),[30]([14,n],[18,c]))),[19]([9]([4,y],[5,s]),[10]([5,w],[5,x]))))
+Line 14: LAPSE dfcxsndcqbzluvkegdt
+freq_LAPSE : {g,4} {e,2} {y,1} {w,1} {v,1} {u,1} {t,1} {r,1} {o,1} {m,1} {l,1} {h,1} {f,1} {c,1} {a,1} 
+result_LAPSE : 638
+root_LAPSE : [19]([8]([4]([2]([1,a],[1,c]),[2]([1,f],[1,h])),[4]([2]([1,l],[1,m]),[2]([1,o],[1,r]))),[11]([4]([2]([1,t],[1,u]),[2]([1,v],[1,w])),[7]([3]([1,y],[2,e]),[4,g])))
+Line 15: LAPSE rxmvlzddOmkdddgfkXuocfmpayxkdvxytjnpmivujpbqovbBjsfltazlusidfvorvtvkezefogjkcjoficqti
+freq_LAPSE : {c,12} {o,9} {x,7} {t,7} {k,7} {l,6} {s,5} {p,5} {a,5} {q,4} {m,4} {f,3} {u,2} {i,2} {g,2} {d,2} {Y,1} {P,1} {C,1} 
+result_LAPSE : 52
+root_LAPSE : [18]([8]([16]([8]([4,m],[4,q]),[4]([2,g],[2,i])),[18]([2]([4]([2,u],[1,C]),[17]([1,P],[9,o])),[10]([5,a],[5,p]))),[41]([10]([3]([6]([3,f],[1,Y]),[13]([2,d],[7,k])),[10]([7,t],[7,x])),[23]([11]([5,s],[6,l]),[12,c])))
+Line 16: LAPSE hlptoYKPuxwtfupwlukzkgvsmcbtzvjlwnvlqglgmohsTwetwdqtqyyOtcyorkaaqblcghdSaohoshiuolnwqsl
+freq_LAPSE : {y,8} {t,8} {z,6} {u,6} {f,6} {c,6} {v,5} {m,5} {k,5} {d,5} {b,5} {w,4} {n,3} {r,2} {p,2} {o,2} {Z,1} {U,1} {T,1} {Q,1} {P,1} {L,1} {s,1} {j,1} {g,1} 
+result_LAPSE : 273
+root_LAPSE : [16]([30]([14]([6]([12]([6,z],[3,n]),[3]([1,Z],[2,o])),[14]([8,t],[8,y])),[8]([4,w],[4]([2,p],[2,r]))),[73]([8]([4]([2]([1,g],[1,j]),[2]([1,s],[1,L])),[4]([2]([1,P],[1,Q]),[2]([1,T],[1,U]))),[43]([20]([10]([5,b],[5,d]),[10]([5,k],[5,m])),[23]([11]([5,v],[6,c]),[12]([6,f],[6,u])))))
+Line 17: LAPSE xubgtxjfzjttBsefnxgvatzdjmpggbufoqciutkvYeohbxzun
+freq_LAPSE : {y,9} {b,5} {k,4} {i,4} {e,4} {q,3} {m,3} {c,3} {x,2} {p,2} {g,2} {Z,1} {C,1} {t,1} {r,1} {n,1} {l,1} {j,1} {d,1} 
+result_LAPSE : 974
+root_LAPSE : [32]([16]([8]([4]([2,x],[2]([1,d],[1,j])),[4]([2]([1,l],[1,n]),[2]([1,r],[1,t]))),[8]([2]([10]([5,b],[1,C]),[5]([1,Z],[3,c])),[6]([3,m],[3,q]))),[16]([25]([9,y],[8]([4,e],[4,i])),[8]([4,k],[4]([2,g],[2,p]))))
+Line 18: LAPSE wrdzpfudlgrxcmeqbttxhcdbpxfdfhopaqpyyamwpqLxubwfnOkyjthdiwfbwkalhheqwmtuhgj
+freq_LAPSE : {u,9} {n,8} {x,7} {i,7} {b,7} {c,6} {k,5} {p,4} {f,4} {d,3} {t,2} {m,2} {l,2} {g,2} {e,2} {P,1} {M,1} {o,1} {j,1} {a,1} 
+result_LAPSE : 533
+root_LAPSE : [43]([17]([8]([4]([2,g],[2,l]),[17]([4]([2,m],[2,t]),[9,u])),[9]([4]([2]([1,a],[1,j]),[2]([1,o],[1,M])),[10]([5,k],[6,c]))),[26]([10]([3]([6]([3,d],[1,P]),[13]([2,e],[7,b])),[10]([7,i],[7,x])),[16]([8,n],[8]([4,f],[4,p]))))
+Line 19: LAPSE cfpmgbrtboytkmkeauupujlwuatjhpn
+freq_LAPSE : {y,4} {s,4} {w,3} {o,3} {m,3} {d,3} {l,2} {c,2} {z,1} {x,1} {p,1} {i,1} {h,1} {g,1} {f,1} 
+result_LAPSE : 308
+root_LAPSE : [15]([27]([12]([6]([3,d],[3,m]),[6]([3,o],[3,w])),[7]([3]([1,z],[2,c]),[4,s])),[8]([4]([2]([1,h],[1,i]),[2]([1,p],[1,x])),[4]([8]([4,y],[2,l]),[2]([1,f],[1,g]))))
+Line 20: CLEAVE 2
+1-308
+1-974
+Line 21: LAPSE wkpmutwvinrqwxsmhrfdoeqpyuppraruohasemklculdbbgybnrdgliPwbbsczxsbcbvauwvrwnyieezjsm
+freq_LAPSE : {i,13} {x,11} {q,9} {z,7} {c,6} {b,5} {t,4} {g,4} {y,3} {o,3} {l,3} {f,3} {d,3} {s,2} {m,2} {j,2} {Q,1} {u,1} {k,1} 
+result_LAPSE : 586
+root_LAPSE : [21]([6]([8]([2]([10]([5,b],[1,k]),[5]([1,u],[3,d])),[8]([6,c],[3,f])),[19]([19]([17]([3,l],[9,q]),[21]([11,x],[13,i])),[13]([6]([3,o],[3,y]),[7,z]))),[15]([7]([3]([1,Q],[2,j]),[4,g]),[8]([4,t],[4]([2,m],[2,s]))))
+Line 22: LAPSE oohoyuhucMbhcDfjU
+freq_LAPSE : {k,4} {r,3} {w,2} {e,2} {V,1} {N,1} {E,1} {z,1} {g,1} {c,1} 
+result_LAPSE : 713
+root_LAPSE : [17]([8]([4,k],[4]([2,e],[2,w])),[9]([4]([2]([1,c],[1,g]),[2]([1,z],[1,E])),[5]([2]([1,N],[1,V]),[3,r])))
+Line 23: LAPSE vcugbenjTopuojnhnuypilpiackkcaoevfgmehduCrmueiqazpcavkargpxdanm
+freq_LAPSE : {g,11} {r,8} {z,6} {u,5} {l,5} {j,5} {y,4} {i,4} {p,3} {n,3} {t,2} {f,2} {U,1} {D,1} {m,1} {c,1} {a,1} 
+result_LAPSE : 367
+root_LAPSE : [26]([11]([5]([2]([1,m],[1,D]),[11]([3,n],[6,z])),[6]([3,p],[3]([1,U],[2,f]))),[15]([7]([2]([4]([2,t],[1,a]),[9]([1,c],[5,j])),[15]([7]([5,l],[5,u]),[8,r])),[18]([8]([4,i],[4,y]),[11,g])))
+Line 24: LAPSE niuvahkfSaavDkmzxrgjsubzlieapivbwjnthOalazgildcgapenpmnyqwmqfieidavtukimrnrsBtjestGmbptsvyq
+freq_LAPSE : {i,12} {y,8} {t,7} {p,7} {a,7} {s,5} {r,5} {j,5} {w,4} {x,3} {u,3} {o,3} {n,3} {m,3} {e,3} {c,3} {h,2} {f,2} {T,1} {P,1} {H,1} {E,1} {C,1} {d,1} 
+result_LAPSE : 256
+root_LAPSE : [37]([16]([66]([29]([14]([7,a],[7,p]),[15]([7,t],[8,y])),[8]([4,w],[4]([2,f],[2,h]))),[8]([2]([10]([5,s],[1,P]),[5]([1,T],[3,c])),[6]([3,e],[3,m]))),[21]([9]([4]([2]([1,d],[1,C]),[2]([1,E],[1,H])),[21]([9]([5,j],[5,r]),[12,i])),[12]([6]([3,n],[3,o]),[6]([3,u],[3,x]))))
+Line 25: LAPSE injlCOqmmihxkhmsddoldvufjgxfmugxvinkcaknbcipxjilgrfgk
+freq_LAPSE : {q,8} {o,7} {n,5} {b,5} {k,4} {m,3} {i,3} {g,3} {x,2} {w,2} {j,2} {e,2} {P,1} {D,1} {t,1} {s,1} {r,1} {p,1} {c,1} 
+result_LAPSE : 398
+root_LAPSE : [28]([12]([22]([10]([5,b],[5,n]),[6]([3,g],[3,i])),[27]([6]([3,m],[3]([1,P],[2,e])),[15]([7,o],[8,q]))),[16]([8]([4,k],[4]([2,j],[2,w])),[8]([4]([2,x],[2]([1,c],[1,p])),[4]([2]([1,r],[1,s]),[2]([1,t],[1,D])))))
+Line 26: LAPSE zvinkyhfhyjkzxfpbKu
+freq_LAPSE : {j,3} {m,2} {h,2} {b,2} {a,2} {L,1} {y,1} {w,1} {v,1} {q,1} {o,1} {k,1} {c,1} 
+result_LAPSE : 116
+root_LAPSE : [19]([8]([4]([2,h],[2,m]),[4]([2]([1,c],[1,k]),[2]([1,o],[1,q]))),[11]([4]([2]([1,v],[1,w]),[2]([1,y],[1,L])),[7]([3,j],[4]([2,a],[2,b]))))
+Line 27: LAPSE DrvnxgvyolkzuJmdyjxsdixuvqkzIravyylcIzqxikohdidGmlrfsjrcjizciitjctcc
+freq_LAPSE : {o,12} {n,7} {i,7} {v,6} {h,5} {b,5} {z,4} {d,4} {c,4} {K,3} {w,2} {u,2} {s,2} {q,2} {H,1} {E,1} {g,1} 
+result_LAPSE : 660
+root_LAPSE : [26]([10]([3]([6]([3,K],[1,H]),[10]([13]([2,q],[7,i]),[7,n])),[7]([2]([4]([2,w],[1,g]),[9]([1,E],[5,b])),[22]([8]([5,h],[6,v]),[12,o]))),[16]([8]([4,c],[4,d]),[8]([4,z],[4]([2,s],[2,u]))))
+Line 28: LAPSE vNiaFkkthpitncmkqryeqlcemiwtpdfbvavop
+freq_LAPSE : {s,6} {y,3} {w,3} {o,3} {n,3} {l,3} {g,3} {e,3} {c,3} {O,1} {G,1} {z,1} {x,1} {p,1} {m,1} {i,1} 
+result_LAPSE : 323
+root_LAPSE : [7]([13]([6]([3,w],[3,y]),[3]([1,O],[2]([1,i],[1,m]))),[19]([19]([4]([2]([1,p],[1,x]),[2]([1,z],[1,G])),[12]([6,s],[6]([3,c],[3,e]))),[12]([6]([3,g],[3,l]),[6]([3,n],[3,o]))))
+Line 29: LAPSE vnxPeVwoplyyvhehphtnvdpNreqxjjwOvcieqdiwinxoadloawqdgriqdt
+freq_LAPSE : {i,9} {a,9} {z,4} {u,4} {m,4} {s,3} {r,3} {q,3} {k,3} {v,2} {t,2} {n,2} {l,2} {c,2} {W,1} {Q,1} {P,1} {O,1} {h,1} {d,1} 
+result_LAPSE : 187
+root_LAPSE : [32]([8]([16]([8]([4,z],[4]([2,c],[2,l])),[4]([2,n],[2,t])),[34]([4]([2,v],[2]([1,d],[1,h])),[18]([9,a],[9,i]))),[24]([10]([4]([2]([1,O],[1,P]),[2]([1,Q],[1,W])),[6]([3,k],[3,q])),[14]([6]([3,r],[3,s]),[8]([4,m],[4,u]))))
+Line 30: LAPSE xPzuczqmtctp
+freq_LAPSE : {v,3} {e,2} {b,2} {Q,1} {y,1} {r,1} {q,1} {n,1} 
+result_LAPSE : 999
+root_LAPSE : [12]([5]([2]([1,r],[1,y]),[3,v]),[7]([3]([1,Q],[2,b]),[4]([2,e],[2]([1,n],[1,q]))))
+Line 31: LAPSE fmxmaxjpsyezuplaHkghtyoyyxqzquzlwwkwwwjuqhmncjirkwjdqdqbjquktjtlpmotrelikchjwawvldmXe
+freq_LAPSE : {q,14} {e,10} {c,8} {w,7} {r,5} {p,5} {k,5} {y,4} {x,4} {h,4} {g,4} {t,3} {s,3} {d,3} {a,3} {Y,1} {I,1} {o,1} 
+result_LAPSE : 72
+root_LAPSE : [28]([6]([2]([29]([14,q],[3]([1,Y],[1,o])),[7]([1,I],[4,g])),[15]([13]([6]([4,h],[4,x]),[14]([7,w],[8,c])),[16]([9]([4,y],[5,k]),[10,e]))),[22]([10]([5,p],[5,r]),[12]([6]([3,a],[3,d]),[6]([3,s],[3,t]))))
+Line 32: LAPSE aSdbrfwzkPsexcqkkksjtvgywcwvamzxqikbnssrvgogsdvetruanbaag
+freq_LAPSE : {z,10} {p,8} {f,7} {x,5} {k,5} {e,5} {v,3} {u,3} {g,3} {s,2} {b,2} {T,1} {Q,1} {n,1} {j,1} 
+result_LAPSE : 913
+root_LAPSE : [16]([27]([11]([21]([10,z],[5,x]),[6]([3,g],[3,u])),[7]([14]([7,f],[3,v]),[15]([4]([2,b],[2,s]),[8,p]))),[9]([4]([2]([1,j],[1,n]),[2]([1,Q],[1,T])),[9]([5,e],[5,k])))
+Line 33: LAPSE erqxytqutgnqknefvorkplhFawbfzpzlbefwv
+freq_LAPSE : {t,5} {i,4} {h,4} {y,3} {v,3} {p,3} {b,3} {x,2} {r,2} {n,2} {m,2} {d,2} {G,1} {z,1} 
+result_LAPSE : 99
+root_LAPSE : [16]([30]([14]([6]([3,v],[3,y]),[8]([4,h],[4,i])),[8]([4]([2,d],[2,m]),[4]([2,n],[2,r]))),[8]([2]([4]([2,x],[1,z]),[9]([1,G],[5,t])),[6]([3,b],[3,p])))
+Line 34: LAPSE uxevmsrneeuuazlvmicyc
+freq_LAPSE : {x,5} {o,3} {h,3} {e,2} {z,1} {y,1} {t,1} {s,1} {m,1} {j,1} {b,1} {a,1} 
+result_LAPSE : 725
+root_LAPSE : [10]([2]([10]([5,x],[1,y]),[5]([1,z],[3,h])),[8]([4]([2]([1,j],[1,m]),[2]([1,s],[1,t])),[4]([7]([3,o],[2,e]),[2]([1,a],[1,b]))))
+Line 35: LAPSE fvcbjpsmobiutzrvrdFirblykjfxgqfhz
+freq_LAPSE : {u,4} {i,4} {e,4} {l,3} {x,2} {k,2} {b,2} {G,1} {z,1} {y,1} {v,1} {t,1} {r,1} {q,1} {p,1} {n,1} {m,1} {h,1} {d,1} 
+result_LAPSE : 420
+root_LAPSE : [33]([16]([8]([4,e],[4,i]),[8]([4,u],[4]([2,b],[2,k]))),[17]([8]([4]([2,x],[2]([1,d],[1,h])),[4]([2]([1,m],[1,n]),[2]([1,p],[1,q]))),[9]([4]([2]([1,r],[1,t]),[2]([1,v],[1,y])),[5]([2]([1,z],[1,G]),[3,l]))))
+Line 36: LAPSE tgcnteASjbqjwgbqofqkhvvgblyfxiphshhjYmwLshucyovcxctwxqwaacbvadhkvljuho
+freq_LAPSE : {a,14} {o,8} {n,7} {h,7} {u,6} {w,5} {f,5} {j,4} {r,3} {d,3} {m,2} {Z,1} {T,1} {M,1} {B,1} {q,1} {e,1} 
+result_LAPSE : 323
+root_LAPSE : [20]([8]([4]([16]([8,o],[2]([1,B],[1,M])),[2]([1,T],[1,Z])),[18]([4]([8]([4,j],[2,m]),[2]([1,e],[1,q])),[10]([5,f],[5,w]))),[22]([6]([12]([6,u],[3,d]),[22]([3,r],[14,a])),[14]([7,h],[7,n])))
+Line 37: LAPSE ZfuoazafTmdlw
+freq_LAPSE : {h,2} {c,2} {U,1} {A,1} {x,1} {v,1} {p,1} {n,1} {m,1} {e,1} {a,1} 
+result_LAPSE : 30
+root_LAPSE : [13]([5]([2]([1,x],[1,A]),[3]([1,U],[2,c])),[8]([4]([2,h],[2]([1,a],[1,e])),[4]([2]([1,m],[1,n]),[2]([1,p],[1,v]))))
+Line 38: LAPSE cyCxyhueszwbycoymbxicttqexzcnltokwhpaogshwvtuHstSdvcsq
+freq_LAPSE : {w,6} {h,6} {y,5} {c,4} {z,3} {r,3} {k,3} {b,3} {a,3} {x,2} {s,2} {g,2} {d,2} {T,1} {I,1} {D,1} {q,1} {o,1} {n,1} {m,1} {l,1} {j,1} {e,1} 
+result_LAPSE : 244
+root_LAPSE : [25]([9]([4]([2]([1,n],[1,o]),[9]([2]([1,q],[1,D]),[5,y])),[21]([21]([5]([2]([1,I],[1,T]),[3,a]),[12]([6,h],[6,w])),[12]([6]([3,b],[3,k]),[6]([3,r],[3,z])))),[16]([8]([4,c],[4]([2,d],[2,g])),[8]([4]([2,s],[2,x]),[4]([2]([1,e],[1,j]),[2]([1,l],[1,m])))))
+Line 39: LAPSE oqjrufwslquereFywmbayftuskveF
+freq_LAPSE : {h,5} {x,3} {u,3} {H,2} {y,2} {t,2} {s,2} {a,2} {w,1} {p,1} {n,1} {m,1} {l,1} {k,1} {c,1} {b,1} 
+result_LAPSE : 498
+root_LAPSE : [24]([9]([4]([2]([1,k],[1,l]),[9]([2]([1,m],[1,n]),[5,h])),[5]([2]([1,p],[1,w]),[3,u])),[15]([7]([3,x],[4]([2,a],[2,s])),[8]([4]([2,t],[2,y]),[4]([2,H],[2]([1,b],[1,c])))))
+Line 40: LAPSE ivflbfrbsyoghwwjokylibjhxdplizyauxfveqekmixksikcikxygovsifxpBqlqdrogprkh
+freq_LAPSE : {p,11} {c,9} {s,7} {j,7} {q,6} {y,5} {v,4} {u,3} {t,3} {k,3} {e,3} {l,2} {g,2} {f,2} {C,1} {n,1} {d,1} {b,1} {a,1} 
+result_LAPSE : 751
+root_LAPSE : [38]([15]([29]([14]([7,j],[7,s]),[7]([3]([1,C],[2,f]),[4,v])),[4]([8]([4]([2,g],[2,l]),[2]([1,a],[1,b])),[35]([2]([1,d],[1,n]),[20]([9,c],[11,p])))),[23]([11]([5,y],[6,q]),[12]([6]([3,e],[3,k]),[6]([3,t],[3,u]))))
+Line 41: LAPSE munysdcdqglyurhceqzejmLwismfqkpuuiungrnruwIniuuPd
+freq_LAPSE : {c,8} {g,6} {u,5} {r,4} {l,4} {t,3} {p,3} {i,3} {a,3} {y,2} {e,2} {Q,1} {M,1} {J,1} {q,1} {m,1} {k,1} 
+result_LAPSE : 219
+root_LAPSE : [16]([4]([17]([8]([4,r],[4]([2,e],[2,y])),[2]([1,k],[1,m])),[9]([9]([2]([1,q],[1,J]),[5,u]),[5]([2]([1,M],[1,Q]),[3,a]))),[19]([12]([6,g],[6]([3,i],[3,p])),[15]([7]([3,t],[4,l]),[8,c])))
+Line 42: LAPSE iumqyapvfhnctewipwfnsqrlQbsgtzaqobwxonhytzsOsrumdieyazluifhfzgdxepjodyjvixtcfmyahIkhCrwgkibphhlgrr
+freq_LAPSE : {o,16} {x,9} {w,9} {k,9} {e,9} {d,9} {t,7} {a,7} {r,3} {q,3} {p,3} {h,3} {g,3} {m,2} {l,2} {R,1} {P,1} {J,1} {D,1} 
+result_LAPSE : 544
+root_LAPSE : [24]([7]([42]([18]([9,k],[9,w]),[32]([16,o],[14]([7,t],[3,r]))),[16]([4]([2,l],[2,m]),[16]([9,d],[9,e]))),[17]([4]([19]([9,x],[2]([1,D],[1,J])),[10]([2]([1,P],[1,R]),[6]([3,g],[3,h]))),[13]([6]([3,p],[3,q]),[7,a])))
+Line 43: CLEAVE 0
+Line 44: LAPSE ruaausbsir
+freq_LAPSE : {c,3} {w,2} {u,2} {t,2} {j,1} 
+result_LAPSE : 945
+root_LAPSE : [10]([4]([2,u],[2,w]),[6]([3,c],[3]([1,j],[2,t])))
+Line 45: LAPSE xdcwzeguhlzgojcsvrobzqlojTnedabvVkhhphlvaezjlfx
+freq_LAPSE : {d,6} {l,5} {r,4} {p,4} {y,3} {m,3} {h,3} {z,2} {i,2} {f,2} {e,2} {c,2} {W,1} {U,1} {x,1} {v,1} {t,1} {s,1} {q,1} {o,1} {g,1} 
+result_LAPSE : 900
+root_LAPSE : [8]([36]([16]([8]([4,p],[4,r]),[8]([4]([2,e],[2,f]),[4]([2,i],[2,z]))),[4]([2]([1,g],[1,o]),[2]([1,q],[1,s]))),[20]([19]([4]([2]([1,t],[1,v]),[2]([1,x],[1,U])),[11]([5,l],[6,d])),[12]([6]([3,h],[3,m]),[6]([3,y],[3]([1,W],[2,c])))))
+Line 46: LAPSE goiwhsoihjoiveBdbubbrhaf
+freq_LAPSE : {k,4} {e,4} {r,3} {l,3} {C,1} {x,1} {w,1} {v,1} {t,1} {s,1} {h,1} {g,1} {f,1} {b,1} 
+result_LAPSE : 404
+root_LAPSE : [20]([8]([4]([2]([1,s],[1,t]),[2]([1,v],[1,w])),[4]([8]([4,k],[2]([1,b],[1,f])),[2]([1,g],[1,h]))),[12]([5]([2]([1,x],[1,C]),[3,l]),[7]([3,r],[4,e])))
+Line 47: LAPSE rmrfpyxylwxcblbqrkgrwdyrhyvhGdozcorzjdbfiwasyoeszyKexdqwIyybPcllspgtmbdpkq
+freq_LAPSE : {g,15} {i,7} {a,7} {x,6} {p,4} {v,3} {t,3} {s,3} {r,3} {j,3} {f,3} {c,3} {o,2} {m,2} {h,2} {Q,1} {L,1} {J,1} {H,1} {w,1} {u,1} {k,1} {b,1} 
+result_LAPSE : 505
+root_LAPSE : [39]([16]([68]([29]([14]([7,a],[7,i]),[15,g]),[8]([4,p],[4]([2,h],[2,m]))),[8]([4]([2,o],[2]([1,b],[1,k])),[4]([2]([1,u],[1,w]),[2]([1,H],[1,J])))),[23]([11]([5]([2]([1,L],[1,Q]),[11]([3,c],[6,x])),[6]([3,f],[3,j])),[12]([6]([3,r],[3,s]),[6]([3,t],[3,v]))))
+Line 48: HAND 
+a
+14
+i
+29
+g
+68
+p
+8
+h
+4
+m
+16
+o
+4
+b
+2
+k
+8
+u
+2
+w
+4
+H
+2
+J
+39
+L
+2
+Q
+5
+c
+11
+x
+11
+f
+6
+j
+23
+r
+6
+s
+12
+t
+6
+v
+Line 49: LAPSE wiyhfPtrjbvwz
+freq_LAPSE : {y,2} {Q,1} {z,1} {w,1} {u,1} {s,1} {k,1} {j,1} {i,1} {g,1} {c,1} {a,1} 
+result_LAPSE : 112
+root_LAPSE : [13]([5]([2]([1,w],[1,z]),[3]([1,Q],[2,y])),[8]([4]([2]([1,a],[1,c]),[2]([1,g],[1,i])),[4]([2]([1,j],[1,k]),[2]([1,s],[1,u]))))
+Line 50: LAPSE bplajdardsrngvtmghyrwqfposuilDuwpeftiltipllzumilgubhvuxcjyahcilysmjbbzpmastdncjfcaTyafhmwn
+freq_LAPSE : {g,13} {n,9} {z,8} {u,8} {s,7} {j,7} {x,6} {r,6} {f,5} {w,4} {l,4} {c,4} {q,3} {b,2} {U,1} {E,1} {y,1} {p,1} 
+result_LAPSE : 764
+root_LAPSE : [9]([38]([17]([8]([4,c],[4,l]),[9,n]),[4]([8]([4,w],[2,b]),[9]([2]([1,p],[1,y]),[5,f]))),[21]([5]([2]([1,E],[1,U]),[3,q]),[23]([22]([12]([6,r],[6,x]),[13,g]),[25]([14]([7,j],[7,s]),[16]([8,u],[8,z])))))
+Line 51: LAPSE nntktmyszssmbmgipwxHwpypdoszqqlhponqbughzjsjumcybInciuwaythiitqGwknpxgaacdtso
+freq_LAPSE : {y,11} {u,9} {m,7} {c,7} {s,5} {f,5} {q,4} {a,4} {x,3} {r,3} {k,3} {j,3} {e,3} {d,3} {z,2} {l,2} {J,1} {I,1} {H,1} 
+result_LAPSE : 12
+root_LAPSE : [12]([37]([13]([6]([3,r],[3,x]),[7,c]),[3]([14]([7,m],[1,J]),[12]([7]([2,l],[4,a]),[9,u]))),[24]([9]([4]([8]([4,q],[2,z]),[2]([1,H],[1,I])),[9]([5,f],[5,s])),[12]([23]([11,y],[6]([3,d],[3,e])),[6]([3,j],[3,k]))))
+Line 52: LAPSE njybgjtktonozzreksgyafmebiephtynwqzqzvfbvcphxsdRiuluhgbbbuiuhmgokxiejpivvwhcnhybtnkxkwwpabglyddgg
+freq_LAPSE : {n,20} {d,9} {s,8} {j,8} {a,7} {p,5} {z,4} {y,4} {x,4} {t,4} {i,4} {r,3} {m,3} {g,3} {u,2} {o,2} {h,2} {e,2} {c,2} {S,1} 
+result_LAPSE : 0
+root_LAPSE : [32]([63]([31]([51]([20,n],[15]([7,a],[8,j])),[16]([8,s],[8]([4,i],[4,t]))),[16]([8]([4,x],[4,y]),[8]([4,z],[4]([2,e],[2,h])))),[16]([4]([18]([9,d],[2,o]),[9]([2,u],[5,p])),[12]([6]([3,g],[3,m]),[6]([3,r],[3]([1,S],[2,c])))))
+Line 53: LAPSE zukoavlmbzxssroezftmljkvqyonmntrwejrbmofbnsqsfsWyzgqixinqhiytcgaxfpwafhwLyjugsufgilgrbdKkrkdfyzsxtBl
+freq_LAPSE : {m,14} {z,10} {x,9} {d,9} {f,6} {w,5} {q,5} {l,5} {e,5} {u,4} {s,4} {r,4} {p,4} {o,4} {b,4} {j,2} {g,2} {X,1} {M,1} {L,1} {C,1} 
+result_LAPSE : 232
+root_LAPSE : [41]([17]([4]([8]([4]([2,g],[2,j]),[2]([1,C],[1,L])),[2]([1,M],[1,X])),[14]([14]([13]([9,d],[9,x]),[10,z]),[10]([5,e],[5,l]))),[47]([24]([10]([5,q],[5,w]),[14,m]),[30]([14]([6,f],[8]([4,b],[4,o])),[16]([8]([4,p],[4,r]),[8]([4,s],[4,u])))))
+Line 54: LAPSE qkbmiiqCutktyhqvymxrksbsfgvSnomiwiolughjipyyusgmzkwQyibwoliqQvektawxuvskpaihdhpjwufah
+freq_LAPSE : {q,18} {z,11} {d,8} {w,7} {m,5} {b,5} {u,4} {s,4} {e,4} {r,3} {j,3} {S,2} {n,2} {l,2} {h,2} {T,1} {D,1} {o,1} {f,1} {a,1} 
+result_LAPSE : 869
+root_LAPSE : [7]([2]([10]([3]([6]([3,r],[1,T]),[13]([2,h],[7,w])),[4]([2,S],[1,a])),[7]([9]([1,f],[5,b]),[5,m])),[10]([10]([5]([2]([1,o],[1,D]),[10]([3,j],[8,d])),[8]([4,e],[4,s])),[4]([8]([4,u],[2,l]),[25]([18]([2,n],[11,z]),[18,q]))))
+Line 55: LAPSE afdfjvjndvxnmuqlijsdkNgh
+freq_LAPSE : {m,4} {h,3} {g,3} {x,2} {p,2} {O,1} {y,1} {v,1} {t,1} {r,1} {n,1} {l,1} {j,1} {i,1} {b,1} 
+result_LAPSE : 642
+root_LAPSE : [17]([8]([15]([7]([3,h],[4,m]),[4]([2,p],[2,x])),[4]([2]([1,b],[1,i]),[2]([1,j],[1,l]))),[9]([4]([2]([1,n],[1,r]),[2]([1,t],[1,v])),[5]([2]([1,y],[1,O]),[3,g])))
+Line 56: LAPSE voawbuesqwHrjouTwmnadadvwsngfqxbNuswpqqbangpijdmgepwrrynbwnxrobrpxpFklvubayh
+freq_LAPSE : {u,9} {y,7} {d,7} {h,6} {g,6} {w,5} {s,5} {f,5} {a,5} {j,4} {v,3} {r,3} {l,3} {o,2} {U,1} {O,1} {I,1} {G,1} {m,1} {i,1} 
+result_LAPSE : 385
+root_LAPSE : [18]([8]([32]([14]([7,y],[7]([3,v],[4,j])),[4]([2,o],[2]([1,i],[1,m]))),[4]([2]([1,G],[1,I]),[17]([2]([1,O],[1,U]),[9,u]))),[17]([16]([14]([10]([5,a],[5,f]),[10]([5,s],[5,w])),[12]([6,g],[6,h])),[13]([6]([3,l],[3,r]),[7,d])))
+Line 57: LAPSE hxpjylseqr
+freq_LAPSE : {z,1} {y,1} {t,1} {s,1} {r,1} {q,1} {m,1} {k,1} {i,1} {f,1} 
+result_LAPSE : 323
+root_LAPSE : [10]([4]([2]([1,q],[1,r]),[2]([1,s],[1,t])),[6]([2]([1,y],[1,z]),[4]([2]([1,f],[1,i]),[2]([1,k],[1,m]))))
+Line 58: LAPSE nzipesfhRdgcoebtoztwjlkjndvntnrbjemurvfsqtyzrjippyarcmdjibbnppkwwktpikvqfoqhz
+freq_LAPSE : {v,11} {o,11} {y,8} {s,5} {m,5} {h,4} {f,4} {d,4} {z,3} {t,3} {r,3} {i,3} {g,3} {u,2} {j,2} {e,2} {a,2} {S,1} {b,1} 
+result_LAPSE : 196
+root_LAPSE : [47]([17]([8]([2]([10]([5,s],[1,b]),[5]([1,S],[3,g])),[6]([3,i],[3,r])),[39]([9]([4]([2,j],[2,u]),[5,m]),[22]([11,o],[11,v]))),[30]([14]([6]([3,t],[3,z]),[8,y]),[16]([8]([4,d],[4,f]),[8]([4,h],[4]([2,a],[2,e])))))
+Line 59: LAPSE wwfhznJlxvutdhmmohvkoapydfaqXhnwlbjzfhypmhByulkxkvqvjlvueugjgr
+freq_LAPSE : {p,9} {n,9} {z,5} {i,5} {b,5} {a,5} {y,4} {s,3} {m,3} {f,3} {c,3} {r,2} {q,2} {Y,1} {K,1} {C,1} {u,1} 
+result_LAPSE : 971
+root_LAPSE : [35]([13]([4]([8]([4,y],[2,q]),[13]([17]([2,r],[9,n]),[9,p])),[9]([4]([2]([1,u],[1,C]),[2]([1,K],[1,Y])),[9]([5,a],[5,b]))),[22]([10]([5,i],[5,z]),[12]([6]([3,c],[3,f]),[6]([3,m],[3,s]))))
+Line 60: LAPSE mrkdiyakaMyqtyccacoeglnqyavGccsiyzbwumtUogzqdtaqpijkmonkdfKqgl
+freq_LAPSE : {v,6} {f,6} {p,5} {h,5} {d,5} {w,4} {o,4} {g,4} {r,3} {l,3} {j,3} {n,2} {b,2} {V,1} {N,1} {L,1} {H,1} {x,1} {t,1} {s,1} {q,1} {k,1} {c,1} 
+result_LAPSE : 819
+root_LAPSE : [38]([16]([8]([4,w],[4]([2,b],[2,n])),[8]([4]([2]([1,c],[1,k]),[2]([1,q],[1,s])),[4]([2]([1,t],[1,x]),[2]([1,H],[1,L])))),[22]([8]([2]([10]([5,p],[1,N]),[5]([1,V],[3,j])),[18]([8]([6,f],[6,v]),[10]([5,d],[5,h]))),[14]([6]([3,l],[3,r]),[8]([4,g],[4,o]))))
+Line 61: LAPSE nudyLyndmbbrbgjlqcirtsxxku
+freq_LAPSE : {t,3} {e,3} {z,2} {w,2} {p,2} {f,2} {a,2} {M,1} {u,1} {r,1} {n,1} {m,1} {l,1} {k,1} {j,1} {h,1} {d,1} 
+result_LAPSE : 862
+root_LAPSE : [26]([10]([4]([2]([1,n],[1,r]),[2]([1,u],[1,M])),[6]([3,e],[3,t])),[16]([8]([4]([2,a],[2,f]),[4]([2,p],[2,w])),[8]([4]([2,z],[2]([1,d],[1,h])),[4]([2]([1,j],[1,k]),[2]([1,l],[1,m])))))
+Line 62: LAPSE mckccpsdrpLBxcrhlubudzvcqcpxfgqzjbuyfgidarNkhutuekqwzhqomufmovyxmvjgbzpxrft
+freq_LAPSE : {j,8} {a,8} {v,6} {q,6} {i,6} {t,5} {b,5} {u,4} {d,4} {y,3} {n,3} {k,3} {g,3} {e,3} {l,2} {O,1} {M,1} {C,1} {x,1} {m,1} {f,1} 
+result_LAPSE : 193
+root_LAPSE : [33]([8]([34]([16]([8,a],[8,j]),[4]([2]([1,x],[1,C]),[2]([1,M],[1,O]))),[18]([4]([8]([4,u],[2,l]),[2]([1,f],[1,m])),[20]([10]([5,b],[5,t]),[12]([6,i],[6,q])))),[25]([12]([6,v],[6]([3,e],[3,g])),[13]([6]([3,k],[3,n]),[7]([3,y],[4,d]))))
+Line 63: LAPSE rxuusfjqwxogfhcfatvebbfgtimgkdvnjtwfMykzgpjfgofhcknxpozUjagdgdq
+freq_LAPSE : {n,15} {m,7} {w,5} {r,5} {s,3} {j,3} {g,3} {a,3} {y,2} {x,2} {p,2} {e,2} {d,2} {c,2} {b,2} {V,1} {N,1} {z,1} {t,1} {f,1} 
+result_LAPSE : 1004
+root_LAPSE : [28]([7]([14]([30]([15,n],[7,m]),[3]([1,V],[2,b])),[15]([4]([2,c],[2,d]),[8]([4]([2,e],[2,p]),[4]([2,x],[2,y])))),[21]([9]([4]([2]([1,f],[1,t]),[2]([1,z],[1,N])),[9]([5,r],[5,w])),[12]([6]([3,a],[3,g]),[6]([3,j],[3,s]))))
+Line 64: LAPSE gsthwggrmeinqi
+freq_LAPSE : {j,3} {k,2} {x,1} {u,1} {t,1} {s,1} {r,1} {o,1} {n,1} {i,1} {f,1} 
+result_LAPSE : 798
+root_LAPSE : [14]([6]([3,j],[3]([1,x],[2,k])),[8]([4]([2]([1,f],[1,i]),[2]([1,n],[1,o])),[4]([2]([1,r],[1,s]),[2]([1,t],[1,u]))))
+Line 65: LAPSE caAaowyfpesfaCsfzsbcoku
+freq_LAPSE : {v,4} {q,3} {i,3} {d,3} {e,2} {D,1} {B,1} {z,1} {x,1} {l,1} {f,1} {c,1} {a,1} 
+result_LAPSE : 163
+root_LAPSE : [19]([8]([4]([2]([1,f],[1,l]),[2]([1,x],[1,z])),[4]([8]([4,v],[2,e]),[2]([1,a],[1,c]))),[11]([5]([2]([1,B],[1,D]),[3,d]),[6]([3,i],[3,q])))
+Line 66: LAPSE dtmb
+freq_LAPSE : {u,1} {n,1} {e,1} {c,1} 
+result_LAPSE : 30
+root_LAPSE : [4]([2]([1,c],[1,e]),[2]([1,n],[1,u]))
+Line 67: LAPSE vociufNxqczwDgkwbewrucytolcsxeivbeaffexxtspvdynimdamdjoxraqlsrxchsqenwasvwsrokvokxqwxtwpcmkwi
+freq_LAPSE : {e,12} {i,10} {f,8} {a,8} {y,6} {w,5} {t,5} {p,5} {j,5} {v,4} {u,4} {o,4} {m,4} {g,3} {r,2} {n,2} {d,2} {O,1} {E,1} {k,1} {h,1} 
+result_LAPSE : 10
+root_LAPSE : [19]([35]([16]([8]([4,m],[4,o]),[8]([4,u],[4,v])),[5]([25]([12,e],[2]([1,E],[1,O])),[13]([11]([3,g],[6,y]),[13]([8,a],[8,f])))),[14]([4]([8]([4]([2,d],[2,n]),[2,r]),[18]([2]([1,h],[1,k]),[10,i])),[14]([10]([5,j],[5,p]),[10]([5,t],[5,w]))))
+Line 68: LAPSE cnszqsrqpqllmnmkjioyfoaqeipzAxefwfgfolsqcmtwduzghzynetwbvryazfvdindPkenpztrjjmfyiav
+freq_LAPSE : {v,9} {m,9} {s,8} {i,7} {l,6} {f,6} {c,5} {y,4} {q,4} {z,3} {w,3} {u,3} {r,3} {o,3} {g,3} {d,3} {e,2} {Q,1} {B,1} 
+result_LAPSE : 266
+root_LAPSE : [42]([16]([4]([18]([9,v],[8]([4,y],[2,e])),[9]([2]([1,B],[1,Q]),[10]([5,c],[6,f]))),[33]([12]([6,l],[6]([3,d],[3,g])),[17]([8,s],[9,m]))),[26]([12]([6]([3,o],[3,r]),[6]([3,u],[3,w])),[14]([7,i],[7]([3,z],[4,q]))))
+Line 69: LAPSE oPpublrbtbqgwmkbtmsyntXknkyycobkhpsrxkiqklgnl
+freq_LAPSE : {q,11} {o,5} {g,5} {w,3} {i,3} {b,3} {u,2} {t,2} {s,2} {r,2} {Y,1} {Q,1} {y,1} {x,1} {v,1} {j,1} {d,1} 
+result_LAPSE : 966
+root_LAPSE : [29]([12]([23]([11,q],[6]([3,b],[3,i])),[6]([3,w],[3]([1,Y],[2,r]))),[17]([8]([4]([2,s],[2,t]),[4]([2,u],[2]([1,d],[1,j]))),[9]([4]([2]([1,v],[1,x]),[2]([1,y],[1,Q])),[9]([5,g],[5,o]))))
+Line 70: LAPSE uwepvoWzhNadbhnleejgzwmfklnxyuziqjRdrqjuffnqhikriqxiMnpzbdqkywegijQxhmtGgermsplbshvvjupmuwmhp
+freq_LAPSE : {n,14} {u,11} {r,9} {a,9} {o,8} {j,8} {z,5} {v,5} {d,4} {y,3} {i,3} {g,3} {e,3} {X,1} {S,1} {R,1} {O,1} {N,1} {H,1} {p,1} {b,1} 
+result_LAPSE : 895
+root_LAPSE : [4]([8]([32]([16]([8,j],[8,o]),[4]([2]([1,O],[1,R]),[2]([1,S],[1,X]))),[8]([4,d],[2]([1,b],[1,p]))),[16]([14]([17]([2]([1,H],[1,N]),[13]([9,a],[9,r])),[15]([10]([5,v],[5,z]),[11,u])),[12]([6]([3,e],[3,g]),[18]([6]([3,i],[3,y]),[14,n]))))
+Line 71: LAPSE Znftwtdbotnrjiky
+freq_LAPSE : {w,3} {p,3} {A,1} {z,1} {x,1} {s,1} {l,1} {k,1} {j,1} {g,1} {e,1} {c,1} 
+result_LAPSE : 43
+root_LAPSE : [8]([13]([5]([2]([1,z],[1,A]),[3,p]),[4]([2]([1,k],[1,l]),[2]([1,s],[1,x]))),[4]([7]([3,w],[2]([1,c],[1,e])),[2]([1,g],[1,j])))
+Line 72: LIMITLESS 2
+43
+99
+143
+163
+187
+193
+219
+273
+323
+323
+323
+367
+385
+395
+505
+533
+655
+677
+713
+725
+751
+819
+819
+869
+885
+895
+913
+945
+971
+999
+Line 73: LAPSE ZlnpgaxmqsebmxUbtgi
+freq_LAPSE : {o,3} {z,2} {i,2} {d,2} {V,1} {A,1} {u,1} {t,1} {r,1} {q,1} {m,1} {j,1} {f,1} {b,1} 
+result_LAPSE : 190
+root_LAPSE : [19]([8]([4]([2,z],[2]([1,b],[1,f])),[4]([2]([1,j],[1,m]),[2]([1,q],[1,r]))),[11]([4]([2]([1,t],[1,u]),[2]([1,A],[1,V])),[7]([3,o],[4]([2,d],[2,i]))))
+Line 74: LAPSE mwbttqtttvsdinlzznypiquokjovnycoNuqedxlztajrxrtvnfxyvs
+freq_LAPSE : {a,10} {r,7} {t,5} {z,4} {c,4} {b,4} {n,3} {l,3} {f,3} {w,2} {u,2} {k,2} {O,1} {x,1} {q,1} {g,1} {d,1} 
+result_LAPSE : 331
+root_LAPSE : [20]([3]([21]([10,a],[6]([3,n],[1,O])),[11]([13]([2,k],[7,r]),[8]([4,b],[4,c]))),[17]([8]([4,z],[4]([2,u],[2,w])),[9]([4]([2]([1,d],[1,g]),[2]([1,q],[1,x])),[10]([5,t],[6]([3,f],[3,l])))))
+Line 75: LAPSE xtczgvcdqeUjxnqegnaepvnytnnjh
+freq_LAPSE : {s,7} {z,3} {i,3} {h,3} {e,3} {x,2} {v,2} {l,2} {V,1} {q,1} {b,1} {a,1} 
+result_LAPSE : 538
+root_LAPSE : [16]([29]([13]([6]([3,h],[3,i]),[7,s]),[7]([3,z],[4]([2,l],[2,v]))),[9]([4]([2,x],[2]([1,a],[1,b])),[5]([2]([1,q],[1,V]),[3,e])))
+Line 76: LAPSE zazrourqcuvqunjmsfwekuolkscbwxrgsQvjwklpdvkatldadvhfmizboxfapomihidopveswdmldgksm
+freq_LAPSE : {p,9} {a,9} {j,8} {e,6} {x,5} {t,5} {s,5} {r,5} {l,5} {i,5} {y,4} {u,4} {c,3} {z,2} {g,2} {d,2} {R,1} {o,1} 
+result_LAPSE : 668
+root_LAPSE : [10]([7]([2]([14]([7]([3,c],[4,u]),[4]([2,z],[1,o])),[9]([1,R],[5,i])),[10]([7]([5,l],[5,r]),[8,j])),[16]([4]([8]([4,y],[2,d]),[16]([2,g],[9,a])),[21]([17]([9,p],[10]([5,s],[5,t])),[11]([5,x],[6,e]))))
+Line 77: LAPSE qjnquzukyigcjabaontegwcazrkPx
+freq_LAPSE : {s,3} {p,3} {d,3} {w,2} {m,2} {l,2} {i,2} {e,2} {b,2} {Q,1} {z,1} {y,1} {x,1} {u,1} {j,1} {f,1} {c,1} 
+result_LAPSE : 767
+root_LAPSE : [29]([13]([6]([3,d],[3,p]),[7]([3,s],[4]([2,b],[2,e]))),[16]([8]([4]([2,i],[2,l]),[4]([2,m],[2,w])),[8]([4]([2]([1,c],[1,f]),[2]([1,j],[1,u])),[4]([2]([1,x],[1,y]),[2]([1,z],[1,Q])))))
+Line 78: LAPSE olhqkqjrqenldexwrivllfjjbifplojojtzvzmpsoqaxjVvriliiypgya
+freq_LAPSE : {u,8} {s,7} {r,6} {p,6} {n,6} {y,3} {h,3} {c,3} {z,2} {g,2} {b,2} {a,2} {W,1} {x,1} {t,1} {o,1} {l,1} {i,1} {e,1} 
+result_LAPSE : 267
+root_LAPSE : [21]([33]([12]([6,r],[6]([3,c],[3,h])),[10]([4]([2]([1,l],[1,o]),[2]([1,t],[1,x])),[10]([6,n],[6,p]))),[11]([3]([6]([3,y],[1,W]),[11]([13]([2,a],[7,s]),[8,u])),[8]([4]([2,b],[2,g]),[4]([2,z],[2]([1,e],[1,i])))))
+Line 79: LAPSE shrrypjsardIkhgjccuuqjowukwuyzqcnluigjqjehdsqoeoHrlzymmthgbDrrfotygftnhsgxdjczhdkknzxdkmmkjjkp
+freq_LAPSE : {r,17} {n,8} {z,7} {w,7} {q,7} {x,6} {g,6} {l,5} {i,5} {c,5} {u,4} {s,4} {d,4} {y,2} {h,2} {J,1} {I,1} {E,1} {j,1} {b,1} 
+result_LAPSE : 1023
+root_LAPSE : [15]([4]([30]([15]([7,z],[8,n]),[17]([8]([4,d],[4,s]),[8]([4,u],[2,y]))),[9]([2]([1,b],[1,j]),[9]([5,c],[5,i]))),[11]([5]([10]([5,l],[2]([1,E],[1,I])),[3]([1,J],[2,h])),[12]([11]([6,g],[6,x]),[32]([12]([7,q],[7,w]),[17,r]))))
+Line 80: LAPSE Akxyxbnwkgygkqfbwvudjmdjjzpunpehnxq
+freq_LAPSE : {a,6} {n,4} {w,3} {q,3} {m,3} {i,3} {f,3} {y,2} {s,2} {r,2} {d,2} {B,1} {g,1} 
+result_LAPSE : 88
+root_LAPSE : [35]([14]([6]([3,q],[3,w]),[8]([4,n],[4]([2,d],[2,r]))),[21]([9]([4]([2,s],[2,y]),[5]([2]([1,g],[1,B]),[3,f])),[12]([6,a],[6]([3,i],[3,m]))))
+Line 81: LAPSE bghtaclqncaccptUbovVelpynskjluzvod
+freq_LAPSE : {g,4} {v,3} {r,3} {o,3} {x,2} {q,2} {p,2} {d,2} {c,2} {W,1} {V,1} {z,1} {t,1} {l,1} {k,1} {i,1} {h,1} {f,1} {e,1} {a,1} 
+result_LAPSE : 557
+root_LAPSE : [34]([15]([7]([3]([1,W],[2,c]),[4,g]),[8]([4]([2,d],[2,p]),[4]([2,q],[2,x]))),[19]([8]([4]([2]([1,a],[1,e]),[2]([1,f],[1,h])),[4]([2]([1,i],[1,k]),[2]([1,l],[1,t]))),[11]([5]([2]([1,z],[1,V]),[3,o]),[6]([3,r],[3,v]))))
+Line 82: LAPSE oxoegitvhorytlxvdorfgvvCcgznemNbexermjvxjxdnmjHogxomgknvlsttxzopzbvouvnndxklesm
+freq_LAPSE : {d,11} {w,8} {f,8} {j,6} {u,5} {s,5} {r,5} {m,5} {l,5} {x,4} {g,4} {o,3} {c,3} {O,1} {I,1} {D,1} {z,1} {v,1} {q,1} {i,1} 
+result_LAPSE : 111
+root_LAPSE : [10]([6]([2]([12]([6]([3,c],[3,o]),[3]([1,O],[1,i])),[6]([7]([1,q],[4,g]),[4,x])),[4]([2]([1,v],[1,z]),[2]([1,D],[1,I]))),[16]([16]([14]([8,f],[8,w]),[10]([5,l],[5,m])),[21]([17]([10]([5,r],[5,s]),[11,d]),[11]([5,u],[6,j]))))
+Line 83: LAPSE hTiojjmnxyendflopxacVw
+freq_LAPSE : {z,3} {q,3} {p,2} {l,2} {W,1} {U,1} {x,1} {n,1} {m,1} {j,1} {i,1} {g,1} {f,1} {e,1} {d,1} {b,1} 
+result_LAPSE : 698
+root_LAPSE : [16]([8]([4]([2]([1,g],[1,i]),[2]([1,j],[1,m])),[4]([2]([1,n],[1,x]),[2]([1,U],[1,W]))),[8]([14]([6]([3,q],[3,z]),[4]([2,l],[2,p])),[4]([2]([1,b],[1,d]),[2]([1,e],[1,f]))))
+Line 84: LAPSE qeqdphahvuyhldivqvsantKuvktwjqfeWjaGxfmklsrysgifljzrlddlHrdyybscprcbezotEgub
+freq_LAPSE : {i,10} {w,7} {q,5} {m,5} {k,5} {e,5} {z,4} {x,4} {v,4} {u,4} {c,4} {h,3} {d,3} {r,2} {b,2} {X,1} {L,1} {I,1} {H,1} {F,1} {y,1} {p,1} {o,1} {n,1} 
+result_LAPSE : 312
+root_LAPSE : [18]([16]([33]([15]([7,w],[8]([4,c],[4,u])),[8]([4,v],[4,x])),[8]([4]([2]([1,p],[1,y]),[2]([1,F],[1,H])),[4]([8]([4,z],[2,r]),[2]([1,n],[1,o])))),[19]([18]([18]([10,i],[10]([5,e],[5,k])),[10]([5,m],[5,q])),[11]([5]([2]([1,I],[1,L]),[3,d]),[6]([3,h],[3]([1,X],[2,b])))))
+Line 85: LAPSE HygztmbtuQfLsxsbbnnqpcuulfexjcecyqbubuxhborzgadMoefshuxsmnnxqqadvqxdnrehn
+freq_LAPSE : {i,9} {t,8} {a,8} {v,7} {h,6} {d,6} {w,5} {k,4} {q,3} {g,3} {f,3} {o,2} {c,2} {b,2} {R,1} {N,1} {M,1} {I,1} {m,1} 
+result_LAPSE : 835
+root_LAPSE : [36]([13]([4]([8]([4,k],[2,c]),[17]([2,o],[9,i])),[9]([4]([2]([1,m],[1,I]),[2]([1,M],[1,N])),[10]([5,w],[6,d]))),[23]([11]([3]([6]([3,q],[1,R]),[13]([2,b],[7,v])),[11]([8,a],[8,t])),[12]([6,h],[6]([3,f],[3,g]))))
+Line 86: LAPSE cmmzalzimesEfmcruakazRriobjyewqsnolnlvnez
+freq_LAPSE : {q,9} {d,7} {o,3} {k,3} {h,3} {u,2} {t,2} {e,2} {S,1} {F,1} {z,1} {x,1} {w,1} {v,1} {r,1} {l,1} {g,1} {c,1} 
+result_LAPSE : 88
+root_LAPSE : [19]([4]([19]([9,q],[2]([1,x],[1,z])),[10]([2]([1,F],[1,S]),[6]([3,h],[3,k]))),[15]([7]([14]([7,d],[3,o]),[4]([2,e],[2,t])),[8]([4]([2,u],[2]([1,c],[1,g])),[4]([2]([1,l],[1,r]),[2]([1,v],[1,w])))))
+Line 87: HAND 
+q
+19
+x
+2
+z
+4
+F
+2
+S
+10
+h
+6
+k
+19
+d
+14
+o
+7
+e
+4
+t
+15
+u
+4
+c
+2
+g
+8
+l
+2
+r
+4
+v
+2
+w
+Line 88: LAPSE fdljugrvyxusbhahsnaqdxo
+freq_LAPSE : {z,3} {w,3} {c,3} {u,2} {j,2} {f,2} {s,1} {r,1} {p,1} {o,1} {m,1} {k,1} {h,1} {g,1} 
+result_LAPSE : 865
+root_LAPSE : [17]([8]([14]([6]([3,w],[3,z]),[4]([2,f],[2,j])),[4]([2,u],[2]([1,g],[1,h]))),[9]([4]([2]([1,k],[1,m]),[2]([1,o],[1,p])),[5]([2]([1,r],[1,s]),[3,c])))
+Line 89: LAPSE wcmcksgojijvZolsiLeKeoqoecytOzktvbzlwvhiqpzgtpstgLsjzqyoEhxdusrdfzcvwslandgteojhsqofpnbmrQidhtkgow
+freq_LAPSE : {z,17} {l,9} {w,8} {n,7} {h,6} {a,6} {o,5} {e,5} {u,4} {m,4} {i,4} {g,4} {s,3} {N,2} {t,2} {p,2} {d,2} {R,1} {P,1} {L,1} {F,1} {A,1} {y,1} {v,1} {b,1} 
+result_LAPSE : 133
+root_LAPSE : [32]([16]([4]([49]([17,z],[18]([9,l],[2]([1,F],[1,L]))),[9]([2]([1,P],[1,R]),[9]([5,e],[5,o]))),[18]([12]([6,a],[6,h]),[14]([7,n],[7]([3,s],[4,g])))),[16]([32]([16]([8,w],[8]([4,i],[4,m])),[8]([4,u],[4]([2,d],[2,p]))),[8]([4]([2,t],[2,N]),[4]([2]([1,b],[1,v]),[2]([1,y],[1,A])))))
+Line 90: LAPSE bcarliicrelewyxdkybqgmtfXfmeTeasaazyuknvejOabsqwhgxwmnfuxuaxivizdrgrqLbdpch
+freq_LAPSE : {j,10} {g,9} {b,9} {f,7} {m,6} {x,5} {p,5} {v,4} {z,3} {u,3} {t,3} {i,3} {n,2} {Y,1} {U,1} {P,1} {M,1} {q,1} {k,1} 
+result_LAPSE : 444
+root_LAPSE : [16]([4]([8]([4]([2]([1,M],[1,P]),[2]([1,U],[1,Y])),[8]([4,v],[2,n])),[14]([17]([2]([1,k],[1,q]),[17]([9,b],[9,g])),[14]([10,j],[10]([5,p],[5,x])))),[17]([12]([6,m],[6]([3,i],[3,t])),[13]([6]([3,u],[3,z]),[7,f])))
+Line 91: LAPSE kpMqmkmbprdtkhuquwcdsoxbaiVmmcznVlipwpuysnsfoavdxbqnlvSvpiowerzmlcqmrnrgwnfkvvzamxikpgmzjwugbaqie
+freq_LAPSE : {v,18} {u,9} {a,8} {f,7} {s,5} {p,5} {n,5} {g,5} {b,5} {y,4} {e,4} {d,4} {r,3} {o,3} {j,3} {X,2} {h,2} {T,1} {N,1} {z,1} {k,1} {i,1} 
+result_LAPSE : 443
+root_LAPSE : [21]([10]([3]([14]([7,f],[1,T]),[7]([2,h],[4,d])),[7]([2]([4]([2,X],[1,i]),[9]([1,k],[5,b])),[7]([5,g],[5,n]))),[48]([11]([5]([2]([1,z],[1,N]),[3,j]),[6]([3,o],[3,r])),[27]([8]([16]([8,a],[4,e]),[34]([4,y],[18,v])),[19]([9,u],[10]([5,p],[5,s])))))
+Line 92: LAPSE kijw
+freq_LAPSE : {x,1} {l,1} {k,1} {j,1} 
+result_LAPSE : 225
+root_LAPSE : [4]([2]([1,j],[1,k]),[2]([1,l],[1,x]))
+Line 93: LAPSE ykztqeaevfigwytfgedbnpjreggctumvjiyeaynfvyvzxuszmuaxpxulzKEhhkqhekkksglarhswe
+freq_LAPSE : {l,18} {d,10} {p,7} {y,6} {e,5} {z,4} {w,3} {v,3} {i,3} {a,3} {t,2} {s,2} {r,2} {o,2} {n,2} {k,2} {L,1} {F,1} {c,1} 
+result_LAPSE : 906
+root_LAPSE : [36]([15]([7]([3]([1,L],[2,k]),[4,z]),[8]([4]([2,n],[2,o]),[33]([4]([2,r],[2,s]),[18,l]))),[21]([8]([2]([4]([2,t],[1,c]),[9]([1,F],[5,e])),[6]([8]([6,y],[3,a]),[18]([3,i],[10,d]))),[13]([6]([3,v],[3,w]),[7,p])))
+Line 94: LAPSE ztkfefresjeoxbzwebvexkhswgtcaho
+freq_LAPSE : {j,7} {h,3} {d,3} {b,3} {z,2} {y,2} {v,2} {u,2} {q,2} {m,2} {w,1} {s,1} {k,1} 
+result_LAPSE : 245
+root_LAPSE : [21]([10]([4]([2,z],[2]([1,k],[1,s])),[6]([3,b],[3,d])),[11]([3]([6]([3,h],[1,w]),[13]([2,m],[7,j])),[8]([4]([2,q],[2,u]),[4]([2,v],[2,y]))))
+Line 95: LAPSE ebfhqjhzasbkxycmkyNffveubxjcfolrdvwzytsblofrHFhrnygrrresumtsjmjXkvckadNljlyuplvHtrxnqkdfvd
+freq_LAPSE : {p,10} {q,8} {h,8} {a,8} {y,7} {w,7} {f,7} {l,6} {o,5} {d,5} {x,4} {k,3} {P,2} {J,2} {s,2} {c,2} {b,2} {Y,1} {G,1} 
+result_LAPSE : 545
+root_LAPSE : [15]([29]([14]([7,y],[7]([3,k],[4,x])),[7]([2]([4]([2,P],[1,G]),[9]([1,Y],[5,d])),[8]([5,o],[6,l]))),[39]([15]([15]([15]([8,a],[8,h]),[8,q]),[8]([4]([2,b],[2,c]),[4]([2,s],[2,J]))),[24]([10,p],[14]([7,f],[7,w]))))
+Line 96: LAPSE pjonKqbmdwtjanxfOlotbwvxkienuuojpjrxxisqgBgvzqfbglqlbgzF
+freq_LAPSE : {b,7} {k,6} {r,5} {n,5} {f,5} {u,4} {q,3} {o,3} {y,2} {x,2} {w,2} {v,2} {h,2} {P,1} {L,1} {G,1} {C,1} {t,1} {s,1} {l,1} {e,1} 
+result_LAPSE : 958
+root_LAPSE : [31]([15]([25]([10]([5,f],[5,n]),[7]([3,q],[4,u])),[8]([4]([2,h],[2,v]),[4]([2,w],[2,x]))),[16]([8]([4]([2,y],[2]([1,e],[1,l])),[4]([2]([1,s],[1,t]),[2]([1,C],[1,G]))),[8]([2]([10]([5,r],[1,L]),[5]([1,P],[3,o])),[9]([6,k],[7,b]))))
+Line 97: LAPSE iyeixftbqntfptdtuvnWeotndkocccbcaSpwvkwmffhwyvqupcedYuntcokufygtoktyettxdmzltdxj
+freq_LAPSE : {i,16} {e,11} {s,9} {k,8} {y,7} {o,6} {r,4} {c,4} {a,4} {z,3} {d,2} {Z,1} {X,1} {T,1} {m,1} {h,1} {b,1} 
+result_LAPSE : 495
+root_LAPSE : [8]([16]([8]([4,c],[4,r]),[4]([2,d],[2]([1,b],[1,h]))),[23]([17]([4]([2]([1,m],[1,T]),[2]([1,X],[1,Z])),[21]([19]([9,s],[11,e]),[13]([6,o],[7,y]))),[15]([7]([3,z],[4,a]),[24]([8,k],[16,i]))))
+Line 98: LAPSE xgljjuyvsxuxszsehjneapkrcikekj
+freq_LAPSE : {n,7} {h,4} {a,4} {w,3} {v,3} {z,1} {s,1} {q,1} {o,1} {m,1} {j,1} {i,1} {d,1} {b,1} 
+result_LAPSE : 14
+root_LAPSE : [12]([3]([14]([7,n],[6]([3,w],[1,z])),[7]([2]([1,b],[1,d]),[7]([4,a],[4,h]))),[9]([4]([2]([1,i],[1,j]),[2]([1,m],[1,o])),[5]([2]([1,q],[1,s]),[3,v])))
+Line 99: LAPSE zkvvfbndkuReqxuhqfngilkfdeafzviyrickkrbdiqzlnpqveoegsjeqleqskrloltmtmqv
+freq_LAPSE : {q,17} {x,7} {k,7} {u,5} {a,5} {m,4} {j,4} {i,3} {g,3} {d,3} {c,3} {w,2} {v,2} {o,2} {S,1} {z,1} {y,1} {b,1} 
+result_LAPSE : 669
+root_LAPSE : [7]([2]([37]([17,q],[4]([2,w],[1,b])),[7]([9]([1,y],[5,a]),[5,u])),[20]([15]([5]([2]([1,z],[1,S]),[3,c]),[8]([4,m],[4]([2,o],[2,v]))),[21]([13]([6]([3,d],[3,g]),[7,k]),[14]([7,x],[7]([3,i],[4,j])))))
+Line 100: LAPSE ifcofnhsnssxvdvwgedzyfdujmxyvevblmlhfnmcyjmexxradoeayfrwwaQzrxfnodklewfkdbdbzavrmmsyuanwpqtgxmzu
+freq_LAPSE : {d,15} {m,9} {j,8} {t,7} {k,7} {s,5} {f,5} {e,5} {b,5} {a,5} {w,4} {v,4} {r,4} {x,3} {o,3} {l,2} {i,2} {R,1} {u,1} {q,1} 
+result_LAPSE : 860
+root_LAPSE : [23]([7]([10]([3]([14]([7,t],[1,R]),[7]([2,i],[4,r])),[2]([4]([2,l],[1,q]),[9]([1,u],[5,a]))),[13]([23]([7]([5,b],[5,e]),[6]([3,o],[3,x])),[22]([7,k],[15,d]))),[26]([16]([8,j],[8]([4,v],[4,w])),[19]([9,m],[10]([5,f],[5,s]))))
+Line 101: LAPSE gscaxgjlwoofzoozibEjdgvcBzlnjupyzpizzquyatosubvfdnqvwapuibuoBwfwcy
+freq_LAPSE : {f,11} {u,9} {z,5} {s,5} {y,4} {a,4} {m,3} {l,3} {j,3} {i,3} {e,3} {d,3} {b,3} {D,2} {p,2} {n,2} {F,1} 
+result_LAPSE : 433
+root_LAPSE : [41]([15]([4]([18]([9,u],[2,p]),[15]([9]([2,D],[5,s]),[11,f])),[11]([5,z],[6]([3,b],[3,d]))),[26]([12]([6]([3,e],[3,i]),[6]([3,j],[3,l])),[14]([6]([3,m],[3]([1,F],[2,n])),[8]([4,a],[4,y]))))
+Line 102: LAPSE rhwptffHftolacw
+freq_LAPSE : {i,4} {y,2} {v,2} {I,1} {s,1} {q,1} {p,1} {m,1} {d,1} {b,1} 
+result_LAPSE : 234
+root_LAPSE : [15]([7]([3]([1,I],[2,v]),[4,i]),[8]([4]([2,y],[2]([1,b],[1,d])),[4]([2]([1,m],[1,p]),[2]([1,q],[1,s]))))
+Line 103: LAPSE vcaickkbrYeaaqtcnxrCnthjfmjrvapnga
+freq_LAPSE : {f,9} {q,4} {u,3} {x,2} {v,2} {m,2} {l,2} {Z,1} {D,1} {y,1} {r,1} {n,1} {j,1} {i,1} {h,1} {g,1} {c,1} 
+result_LAPSE : 30
+root_LAPSE : [25]([9]([4]([18]([9,f],[2]([1,j],[1,n])),[2]([1,r],[1,y])),[5]([2]([1,D],[1,Z]),[3,u])),[16]([8]([4,q],[4]([2,l],[2,m])),[8]([4]([2,v],[2,x]),[4]([2]([1,c],[1,g]),[2]([1,h],[1,i])))))
+Line 104: LAPSE ccxnjhzowzgmokcrmrjfgfyFlursrrlswwgghbrjsvtqnnzcypxmLaoefqhon
+freq_LAPSE : {k,7} {x,6} {s,6} {z,5} {v,4} {r,4} {g,4} {c,4} {p,3} {m,3} {i,3} {n,2} {a,2} {M,1} {G,1} {w,1} {u,1} {q,1} {l,1} {f,1} {b,1} 
+result_LAPSE : 744
+root_LAPSE : [49]([19]([8]([4]([2]([1,b],[1,f]),[2]([1,l],[1,q])),[4]([2]([1,u],[1,w]),[2]([1,G],[1,M]))),[20]([11]([5,z],[6,s]),[12]([6,x],[6]([3,i],[3,m])))),[30]([14]([7,k],[7]([3,p],[4,c])),[16]([8]([4,g],[4,r]),[8]([4,v],[4]([2,a],[2,n])))))
+Line 105: LAPSE ijiejcbxfPpcscjfjfmfudqkEf
+freq_LAPSE : {k,7} {n,5} {f,4} {Q,1} {F,1} {y,1} {v,1} {t,1} {r,1} {q,1} {l,1} {e,1} {c,1} 
+result_LAPSE : 837
+root_LAPSE : [10]([2]([11]([5,n],[1,F]),[9]([6]([1,Q],[4,f]),[7,k])),[8]([4]([2]([1,c],[1,e]),[2]([1,l],[1,q])),[4]([2]([1,r],[1,t]),[2]([1,v],[1,y]))))
+Line 106: LAPSE sjwEdsqnmklhdmpxuiivyfhtrkaewaryzrztqvsnwietrmxlfyrejwnxrgkgbtbaichluDrsfsiube
+freq_LAPSE : {x,14} {i,9} {n,8} {y,7} {a,7} {b,5} {q,4} {d,4} {p,3} {o,3} {k,3} {e,3} {s,2} {l,2} {f,2} {F,1} {E,1} 
+result_LAPSE : 909
+root_LAPSE : [47]([19]([8]([16]([8]([4,d],[4,q]),[4]([2,f],[2,l])),[2]([4]([2,s],[1,E]),[17]([1,F],[9,i]))),[11]([5,b],[6]([3,e],[3,k]))),[28]([13]([6]([3,o],[3,p]),[27]([7,a],[14,x])),[15]([7,y],[8,n])))
+Line 107: LAPSE ngptvxnruljntolfjzquisudpdbepscotstfg
+freq_LAPSE : {x,7} {q,5} {s,4} {v,3} {f,3} {n,2} {l,2} {i,2} {h,2} {y,1} {w,1} {r,1} {j,1} {d,1} {c,1} {a,1} 
+result_LAPSE : 212
+root_LAPSE : [20]([9]([4]([2]([1,d],[1,j]),[2]([1,r],[1,w])),[10]([5,q],[6]([3,f],[3,v]))),[11]([3]([14]([7,x],[1,y]),[7]([2,h],[4,s])),[8]([4]([2,i],[2,l]),[4]([2,n],[2]([1,a],[1,c])))))
+Line 108: LAPSE zqjzkmxhggaifemuezrSqeqraqpknucqhqgCczoctpsglvyweywdjpmwvsIeohiksbowpenlizudvrk
+freq_LAPSE : {k,13} {w,6} {a,6} {p,5} {l,5} {f,5} {e,5} {y,4} {u,4} {t,4} {o,4} {x,3} {v,3} {r,3} {c,3} {n,2} {T,1} {J,1} {D,1} {g,1} 
+result_LAPSE : 816
+root_LAPSE : [35]([15]([28]([13,k],[7]([3,x],[4,o])),[8]([4,t],[4,u])),[20]([9]([4]([8]([4,y],[2,n]),[2]([1,g],[1,D])),[19]([9]([5,e],[5,f]),[10]([5,l],[5,p]))),[11]([5]([2]([1,J],[1,T]),[11]([3,c],[6,a])),[11]([6,w],[6]([3,r],[3,v])))))
+Line 109: LAPSE ywulzhurmxjlzqldncteqwyfkcsuykklew
+freq_LAPSE : {b,5} {p,4} {n,4} {z,3} {x,3} {s,3} {g,3} {e,3} {y,1} {u,1} {t,1} {o,1} {k,1} {i,1} 
+result_LAPSE : 974
+root_LAPSE : [9]([4]([17]([8]([4,n],[4,p]),[2]([1,i],[1,k])),[9]([2]([1,o],[1,t]),[5,b])),[16]([5]([2]([1,u],[1,y]),[3,e]),[12]([6]([3,g],[3,s]),[6]([3,x],[3,z]))))
+Line 110: LAPSE qftnwdmzpktkjrsooijlApejix
+freq_LAPSE : {m,6} {r,3} {v,2} {q,2} {k,2} {B,1} {y,1} {x,1} {t,1} {s,1} {o,1} {n,1} {g,1} {f,1} {e,1} {a,1} 
+result_LAPSE : 623
+root_LAPSE : [20]([8]([4]([2]([1,a],[1,e]),[2]([1,f],[1,g])),[4]([2]([1,n],[1,o]),[2]([1,s],[1,t]))),[12]([5]([2]([1,x],[1,y]),[11]([3,r],[6,m])),[7]([3]([1,B],[2,k]),[4]([2,q],[2,v]))))
+Line 111: LAPSE zxkyipfmnwrorcJphssrlrjtlogmyajnsrvweecjx
+freq_LAPSE : {w,6} {v,3} {m,3} {g,3} {a,3} {z,2} {y,2} {r,2} {q,2} {p,2} {o,2} {n,2} {e,2} {K,1} {u,1} {l,1} {j,1} {i,1} {h,1} {b,1} 
+result_LAPSE : 142
+root_LAPSE : [41]([16]([8]([4]([2,p],[2,q]),[4]([2,r],[2,y])),[8]([4]([2,z],[2]([1,b],[1,h])),[4]([2]([1,i],[1,j]),[2]([1,l],[1,u])))),[25]([12]([6,w],[6]([3,a],[3,g])),[13]([6]([3,m],[3,v]),[7]([3]([1,K],[2,e]),[4]([2,n],[2,o])))))
+Line 112: LAPSE qwvtaaevowufzxjyjesti
+freq_LAPSE : {y,3} {v,3} {g,3} {x,2} {l,2} {c,2} {z,1} {t,1} {r,1} {p,1} {j,1} {a,1} 
+result_LAPSE : 811
+root_LAPSE : [21]([8]([4]([2,x],[2]([1,a],[1,j])),[4]([2]([1,p],[1,r]),[2]([1,t],[1,z]))),[13]([6]([3,g],[3,v]),[7]([3,y],[4]([2,c],[2,l]))))
+Line 113: LAPSE qrqcqtozlkrjehmboqphlyrilzpbrmxpkclawErtwyeyJryo
+freq_LAPSE : {x,6} {u,4} {p,4} {c,4} {y,3} {s,3} {r,3} {j,3} {b,3} {v,2} {o,2} {m,2} {g,2} {e,2} {d,2} {K,1} {F,1} {k,1} 
+result_LAPSE : 77
+root_LAPSE : [48]([20]([8]([4]([2,m],[2,o]),[4]([2,v],[2]([1,k],[1,F]))),[12]([6,x],[6]([3,b],[3,j]))),[28]([12]([6]([3,r],[3,s]),[6]([3,y],[3]([1,K],[2,d]))),[16]([8]([4,c],[4,p]),[8]([4,u],[4]([2,e],[2,g])))))
+Line 114: LAPSE nklzqmfcqptyrumwMnrnaGwbxcdgarfmifwljskxuedmawnjoipkp
+freq_LAPSE : {s,5} {n,5} {a,5} {u,4} {r,4} {q,4} {z,3} {i,3} {f,3} {d,3} {w,2} {l,2} {k,2} {e,2} {N,1} {H,1} {t,1} {p,1} {h,1} {c,1} 
+result_LAPSE : 90
+root_LAPSE : [40]([16]([8]([4]([2,e],[2,k]),[4]([2,l],[2,w])),[8]([2]([10]([5,s],[1,H]),[5]([1,N],[3,d])),[6]([3,f],[3,i]))),[24]([9]([4]([2]([1,c],[1,h]),[2]([1,p],[1,t])),[9]([5,a],[5,n])),[15]([7]([3,z],[4,q]),[8]([4,r],[4,u]))))
+Line 115: LAPSE tdegjlygogikdokcwyqjfzhtgnjgxmwotoikwgyhejcfnaEgwwpvqywsgauvwurvjcztmlqc
+freq_LAPSE : {o,15} {d,7} {g,6} {c,6} {s,5} {n,5} {y,4} {x,4} {t,4} {w,2} {p,2} {k,2} {j,2} {h,2} {f,2} {b,2} {F,1} {q,1} 
+result_LAPSE : 427
+root_LAPSE : [28]([7]([2]([30]([15,o],[4]([2,w],[1,q])),[9]([1,F],[5,n])),[15]([15]([8]([5,s],[6,c]),[8]([4,t],[4,x])),[8]([4,y],[4]([2,b],[2,f])))),[21]([8]([4]([2,h],[2,j]),[4]([2,k],[2,p])),[13]([6,g],[7,d])))
+Line 116: LAPSE rayqqask
+freq_LAPSE : {s,3} {c,2} {z,1} {t,1} {l,1} 
+result_LAPSE : 219
+root_LAPSE : [8]([3]([1,z],[2,c]),[5]([2]([1,l],[1,t]),[3,s]))
+Line 117: LAPSE xrqwuvnbwxsXmrnt
+freq_LAPSE : {t,3} {z,2} {y,2} {p,2} {Y,1} {w,1} {v,1} {u,1} {r,1} {n,1} {c,1} 
+result_LAPSE : 871
+root_LAPSE : [16]([7]([3]([1,Y],[2,p]),[4]([2,y],[2,z])),[9]([4]([2]([1,c],[1,n]),[2]([1,r],[1,u])),[5]([2]([1,v],[1,w]),[3,t])))
+Line 118: LAPSE ejrhnqlughdtxSfpegmXfjzhhdqcpIpzuuwaMwgovhalldjfxj
+freq_LAPSE : {s,6} {n,5} {m,5} {g,5} {o,4} {x,3} {j,3} {i,3} {z,2} {y,2} {c,2} {b,2} {Y,1} {T,1} {N,1} {J,1} {w,1} {u,1} {p,1} {d,1} 
+result_LAPSE : 504
+root_LAPSE : [16]([29]([13]([6]([3,i],[3,j]),[7]([3,x],[4,o])),[8]([4]([2,b],[2,c]),[4]([2,y],[2,z]))),[37]([8]([4]([2]([1,d],[1,p]),[2]([1,u],[1,w])),[4]([2]([1,J],[1,N]),[2]([1,T],[1,Y]))),[21]([10]([5,g],[5,m]),[11]([5,n],[6,s]))))
+Line 119: LAPSE nvEkzdfekwvrajajrvwtnqnjaxevzkdypxawaZniwpvbhcnmbapetevdlfhfDeavfgvzsunnMsecyafFg
+freq_LAPSE : {k,11} {i,10} {d,10} {u,9} {a,6} {n,4} {m,4} {v,3} {s,3} {j,3} {g,3} {c,3} {z,2} {t,2} {e,2} {N,1} {G,1} {F,1} {E,1} {A,1} {r,1} 
+result_LAPSE : 458
+root_LAPSE : [33]([8]([16]([8]([4,n],[4]([2,e],[2,t])),[4]([2,z],[2]([1,r],[1,A]))),[35]([4]([2]([1,E],[1,F]),[2]([1,G],[1,N])),[29]([19]([9,u],[10,d]),[21]([10,i],[11,k])))),[25]([12]([6,a],[6]([3,c],[3,g])),[13]([6]([3,j],[3,s]),[7]([3,v],[4,m]))))
+Line 120: LAPSE pccpxabtnxnchnedrdjzorgtexnjhctslqaeivunedzdnujmarelsTTaamnmvnbxXtbabkqlfYklkwatytxabdskhjqmjavv
+freq_LAPSE : {j,15} {z,11} {v,11} {g,10} {o,9} {p,5} {i,5} {c,5} {q,4} {u,3} {t,3} {k,3} {V,2} {w,2} {r,2} {b,2} {Z,1} {Y,1} {x,1} {h,1} 
+result_LAPSE : 955
+root_LAPSE : [20]([9]([4]([18]([9,o],[2]([1,h],[1,x])),[2]([1,Y],[1,Z])),[14]([9]([5,c],[5,i]),[20]([15]([10,g],[11,v]),[11,z]))),[24]([6]([11]([5,p],[3,k]),[24]([3,t],[15,j])),[15]([7]([3,u],[4,q]),[8]([4]([2,b],[2,r]),[4]([2,w],[2,V])))))
+Line 121: LAPSE ytmifOtzjhpjlkjvohuikfydxqyclsgrkmSsnqqdyddjrlaougmqfnxgdOYnxaxvphpasmgqgqq
+freq_LAPSE : {x,9} {q,9} {i,8} {n,7} {v,5} {l,5} {k,5} {d,4} {c,4} {b,4} {s,3} {o,3} {Q,2} {w,2} {t,2} {Z,1} {T,1} {a,1} 
+result_LAPSE : 682
+root_LAPSE : [19]([3]([8]([2]([10]([5,v],[1,a]),[5]([1,T],[3,o])),[6]([3,s],[1,Z])),[18]([17]([17]([2,t],[9,q]),[9,x]),[18]([10]([5,k],[5,l]),[15]([7,n],[8,i])))),[16]([8]([4,b],[4,c]),[8]([4,d],[4]([2,w],[2,Q]))))
+Line 122: LAPSE tOhzjeIqyuurlseimhhmngkfokuxxacrepqcavomdarbwixlrzjoaqzowotzwtGeihmVpxrnsjxvfalmhVisu
+freq_LAPSE : {m,14} {w,8} {t,8} {r,7} {c,6} {f,5} {z,4} {y,4} {i,4} {d,4} {v,3} {o,3} {h,3} {e,3} {X,2} {x,2} {p,2} {P,1} {J,1} {H,1} 
+result_LAPSE : 451
+root_LAPSE : [47]([20]([9]([4]([2,x],[2,X]),[5,f]),[11]([5]([2]([1,H],[1,J]),[11]([3,e],[6,c])),[6]([3,h],[3,o]))),[27]([11]([3]([6]([3,v],[1,P]),[13]([2,p],[7,r])),[25]([11]([8,t],[8,w]),[14,m])),[16]([8]([4,d],[4,i]),[8]([4,y],[4,z]))))
+Line 123: LIMITLESS 2
+43
+77
+99
+111
+133
+143
+163
+187
+193
+219
+219
+225
+245
+267
+273
+323
+323
+323
+331
+367
+385
+395
+427
+433
+443
+451
+495
+505
+533
+545
+557
+623
+655
+669
+677
+713
+725
+751
+767
+811
+819
+819
+835
+837
+865
+869
+871
+885
+895
+909
+913
+945
+955
+971
+999
+1023
+Line 124: LAPSE bnqeyfdvjskmafzccGldkdbdngKhggdqpoczqpeamashpffpedashyznljab
+freq_LAPSE : {j,13} {f,8} {t,7} {v,3} {q,3} {k,3} {h,3} {e,3} {c,3} {o,2} {n,2} {m,2} {l,2} {a,2} {L,1} {H,1} {w,1} {p,1} 
+result_LAPSE : 437
+root_LAPSE : [23]([29]([6]([26]([13,j],[3,k]),[13]([3,q],[7,t])),[11]([5]([2]([1,H],[1,L]),[3,c]),[6]([3,e],[3,h]))),[12]([4]([7]([3,v],[2,a]),[15]([2,l],[8,f])),[8]([4]([2,m],[2,n]),[4]([2,o],[2]([1,p],[1,w])))))
+Line 125: LAPSE mulWanzi
+freq_LAPSE : {X,1} {v,1} {o,1} {n,1} {m,1} {j,1} {b,1} {a,1} 
+result_LAPSE : 267
+root_LAPSE : [8]([4]([2]([1,a],[1,b]),[2]([1,j],[1,m])),[4]([2]([1,n],[1,o]),[2]([1,v],[1,X])))
+Line 126: LAPSE hiygovivdenpyacclvpqxookpgwqucfsezhxunuteisvornfswAvuysQvjqyvevqhu
+freq_LAPSE : {s,8} {d,8} {z,7} {i,6} {u,5} {w,4} {l,4} {k,4} {c,4} {q,3} {f,3} {y,2} {h,2} {R,1} {B,1} {m,1} {e,1} {b,1} {a,1} 
+result_LAPSE : 863
+root_LAPSE : [9]([4]([17]([8]([4,w],[4]([2,h],[2,y])),[2]([1,a],[1,b])),[9]([2]([1,e],[1,m]),[5,u])),[19]([17]([5]([2]([1,B],[1,R]),[3,f]),[13]([6,i],[7,z])),[25]([15]([7]([3,q],[4,c]),[8,d]),[16]([8,s],[8]([4,k],[4,l])))))
+Line 127: LAPSE tuomvmgketCpevgpiabrze
+freq_LAPSE : {v,3} {h,3} {x,2} {r,2} {o,2} {i,2} {D,1} {s,1} {p,1} {l,1} {j,1} {c,1} {b,1} {a,1} 
+result_LAPSE : 131
+root_LAPSE : [22]([8]([4]([2]([1,a],[1,b]),[2]([1,c],[1,j])),[4]([2]([1,l],[1,p]),[2]([1,s],[1,D]))),[14]([6]([3,h],[3,v]),[8]([4]([2,i],[2,o]),[4]([2,r],[2,x]))))
+Line 128: LAPSE yclSeoqzyGcgkgkqbcqjlopeeQdpvloegYz
+freq_LAPSE : {r,5} {i,4} {t,3} {o,3} {j,3} {f,3} {m,2} {b,2} {a,2} {Z,1} {T,1} {R,1} {H,1} {w,1} {k,1} {e,1} {c,1} 
+result_LAPSE : 684
+root_LAPSE : [17]([30]([13]([6]([3,j],[3,o]),[7]([3,t],[4,i])),[8]([4]([2,a],[2,b]),[4]([2,m],[2]([1,c],[1,e])))),[9]([4]([2]([1,k],[1,w]),[9]([2]([1,H],[1,R]),[5,r])),[5]([2]([1,T],[1,Z]),[3,f])))
+Line 129: LAPSE jlugpllyppoxxeezpplarNyznwgafvsylscwudxpwajm
+freq_LAPSE : {v,6} {q,5} {b,5} {d,4} {z,3} {w,3} {g,3} {a,3} {u,2} {l,2} {i,2} {O,1} {s,1} {p,1} {o,1} {n,1} {e,1} 
+result_LAPSE : 828
+root_LAPSE : [32]([14]([6]([3,w],[3,z]),[8]([4,d],[4]([2,i],[2,l]))),[18]([8]([4]([2,u],[2]([1,e],[1,n])),[4]([2]([1,o],[1,p]),[2]([1,s],[1,O]))),[20]([10]([5,b],[5,q]),[12]([6,v],[6]([3,a],[3,g])))))
+Line 130: LAPSE ulifohxgcaywyeqmdqbodkrhbabnLbermznxcvvctxbqlgwzw
+freq_LAPSE : {g,8} {t,5} {f,5} {a,5} {z,3} {j,3} {x,2} {q,2} {p,2} {o,2} {n,2} {i,2} {c,2} {b,2} {M,1} {v,1} {u,1} {l,1} 
+result_LAPSE : 981
+root_LAPSE : [36]([16]([8]([4]([2,o],[2,p]),[4]([2,q],[2,x])),[8]([16]([8,g],[4]([2,b],[2,c])),[4]([2,i],[2,n]))),[20]([9]([4]([2]([1,l],[1,u]),[2]([1,v],[1,M])),[9]([5,a],[5,f])),[11]([5,t],[6]([3,j],[3,z]))))
+Line 131: LAPSE dqbksgaruruyprmlmklldwxdntfdmemzbxowtzcwjagrwuzxaexffoooetyqkvlo
+freq_LAPSE : {h,7} {t,6} {d,6} {a,6} {q,5} {i,5} {w,4} {v,4} {p,4} {b,4} {x,3} {n,3} {c,3} {s,2} {o,1} {k,1} 
+result_LAPSE : 393
+root_LAPSE : [16]([30]([14]([7,h],[7]([3,x],[4,b])),[4]([17]([8]([4,p],[4,v]),[8]([4,w],[2,s])),[9]([2]([1,k],[1,o]),[9]([5,i],[5,q])))),[16]([12]([6,a],[6,d]),[12]([6,t],[6]([3,c],[3,n]))))
+Line 132: LAPSE vbhfejplvlwiddBfD
+freq_LAPSE : {x,3} {f,3} {n,2} {h,2} {E,1} {C,1} {q,1} {k,1} {j,1} {i,1} {c,1} 
+result_LAPSE : 77
+root_LAPSE : [17]([7]([3]([1,E],[2,h]),[4]([2,n],[2]([1,c],[1,i]))),[10]([4]([2]([1,j],[1,k]),[2]([1,q],[1,C])),[6]([3,f],[3,x])))
+Line 133: LAPSE aiBblmjggncljwcojbOvgvbymmbnvpgudajdgrpniqmikycwjvurinhvNVqujzqbzxmqytJlbyQrloplocfpargksrzokyq
+freq_LAPSE : {m,10} {r,9} {d,8} {p,6} {h,6} {w,5} {v,5} {t,5} {q,5} {g,5} {a,5} {s,4} {y,3} {x,3} {n,3} {c,3} {f,2} {W,1} {R,1} {P,1} {O,1} {K,1} {C,1} {u,1} {i,1} 
+result_LAPSE : 381
+root_LAPSE : [14]([4]([8]([4]([2,f],[2]([1,i],[1,u])),[2]([1,C],[1,K])),[17]([2]([1,O],[1,P]),[18]([9,r],[10,m]))),[15]([14]([14]([10]([5,a],[5,g]),[10]([5,q],[5,t])),[10]([5,v],[5,w])),[29]([11]([5]([2]([1,R],[1,W]),[11]([3,c],[6,h])),[11]([6,p],[6]([3,n],[3,x]))),[15]([7]([3,y],[4,s]),[8,d]))))
+Line 134: LAPSE qqsngcbilhWgcfjgafybbmwurlwhodfcsstzuhqhlzbycphpzhidmqayeaztky
+freq_LAPSE : {f,7} {d,7} {o,6} {n,6} {v,5} {u,4} {g,4} {c,4} {k,3} {j,3} {i,3} {y,2} {w,2} {r,2} {X,1} {s,1} {p,1} {l,1} 
+result_LAPSE : 373
+root_LAPSE : [7]([28]([13]([6]([3,j],[3,k]),[7,d]),[2]([14]([7,f],[4]([2,y],[1,l])),[9]([1,p],[5,v]))),[15]([15]([5]([2]([1,s],[1,X]),[3,i]),[8]([4,c],[4,g])),[19]([8]([4,u],[4]([2,r],[2,w])),[12]([6,n],[6,o]))))
+Line 135: LAPSE tgkbugsxfyhyqiqwlOvjjyzrjyaa
+freq_LAPSE : {c,7} {m,4} {s,3} {i,3} {P,1} {y,1} {x,1} {w,1} {v,1} {u,1} {t,1} {l,1} {j,1} {g,1} {a,1} 
+result_LAPSE : 955
+root_LAPSE : [16]([6]([2]([3]([1,P],[1,a]),[7]([1,g],[4,m])),[4]([2]([1,j],[1,l]),[13]([2]([1,t],[1,u]),[7,c]))),[10]([4]([2]([1,v],[1,w]),[2]([1,x],[1,y])),[6]([3,i],[3,s])))
+Line 136: LAPSE xxpsfdlqzjdwcsnjqgdjsyynreeedjzzhdaigullhhwycbqntuxyzw
+freq_LAPSE : {i,7} {c,5} {q,4} {n,4} {d,4} {z,3} {v,3} {t,3} {o,3} {k,3} {h,3} {a,3} {w,2} {e,2} {u,1} {s,1} {j,1} {g,1} {b,1} 
+result_LAPSE : 537
+root_LAPSE : [34]([14]([27]([13]([6]([3,v],[3,z]),[7,i]),[7]([3]([1,u],[2,e]),[4,d])),[7]([2]([4]([2,w],[1,b]),[9]([1,g],[5,c])),[5]([2]([1,j],[1,s]),[3,a]))),[20]([8]([4,n],[4,q]),[12]([6]([3,h],[3,k]),[6]([3,o],[3,t]))))
+Line 137: LAPSE dumqjwilcjyyhfgtyswxfidymbribfaqoqxpdlogcbwvgpztshrs
+freq_LAPSE : {v,6} {z,5} {t,5} {l,5} {j,5} {e,5} {c,4} {i,3} {g,3} {r,2} {q,2} {o,2} {n,2} {w,1} {b,1} {a,1} 
+result_LAPSE : 1007
+root_LAPSE : [27]([13]([6]([3,g],[3,i]),[7]([3]([1,w],[2,n]),[4,c])),[14]([4]([8]([4]([2,o],[2,q]),[2,r]),[18]([2]([1,a],[1,b]),[10]([5,e],[5,j]))),[15]([10]([5,l],[5,t]),[11]([5,z],[6,v]))))
+Line 138: LAPSE pvcotmcinhbjxkgeqymttcoistildnrouiceimfisizdzSwfktrhhyyLxau
+freq_LAPSE : {p,12} {g,6} {b,6} {y,5} {r,4} {k,4} {w,3} {m,3} {h,3} {z,2} {u,2} {t,2} {f,2} {T,1} {M,1} {x,1} {q,1} {c,1} 
+result_LAPSE : 656
+root_LAPSE : [28]([52]([24]([12,p],[12]([6,b],[6,g])),[13]([6]([3,m],[3,w]),[7]([3]([1,T],[2,f]),[4,k]))),[15]([7]([2]([4]([2,z],[1,c]),[9]([1,q],[5,y])),[5]([2]([1,x],[1,M]),[3,h])),[8]([4,r],[4]([2,t],[2,u]))))
+Line 139: LAPSE dkfcnchyxcvjdbqtPmcphowychRnvcFtfhqnIzribagmjzVfytkllsjhzztp
+freq_LAPSE : {m,10} {i,9} {x,7} {d,6} {b,4} {s,3} {q,3} {r,2} {o,2} {n,2} {f,2} {W,1} {S,1} {Q,1} {J,1} {G,1} {y,1} {t,1} {p,1} {j,1} {h,1} 
+result_LAPSE : 855
+root_LAPSE : [28]([12]([47]([19]([9,i],[10,m]),[5]([2]([1,S],[1,W]),[11]([3,q],[6,d]))),[12]([7,x],[7]([3,s],[4,b]))),[16]([8]([4]([2,f],[2,n]),[4]([2,o],[2,r])),[8]([4]([2]([1,h],[1,j]),[2]([1,p],[1,t])),[4]([2]([1,y],[1,G]),[2]([1,J],[1,Q])))))
+Line 140: LAPSE ihbabumqpabvuxibhnofribevHisnymgbdcnimztpxtgsatgtexralwpdylfrahplgojmpjql
+freq_LAPSE : {u,10} {q,9} {h,8} {x,7} {k,7} {f,7} {a,6} {n,5} {p,4} {w,2} {s,2} {l,2} {g,2} {I,1} {d,1} 
+result_LAPSE : 325
+root_LAPSE : [21]([8]([16]([8,h],[4]([2,g],[2,l])),[19]([17]([4]([2,s],[2,w]),[18]([9,q],[10,u])),[11]([5,n],[6,a]))),[13]([6]([2]([1,d],[1,I]),[13]([4,p],[7,f])),[13]([7,k],[7,x])))
+Line 141: LAPSE PwauabnzvrnqjdrznndyatXlswaXwigjghjEubdqpwfrnqmglidcvxoLeqjwOqulfkshdbocjahejndnhuihvZhkde
+freq_LAPSE : {u,13} {y,8} {n,7} {k,7} {b,7} {p,6} {v,5} {h,5} {f,5} {e,5} {q,3} {o,3} {l,3} {j,3} {Z,2} {m,2} {Q,1} {P,1} {M,1} {F,1} {A,1} {z,1} 
+result_LAPSE : 28
+root_LAPSE : [27]([11]([5]([21]([10]([5,h],[5,v]),[2]([1,P],[1,Q])),[11]([3,j],[6,p])),[19]([18]([6]([3,l],[3,o]),[13,u]),[14]([7,b],[7,k]))),[16]([7]([14]([7,n],[3,q]),[15]([4]([2,m],[2,Z]),[8,y])),[9]([4]([2]([1,z],[1,A]),[2]([1,F],[1,M])),[9]([5,e],[5,f]))))
+Line 142: LAPSE sxfygsouIaokmtsfwaaprzvdcvolhtxWdokyyiueilyvwhccmvtdjiwjqXrke
+freq_LAPSE : {z,9} {w,5} {n,5} {l,5} {g,5} {s,4} {c,4} {v,3} {h,3} {f,3} {d,3} {t,2} {o,2} {j,2} {Y,1} {X,1} {J,1} {r,1} {q,1} {a,1} 
+result_LAPSE : 393
+root_LAPSE : [39]([17]([8]([16]([8]([4,c],[4,s]),[4]([2,j],[2,o])),[2]([4]([2,t],[1,a]),[17]([1,q],[9,z]))),[9]([4]([2]([1,r],[1,J]),[2]([1,X],[1,Y])),[9]([5,g],[5,l]))),[22]([10]([5,n],[5,w]),[12]([6]([3,d],[3,f]),[6]([3,h],[3,v]))))
+Line 143: LAPSE mjpjhivjbjktvcmejoqhhfnehdtmsxwtqmpnZXygnvdwqGavsqgpej
+freq_LAPSE : {q,7} {p,7} {u,6} {z,5} {l,5} {y,3} {w,3} {s,3} {h,3} {i,2} {f,2} {Y,1} {H,1} {A,1} {j,1} {g,1} {d,1} {c,1} {b,1} 
+result_LAPSE : 942
+root_LAPSE : [42]([17]([8]([15]([7,q],[4]([2,f],[2,i])),[4]([2]([1,b],[1,c]),[2]([1,d],[1,g]))),[9]([4]([2]([1,j],[1,A]),[2]([1,H],[1,Y])),[9]([5,l],[5,z]))),[25]([12]([6,u],[6]([3,h],[3,s])),[13]([6]([3,w],[3,y]),[7,p])))
+Line 144: LAPSE xslvictnsaJXmGbbmhchkefvpgnrpWZgm
+freq_LAPSE : {p,5} {u,3} {j,3} {x,2} {r,2} {i,2} {e,2} {d,2} {Y,1} {X,1} {K,1} {H,1} {A,1} {y,1} {s,1} {m,1} {l,1} {g,1} {f,1} {b,1} 
+result_LAPSE : 6
+root_LAPSE : [25]([9]([2]([10]([5,p],[1,X]),[5]([1,Y],[3,j])),[7]([3,u],[4]([2,d],[2,e]))),[16]([8]([4]([2,i],[2,r]),[4]([2,x],[2]([1,b],[1,f]))),[8]([4]([2]([1,g],[1,l]),[2]([1,m],[1,s])),[4]([2]([1,y],[1,A]),[2]([1,H],[1,K])))))
+Line 145: HAND 
+p
+10
+X
+2
+Y
+5
+j
+9
+u
+7
+d
+4
+e
+25
+i
+4
+r
+8
+x
+4
+b
+2
+f
+16
+g
+2
+l
+4
+m
+2
+s
+8
+y
+2
+A
+4
+H
+2
+K
+Line 146: LAPSE sowp
+freq_LAPSE : {x,1} {t,1} {q,1} {p,1} 
+result_LAPSE : 177
+root_LAPSE : [4]([2]([1,p],[1,q]),[2]([1,t],[1,x]))
+Line 147: LAPSE eeyawfRbqrijqsbrloekkftesxdeprAtnspvumrgmcsdxskiqghbfpjaTvbeiflzvgraxohfhl
+freq_LAPSE : {k,14} {x,6} {o,6} {f,6} {w,5} {l,5} {d,4} {a,4} {y,3} {v,3} {t,3} {s,3} {n,3} {j,3} {q,2} {U,1} {S,1} {B,1} {z,1} 
+result_LAPSE : 502
+root_LAPSE : [27]([12]([6]([3,n],[3,s]),[26]([6]([3,t],[3,v]),[14,k])),[15]([4]([16]([7]([3,y],[4,a]),[8]([4,d],[2,q])),[9]([2]([1,z],[1,B]),[9]([5,l],[5,w]))),[11]([5]([2]([1,S],[1,U]),[11]([3,j],[6,f])),[11]([6,o],[6,x]))))
+Line 148: LAPSE ozwcjnhdCvaokpdhdkbqcogxwogThmursdtexuovdnrmvrbihhpflllXcdwsdxlpchndxudarrkalobzlege
+freq_LAPSE : {u,9} {n,9} {m,9} {r,7} {b,6} {w,5} {g,5} {j,4} {z,3} {y,3} {x,3} {s,3} {q,3} {h,3} {e,3} {d,3} {o,2} {Y,1} {U,1} {D,1} {k,1} 
+result_LAPSE : 889
+root_LAPSE : [7]([33]([14]([7,r],[7]([3,z],[4,j])),[2]([4]([2,o],[1,k]),[7]([9]([1,D],[5,g]),[5,w]))),[19]([16]([5]([2]([1,U],[1,Y]),[16]([3,d],[9,m])),[16]([9,n],[9,u])),[19]([12]([6,b],[6]([3,e],[3,h])),[12]([6]([3,q],[3,s]),[6]([3,x],[3,y])))))
+Line 149: LAPSE ihjujWtpzyrtvnqncuqoosphfvwakkujfdsvu
+freq_LAPSE : {y,7} {m,5} {s,3} {j,3} {v,2} {u,2} {r,2} {q,2} {p,2} {h,2} {X,1} {z,1} {x,1} {e,1} {d,1} {b,1} {a,1} 
+result_LAPSE : 70
+root_LAPSE : [24]([9]([4]([2]([1,d],[1,e]),[2]([1,x],[1,z])),[10]([5,m],[6]([3,j],[3,s]))),[15]([7]([14]([7,y],[3]([1,X],[2,h])),[4]([2,p],[2,q])),[8]([4]([2,r],[2,u]),[4]([2,v],[2]([1,a],[1,b])))))
+Line 150: LAPSE pdwogwyhkc
+freq_LAPSE : {y,2} {z,1} {q,1} {p,1} {l,1} {i,1} {h,1} {e,1} {d,1} 
+result_LAPSE : 468
+root_LAPSE : [10]([4]([2]([1,h],[1,i]),[2]([1,l],[1,p])),[6]([2]([1,q],[1,z]),[4]([2,y],[2]([1,d],[1,e]))))
+Line 151: LAPSE inwvvmnxpurannscidg
+freq_LAPSE : {r,4} {x,3} {k,2} {y,1} {v,1} {t,1} {s,1} {q,1} {n,1} {h,1} {e,1} {d,1} {b,1} 
+result_LAPSE : 648
+root_LAPSE : [19]([8]([4]([2,k],[2]([1,b],[1,d])),[4]([2]([1,e],[1,h]),[2]([1,n],[1,q]))),[11]([4]([2]([1,s],[1,t]),[2]([1,v],[1,y])),[7]([3,x],[4,r])))
+Line 152: LAPSE yxmmdpjudvgthpsaqmivekbvymbiwjvnemmnfujemfbrnwgzkypnurbngthgIhqsjwizshzjpegyxvrbpdezlthhgrovaO
+freq_LAPSE : {m,9} {g,8} {v,7} {t,7} {s,7} {n,6} {c,6} {b,6} {z,5} {u,5} {o,5} {j,5} {d,4} {x,3} {w,3} {l,3} {h,2} {P,1} {J,1} {p,1} 
+result_LAPSE : 141
+root_LAPSE : [34]([16]([30]([14]([7,t],[7,v]),[7]([3]([1,P],[2,h]),[15]([4,d],[8,g]))),[17]([9,m],[10]([5,j],[5,o]))),[18]([5]([21]([10]([5,u],[5,z]),[2]([1,p],[1,J])),[11]([11]([3,l],[6,b]),[11]([6,c],[6,n]))),[13]([6]([3,w],[3,x]),[7,s])))
+Line 153: LAPSE UfwarvdrcjrBocmzekhlcodqo
+freq_LAPSE : {f,6} {r,4} {u,3} {V,1} {C,1} {x,1} {w,1} {n,1} {m,1} {l,1} {k,1} {i,1} {g,1} {b,1} {a,1} 
+result_LAPSE : 1021
+root_LAPSE : [18]([8]([4]([2]([1,a],[1,b]),[2]([1,g],[1,i])),[4]([2]([1,k],[1,l]),[2]([1,m],[1,n]))),[10]([4]([2]([1,w],[1,x]),[2]([1,C],[1,V])),[11]([6,f],[7]([3,u],[4,r]))))
+Line 154: LAPSE hnkgzphkxjysbstuhtcxaUfxsrpphkgacljkhouajdvpjrtvgwottfsysfIzcugkll
+freq_LAPSE : {x,11} {t,6} {y,5} {p,5} {m,5} {a,5} {o,4} {n,4} {k,4} {i,3} {f,3} {d,3} {q,2} {b,2} {V,1} {J,1} {e,1} {c,1} 
+result_LAPSE : 1020
+root_LAPSE : [4]([26]([12]([6,t],[6]([3,d],[3,f])),[8]([4]([2,b],[2,q]),[2]([1,c],[1,e]))),[19]([14]([18]([2]([1,J],[1,V]),[10]([5,a],[5,m])),[15]([10]([5,p],[5,y]),[11,x])),[15]([7]([3,i],[4,k]),[8]([4,n],[4,o]))))
+Line 155: LAPSE slv
+freq_LAPSE : {w,1} {t,1} {m,1} 
+result_LAPSE : 7
+root_LAPSE : [3]([1,w],[2]([1,m],[1,t]))
+Line 156: LAPSE tmsvbpuxnipwjnwuztaxcodnniInhywqahohgvxwhwxlymztfdgunfwytKgffccfzvofvkljynltwst
+freq_LAPSE : {l,13} {z,10} {c,10} {u,9} {d,7} {r,6} {o,5} {f,5} {b,4} {x,3} {j,3} {k,2} {L,1} {J,1} 
+result_LAPSE : 957
+root_LAPSE : [21]([9]([4]([8]([4,b],[2,k]),[2]([1,J],[1,L])),[19]([9]([5,f],[5,o]),[19]([10,c],[10,z]))),[50]([12]([6,r],[6]([3,j],[3,x])),[29]([13,l],[16]([7,d],[9,u]))))
+Line 157: LAPSE zyIfhrikunkoJlflbagmlzwaxslmeayvoyHpghvycoWrtpgyesgxesatetobrwgmjtbhu
+freq_LAPSE : {p,7} {e,7} {x,6} {d,6} {l,5} {s,4} {k,4} {i,4} {v,3} {u,3} {z,2} {y,2} {w,2} {r,2} {m,2} {h,2} {b,2} {X,1} {K,1} {J,1} {I,1} {o,1} {j,1} 
+result_LAPSE : 438
+root_LAPSE : [16]([55]([23]([11]([5,l],[6,d]),[12]([6,x],[6]([3,u],[3,v]))),[8]([4]([2,m],[2,r]),[4]([2,w],[2,y]))),[32]([8]([4]([2,z],[2]([1,j],[1,o])),[4]([2]([1,I],[1,J]),[2]([1,K],[1,X]))),[16]([30]([14]([7,e],[7,p]),[8]([4,i],[4,k])),[8]([4,s],[4]([2,b],[2,h])))))
+Line 158: LAPSE esgvktmWlprismbtrrxieqmjtgrznckycxkgaNvagbmkhhnazcYylvomgzzveZyjapuntddqisflxhjvptkhnnthybw
+freq_LAPSE : {s,10} {v,8} {m,8} {l,8} {a,8} {e,7} {z,6} {p,6} {r,5} {f,5} {d,4} {c,4} {o,3} {h,3} {Z,1} {X,1} {O,1} {A,1} {x,1} {g,1} 
+result_LAPSE : 903
+root_LAPSE : [9]([4]([39]([16]([8,m],[8,v]),[8]([4,d],[2]([1,g],[1,x]))),[9]([2]([1,A],[1,O]),[9]([5,f],[5,r]))),[23]([21]([5]([2]([1,X],[1,Z]),[19]([3,h],[10,s])),[12]([6,p],[6,z])),[25]([14]([7,e],[7]([3,o],[4,c])),[16]([8,a],[8,l]))))
+Line 159: LAPSE djnrkljpazzyefrqjfscovgIiLsgpjcknwkahkvabyyrpkcdjkcxsaomigxqmgckwhgnffmycxnihhpjziablpg
+freq_LAPSE : {r,11} {m,10} {p,9} {u,8} {f,8} {c,7} {i,6} {l,4} {j,4} {v,3} {a,3} {y,2} {x,2} {s,2} {q,2} {n,2} {d,2} {M,1} {J,1} 
+result_LAPSE : 567
+root_LAPSE : [12]([23]([47]([19]([9,p],[10,m]),[11,r]),[5]([2]([1,J],[1,M]),[11]([3,a],[6,i]))),[28]([28]([12]([7,c],[7]([3,v],[4,j])),[16]([8,f],[8,u])),[16]([8]([4,l],[4]([2,d],[2,n])),[8]([4]([2,q],[2,s]),[4]([2,x],[2,y])))))
+Line 160: LAPSE qbtgrscbNminpswzgYxcexwujtardzpMuYndsyzxztcrqvpvtucrdchwtwnbuqzfepygkzthdwokkaqcKzmzsxw
+freq_LAPSE : {h,12} {c,8} {z,6} {j,6} {i,6} {y,4} {w,4} {v,4} {u,4} {t,4} {b,4} {q,3} {n,3} {g,3} {e,3} {A,2} {x,2} {o,2} {a,2} {O,1} {N,1} {L,1} {p,1} {k,1} 
+result_LAPSE : 442
+root_LAPSE : [47]([19]([35]([16]([8]([4,u],[4,v]),[8]([4,w],[4,y])),[8]([4]([2,o],[2,x]),[4]([2,A],[2]([1,k],[1,p])))),[11]([5]([2]([1,L],[1,N]),[11]([3,e],[6,i])),[11]([6,j],[6,z]))),[28]([12]([24]([12,h],[6]([3,g],[3,n])),[6]([3,q],[3]([1,O],[2,a]))),[16]([8,c],[8]([4,b],[4,t]))))
+Line 161: LAPSE plnqwfqrxcnaqlsrnbrlelnn
+freq_LAPSE : {s,5} {t,4} {p,4} {u,3} {y,1} {x,1} {q,1} {g,1} {f,1} {d,1} {c,1} {b,1} 
+result_LAPSE : 447
+root_LAPSE : [4]([8]([4]([2]([1,g],[1,q]),[2]([1,x],[1,y])),[8]([4,t],[2]([1,b],[1,c]))),[20]([2]([1,d],[1,f]),[12]([5,s],[7]([3,u],[4,p]))))
+Line 162: LAPSE waivgrVublmebjzjhvdlljtqzfmrytgzpalvtpyatuokmzyYKrwwbfovf
+freq_LAPSE : {z,7} {p,7} {d,7} {i,6} {x,4} {e,4} {u,3} {r,3} {m,3} {b,3} {w,2} {q,2} {Z,1} {W,1} {L,1} {l,1} {j,1} {f,1} 
+result_LAPSE : 131
+root_LAPSE : [43]([17]([31]([14]([7,z],[7]([3,u],[4,e])),[8]([4,x],[4]([2,q],[2,w]))),[9]([4]([2]([1,f],[1,j]),[2]([1,l],[1,L])),[5]([2]([1,W],[1,Z]),[3,b]))),[26]([12]([6,i],[6]([3,m],[3,r])),[14]([7,d],[7,p])))
+Line 163: LAPSE kqgdaiyaswkxbakvmzNrPax
+freq_LAPSE : {e,5} {n,4} {z,3} {Q,1} {O,1} {x,1} {w,1} {t,1} {s,1} {r,1} {j,1} {h,1} {c,1} {a,1} 
+result_LAPSE : 116
+root_LAPSE : [11]([4]([2]([1,t],[1,w]),[9]([2]([1,x],[1,O]),[5,e])),[7]([3]([6]([3,z],[1,Q]),[7]([2]([1,a],[1,c]),[4,n])),[4]([2]([1,h],[1,j]),[2]([1,r],[1,s]))))
+Line 164: KOKUSEN 
+number_KOKUSEN : 0 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 885(819(143(99(43(7,77(NULL,77)),111(NULL,133(131(NULL,131),141))),655(395(273(187(163(NULL,177),219(193,267(225(219,245),267))),367(323(NULL,323(NULL,323(NULL,331(325,NULL)))),385(381(373,NULL),393(NULL,393)))),533(505(443(433(427,437),495(451(447,NULL),NULL)),NULL),557(545(537,NULL),623(567,NULL)))),677(669,713(NULL,725(NULL,751(NULL,767(NULL,811))))))),869(819(NULL,835(NULL,865(837(NULL,863(855,NULL)),NULL))),871)),999(913(895(889,909(903,NULL)),945(NULL,971(955(NULL,955(NULL,957)),981))),1023(1007(NULL,1021),NULL)))
+root_after_KOKUSEN : 
+AreaTable ID=2 : 885(819(143(99(43(7,77(NULL,77)),111(NULL,133(131(NULL,131),141))),655(395(273(187(163(NULL,177),219(193,267(225(219,245),267))),367(323(NULL,323(NULL,323(NULL,331(325,NULL)))),385(381(373,NULL),393(NULL,393)))),533(505(443(433(427,437),495(451(447,NULL),NULL)),NULL),557(545(537,NULL),623(567,NULL)))),677(669,713(NULL,725(NULL,751(NULL,767(NULL,811))))))),869(819(NULL,835(NULL,865(837(NULL,863(855,NULL)),NULL))),871)),999(913(895(889,909(903,NULL)),945(NULL,971(955(NULL,955(NULL,957)),981))),1023(1007(NULL,1021),NULL)))
+Line 165: LAPSE owzcbdznqnnsrxzqgmrjtinxaajtwvjulqqsgujfetfjjqkhuuNsepefq
+freq_LAPSE : {w,10} {p,7} {y,6} {i,6} {c,6} {r,4} {v,3} {h,3} {z,2} {t,2} {O,1} {q,1} {n,1} {m,1} {l,1} {j,1} {e,1} {d,1} 
+result_LAPSE : 506
+root_LAPSE : [8]([28]([12]([6,y],[6]([3,h],[3,v])),[4]([2]([1,d],[1,e]),[2]([1,j],[1,l]))),[30]([16]([4]([2]([1,m],[1,n]),[2]([1,q],[1,O])),[8]([15]([7,p],[4,r]),[4]([2,t],[2,z]))),[22]([10,w],[12]([6,c],[6,i]))))
+Line 166: LAPSE qdqyylwafdmsulexDeevomqitywcymmuxtdFwnxtvuFlnlpwnvnmkinavcipgqdicvbwOfwjkeyzstlynwobYcbhiaWldug
+freq_LAPSE : {r,13} {i,12} {d,10} {e,9} {a,9} {u,6} {t,6} {n,5} {y,4} {x,4} {g,4} {H,2} {q,2} {m,2} {h,2} {Z,1} {X,1} {P,1} {E,1} {k,1} 
+result_LAPSE : 886
+root_LAPSE : [8]([15]([7]([2]([4]([2,H],[1,k]),[9]([1,E],[5,n])),[5]([2]([1,P],[1,X]),[3]([1,Z],[2,h]))),[15]([8]([4,g],[4,x]),[4,y])),[40]([37]([33]([4]([2,m],[2,q]),[18]([9,a],[9,e])),[22]([10,d],[12,i])),[25]([12]([6,t],[6,u]),[13,r])))
+Line 167: LAPSE yllnempcOhlvtzObFfonqqEdvhurBzcBmaauxjnphzsdhsibuwcxvhthavaipybeietosebyEjxAdpdzucwHfkqdmipksoyn
+freq_LAPSE : {i,9} {w,7} {r,7} {y,6} {n,6} {m,6} {u,5} {z,4} {g,4} {f,4} {e,4} {d,4} {c,4} {G,3} {t,3} {p,3} {o,3} {a,3} {Q,2} {D,2} {l,2} {h,2} {I,1} {B,1} {s,1} 
+result_LAPSE : 813
+root_LAPSE : [14]([26]([12]([6]([3,a],[3,o]),[6]([3,p],[3,t])),[4]([8]([4]([2,l],[2,D]),[2,Q]),[17]([2]([1,s],[1,B]),[9,i]))),[30]([10]([3]([6]([3,G],[1,I]),[13]([2,h],[7,r])),[11]([7,w],[8]([4,c],[4,d]))),[37]([16]([8]([4,e],[4,f]),[8]([4,g],[4,z])),[23]([11]([5,u],[6,m]),[12]([6,n],[6,y])))))
+Line 168: LAPSE xknzabtnobbhzusxxzdvtauhaTokavbKqcmhpiliyuqqkmapRvpdnicxxhoizowhzuxvvwvWnxrzunuNjlo
+freq_LAPSE : {f,17} {t,9} {s,9} {m,9} {e,9} {b,6} {a,6} {n,5} {y,2} {v,2} {o,2} {X,1} {U,1} {S,1} {O,1} {L,1} {z,1} {k,1} 
+result_LAPSE : 961
+root_LAPSE : [4]([13]([5]([10]([5,n],[2]([1,S],[1,U])),[11]([3]([1,X],[2,o]),[11]([6,a],[6,b]))),[8]([4]([2,v],[2,y]),[2]([1,k],[1,z]))),[31]([30]([2]([1,L],[1,O]),[17,f]),[31]([18]([9,e],[9,m]),[18]([9,s],[9,t]))))
+Line 169: LAPSE puzvqosysjfjifzbkAssouzitge
+freq_LAPSE : {w,7} {c,4} {q,3} {l,3} {h,3} {k,2} {B,1} {z,1} {u,1} {r,1} {f,1} 
+result_LAPSE : 296
+root_LAPSE : [4]([8]([17]([7,w],[4,c]),[2]([1,f],[1,r])),[10]([10]([2]([1,u],[1,z]),[6]([3,h],[3,l])),[6]([3,q],[3]([1,B],[2,k]))))
+Line 170: LAPSE tk
+freq_LAPSE : 
+result_LAPSE : 0
+root_LAPSE : 
+Line 171: LAPSE MveemlvusphigefvklvlaobrymvmgemtcxhntbotkzmkbaajuoUsgylqbyowmexflxvhexbdejkczxdvarytaaif
+freq_LAPSE : {c,16} {g,11} {s,10} {l,9} {q,6} {x,5} {o,5} {k,5} {j,3} {i,3} {w,2} {u,2} {t,2} {f,2} {e,2} {b,2} {V,1} {N,1} {r,1} 
+result_LAPSE : 271
+root_LAPSE : [27]([13]([24]([43]([16,c],[11]([5,x],[6,q])),[6]([3,i],[3,j])),[7]([3]([1,V],[2,b]),[4]([2,e],[2,f]))),[14]([4]([8]([4]([2,t],[2,u]),[2,w]),[17]([2]([1,r],[1,N]),[14]([9,l],[10,s]))),[15]([10]([5,k],[5,o]),[11,g])))
+Line 172: LAPSE yfgrbmoixeseuycsjhtjdjyuvasyyazfzezxthutefsgyesrxjekrptbhhbladZseh
+freq_LAPSE : {e,9} {l,8} {x,7} {y,6} {m,6} {n,5} {i,5} {d,4} {u,3} {c,3} {a,3} {f,2} {A,1} {w,1} {q,1} {p,1} {j,1} 
+result_LAPSE : 435
+root_LAPSE : [4]([31]([15]([7,x],[8,l]),[8]([18]([9,e],[4,d]),[2]([1,j],[1,p]))),[16]([9]([2]([1,q],[1,w]),[10]([9]([5,i],[5,n]),[10]([6,m],[6,y]))),[12]([6]([3,a],[3,c]),[6]([3,u],[3]([1,A],[2,f])))))
+Line 173: LAPSE ayu
+freq_LAPSE : {z,1} {v,1} {b,1} 
+result_LAPSE : 25
+root_LAPSE : [3]([1,z],[2]([1,b],[1,v]))
+Line 174: LAPSE pogrywecmferRsjcavwcuzdbpceAysmxatrljthfqwhmnlqUognt
+freq_LAPSE : {u,5} {p,5} {h,5} {w,4} {g,4} {z,3} {c,3} {a,3} {s,2} {r,2} {q,2} {n,2} {l,2} {j,2} {i,2} {V,1} {S,1} {B,1} {y,1} {v,1} {e,1} 
+result_LAPSE : 417
+root_LAPSE : [31]([52]([21]([10]([5,h],[5,p]),[11]([5,u],[6]([3,a],[3,c]))),[15]([7]([3,z],[4,g]),[8]([4,w],[4]([2,i],[2,j])))),[16]([8]([4]([2,l],[2,n]),[4]([2,q],[2,r])),[8]([4]([2,s],[2]([1,e],[1,v])),[4]([2]([1,y],[1,B]),[2]([1,S],[1,V])))))
+Line 175: LAPSE gyjryzmfawojslzlivrqurdvigcvnqcxrpvpjgBsm
+freq_LAPSE : {v,5} {z,4} {o,3} {m,3} {j,3} {e,3} {b,3} {u,2} {s,2} {r,2} {n,2} {k,2} {a,2} {C,1} {y,1} {x,1} {p,1} {g,1} 
+result_LAPSE : 964
+root_LAPSE : [34]([14]([7]([3]([1,C],[2,a]),[4,z]),[7]([2]([4]([2,u],[1,g]),[9]([1,p],[5,v])),[5]([2]([1,x],[1,y]),[3,b]))),[20]([8]([4]([2,k],[2,n]),[4]([2,r],[2,s])),[12]([6]([3,e],[3,j]),[6]([3,m],[3,o]))))
+Line 176: LAPSE tbeykpcldQubbvebdnyvnzclxexoy
+freq_LAPSE : {f,6} {p,3} {h,3} {b,3} {z,2} {x,2} {n,2} {e,2} {R,1} {v,1} {u,1} {q,1} {l,1} {a,1} 
+result_LAPSE : 999
+root_LAPSE : [17]([29]([12]([6,f],[6]([3,h],[3,p])),[8]([4]([2,e],[2,n]),[4]([2,x],[2,z]))),[9]([4]([2]([1,a],[1,l]),[2]([1,q],[1,u])),[5]([2]([1,v],[1,R]),[3,b])))
+Line 177: LAPSE orjuryxsfwselineyeuf
+freq_LAPSE : {h,5} {w,2} {u,2} {t,2} {a,2} {y,1} {x,1} {p,1} {o,1} {m,1} {k,1} {j,1} 
+result_LAPSE : 17
+root_LAPSE : [15]([7]([12]([5,h],[3]([1,y],[2,a])),[4]([2,t],[2,u])),[8]([4]([2,w],[2]([1,j],[1,k])),[4]([2]([1,m],[1,o]),[2]([1,p],[1,x]))))
+Line 178: LAPSE uhgmrbmscftjffewascxKkoxnfcwufhvzlbebtwZjdkxseobbuwnvedcjoXddqlwxfrwaojCttiekuxzeJvtrhtpbpdjkbgat
+freq_LAPSE : {i,14} {o,11} {c,11} {k,9} {y,7} {a,7} {l,6} {s,4} {g,4} {v,3} {u,3} {r,3} {d,3} {p,2} {n,2} {b,2} {Y,1} {L,1} {K,1} {D,1} {A,1} {j,1} 
+result_LAPSE : 283
+root_LAPSE : [14]([27]([13]([6]([3,u],[3,v]),[27]([7,a],[14,i])),[4]([8]([4]([2,b],[2,n]),[2,p]),[17]([2]([1,j],[1,A]),[9,k]))),[29]([10]([4]([2]([1,D],[1,K]),[2]([1,L],[1,Y])),[10]([6,l],[6]([3,d],[3,r]))),[36]([15]([7,y],[8]([4,g],[4,s])),[22]([11,c],[11,o]))))
+Line 179: LAPSE bvmjhbbmujhyaktfgxxXJwvbtUijmhhizhrmhohhbetwsbpnnkrhuefwogbhpjdlyexucvsmzelkwayqbdfripvzoqeyinvhirrv
+freq_LAPSE : {s,16} {n,14} {j,13} {c,9} {w,8} {r,8} {a,7} {b,6} {i,5} {x,3} {q,3} {u,2} {f,2} {Y,1} {V,1} {K,1} {d,1} 
+result_LAPSE : 639
+root_LAPSE : [4]([28]([13]([6]([3,q],[3,x]),[27]([7,a],[14,n])),[8]([4]([2,f],[2,u]),[2]([1,d],[1,K]))),[15]([17]([2]([1,V],[1,Y]),[9,c]),[20]([17]([11]([5,i],[6,b]),[20]([13,j],[16,s])),[16]([8,r],[8,w]))))
+Line 180: LAPSE dpSv
+freq_LAPSE : {T,1} {w,1} {q,1} {e,1} 
+result_LAPSE : 120
+root_LAPSE : [4]([2]([1,e],[1,q]),[2]([1,w],[1,T]))
+Line 181: LAPSE awagnzlimxlrwbscbszwrwipcqWekbtfrinzbeldjizexaofjwYvjrvwbr
+freq_LAPSE : {m,7} {d,7} {h,6} {c,6} {w,5} {g,5} {u,3} {p,3} {o,3} {e,3} {z,2} {x,2} {Z,1} {X,1} {r,1} {q,1} {n,1} {l,1} 
+result_LAPSE : 991
+root_LAPSE : [27]([11]([5]([2]([1,X],[1,Z]),[11]([3,e],[6,c])),[25]([11]([6,h],[6]([3,o],[3,p])),[14]([7,d],[7,m]))),[16]([7]([3,u],[4]([2,x],[2,z])),[9]([4]([2]([1,l],[1,n]),[2]([1,q],[1,r])),[9]([5,g],[5,w]))))
+Line 182: LAPSE yfblHnnuSannsunyxunyauggoVxbibvoxxkrb
+freq_LAPSE : {t,7} {b,7} {y,4} {f,4} {q,2} {i,2} {c,2} {W,1} {T,1} {I,1} {w,1} {s,1} {m,1} {l,1} {j,1} {g,1} 
+result_LAPSE : 649
+root_LAPSE : [23]([8]([4]([2]([1,g],[1,j]),[2]([1,l],[1,m])),[22]([4]([2]([1,s],[1,w]),[2]([1,I],[1,T])),[14]([7,b],[7,t]))),[15]([7]([3]([1,W],[2,c]),[4,f]),[8]([4,y],[4]([2,i],[2,q]))))
+Line 183: LAPSE cvnvtjlfrqxycqyAoycOkldfTgxlcjpjlkadyspfdxmjckrymwifuqzzwpjwkdfg
+freq_LAPSE : {o,12} {h,9} {t,6} {p,5} {k,5} {d,5} {z,3} {s,3} {b,3} {a,3} {x,2} {i,2} {U,1} {P,1} {B,1} {v,1} {u,1} {j,1} 
+result_LAPSE : 364
+root_LAPSE : [19]([4]([18]([9,h],[2]([1,j],[1,u])),[9]([2]([1,v],[1,B]),[16]([9]([5,d],[5,k]),[12,o]))),[15]([7]([3,z],[4]([2,i],[2,x])),[8]([2]([10]([5,p],[1,P]),[5]([1,U],[3,a])),[8]([6,t],[6]([3,b],[3,s])))))
+Line 184: LAPSE mzzpckggqisogyxqiyvtdbayofdmzvattitfljavyfsgrutxpdbqrhvPqkepnudjerq
+freq_LAPSE : {c,7} {z,6} {d,6} {y,5} {v,5} {u,5} {l,5} {k,4} {i,4} {h,4} {s,3} {o,3} {m,3} {w,2} {q,2} {g,2} {Q,1} 
+result_LAPSE : 247
+root_LAPSE : [67]([27]([12]([6]([3,m],[3,o]),[6]([3,s],[3]([1,Q],[2,g]))),[15]([7,c],[8]([4,h],[4,i]))),[40]([18]([8]([4,k],[4]([2,q],[2,w])),[10]([5,l],[5,u])),[22]([10]([5,v],[5,y]),[12]([6,d],[6,z]))))
+Line 185: LAPSE pcrwuegflaqzawvhhusjszmBzztjtclkjltclfhjiswR
+freq_LAPSE : {w,6} {n,5} {p,4} {f,4} {d,4} {z,3} {v,3} {k,3} {h,3} {c,2} {S,1} {C,1} {s,1} {r,1} {q,1} {l,1} {j,1} 
+result_LAPSE : 335
+root_LAPSE : [23]([9]([4]([8]([4,p],[2]([1,j],[1,l])),[9]([2]([1,q],[1,r]),[5,n])),[21]([5]([2]([1,s],[1,C]),[3,h]),[12]([6,w],[6]([3,k],[3,v])))),[14]([6]([3,z],[3]([1,S],[2,c])),[8]([4,d],[4,f])))
+Line 186: LAPSE xbxcewlwneklaejrwubr
+freq_LAPSE : {z,5} {h,3} {d,3} {t,2} {n,2} {v,1} {o,1} {l,1} {k,1} {b,1} 
+result_LAPSE : 122
+root_LAPSE : [13]([6]([3,h],[3]([1,v],[2,n])),[7]([2]([4]([2,t],[1,b]),[9]([1,k],[5,z])),[5]([2]([1,l],[1,o]),[3,d])))
+Line 187: LAPSE wcxkpmpxsahxawyhyodqknRrxmrfzlbodnekjzSiiglojvzluhtnze
+freq_LAPSE : {r,6} {o,5} {k,5} {d,5} {b,4} {t,3} {q,3} {n,3} {g,3} {c,3} {y,2} {l,2} {f,2} {a,2} {T,1} {S,1} {w,1} {v,1} {u,1} {h,1} 
+result_LAPSE : 480
+root_LAPSE : [30]([14]([24]([10]([5,d],[5,k]),[6]([3,q],[3,t])),[8]([4,b],[4]([2,a],[2,f]))),[16]([8]([4]([2,l],[2,y]),[4]([2]([1,h],[1,u]),[2]([1,v],[1,w]))),[8]([2]([10]([5,o],[1,S]),[5]([1,T],[3,c])),[8]([6,r],[6]([3,g],[3,n])))))
+Line 188: LAPSE vdZmvNcvbjjkbhwictepjsbxwomgohadhsooltsbpJzyyd
+freq_LAPSE : {y,6} {v,5} {f,5} {s,4} {m,4} {k,3} {g,3} {a,3} {r,2} {o,2} {e,2} {O,1} {K,1} {A,1} {l,1} {j,1} {h,1} {b,1} 
+result_LAPSE : 470
+root_LAPSE : [35]([15]([7]([3]([1,O],[2,e]),[4,m]),[8]([4,s],[4]([2,o],[2,r]))),[20]([9]([4]([2]([1,b],[1,h]),[2]([1,j],[1,l])),[9]([5,f],[5,v])),[11]([5]([2]([1,A],[1,K]),[11]([3,a],[6,y])),[6]([3,g],[3,k]))))
+Line 189: LAPSE ytywzChmzffobjukxnNoloczjlodywseaOkzhsfuuvspvisytsesguqbvi
+freq_LAPSE : {y,16} {d,7} {s,4} {c,4} {n,3} {i,3} {v,2} {m,2} {l,2} {k,2} {j,2} {g,2} {P,1} {O,1} {D,1} {r,1} {q,1} {o,1} {h,1} {e,1} {b,1} 
+result_LAPSE : 768
+root_LAPSE : [42]([16]([8]([32]([16,y],[4]([2,j],[2,k])),[4]([2,l],[2,m])),[8]([4]([2,v],[2]([1,b],[1,e])),[4]([2]([1,h],[1,o]),[2]([1,q],[1,r])))),[26]([11]([5]([2]([1,D],[1,O]),[3,i]),[6]([3,n],[3]([1,P],[2,g]))),[15]([7,d],[8]([4,c],[4,s]))))
+Line 190: LAPSE bsdvtzmhaghvyzpwyxapspkhzkiklinxgpzjxdvqhbpbwsfgfoemlhszkoarxcsmrvnnwraaaj
+freq_LAPSE : {u,9} {e,8} {z,7} {g,6} {x,5} {q,5} {m,5} {o,4} {b,4} {p,3} {j,3} {f,3} {n,2} {l,2} {k,2} {h,2} {a,2} {r,1} {d,1} 
+result_LAPSE : 686
+root_LAPSE : [35]([16]([31]([15]([7]([3,p],[4,b]),[8,e]),[8]([4,o],[4]([2,a],[2,h]))),[8]([4]([2,k],[2,l]),[4]([2,n],[2]([1,d],[1,r])))),[40]([19]([9,u],[10]([5,m],[5,q])),[24]([11]([5,x],[6,g]),[13]([6]([3,f],[3,j]),[7,z]))))
+Line 191: LAPSE wkahbzgwvmlgajbgdzhofqazlvggzydtwly
+freq_LAPSE : {d,9} {l,6} {z,3} {o,3} {x,2} {j,2} {f,2} {a,2} {u,1} {r,1} {p,1} {n,1} {k,1} {g,1} 
+result_LAPSE : 469
+root_LAPSE : [16]([4]([8]([4]([2,j],[2,x]),[2]([1,g],[1,k])),[17]([2]([1,n],[1,p]),[9,d])),[12]([5]([2]([1,r],[1,u]),[11]([3,o],[6,l])),[7]([3,z],[4]([2,a],[2,f]))))
+Line 192: LAPSE wrl
+freq_LAPSE : {x,1} {s,1} {m,1} 
+result_LAPSE : 14
+root_LAPSE : [3]([1,x],[2]([1,m],[1,s]))
+Line 193: LAPSE rqadnijqrwSgbcugrsdifszs
+freq_LAPSE : {v,4} {u,3} {k,3} {s,2} {i,2} {f,2} {T,1} {x,1} {o,1} {g,1} {d,1} {c,1} {b,1} {a,1} 
+result_LAPSE : 538
+root_LAPSE : [17]([8]([15]([7]([3,u],[4,v]),[4]([2,f],[2,i])),[4]([2,s],[2]([1,a],[1,b]))),[9]([4]([2]([1,c],[1,d]),[2]([1,g],[1,o])),[5]([2]([1,x],[1,T]),[3,k])))
+Line 194: LAPSE tmhwlbthtuyUraludrdlt
+freq_LAPSE : {x,5} {o,3} {w,2} {t,2} {j,2} {f,2} {V,1} {z,1} {n,1} {c,1} {b,1} 
+result_LAPSE : 892
+root_LAPSE : [14]([7]([3]([1,V],[2,f]),[4]([2,j],[2,t])),[7]([2]([4]([2,w],[1,b]),[9]([1,c],[5,x])),[5]([2]([1,n],[1,z]),[3,o])))
+Line 195: LAPSE vOpvrq
+freq_LAPSE : {x,2} {P,1} {s,1} {r,1} {q,1} 
+result_LAPSE : 907
+root_LAPSE : [6]([2]([1,s],[1,P]),[4]([2,x],[2]([1,q],[1,r])))
+Line 196: LAPSE gljMvhb
+freq_LAPSE : {N,1} {w,1} {m,1} {k,1} {i,1} {h,1} {c,1} 
+result_LAPSE : 286
+root_LAPSE : [7]([3]([1,N],[2]([1,c],[1,h])),[4]([2]([1,i],[1,k]),[2]([1,m],[1,w])))
+Line 197: LAPSE kaextpreljqkldraluzxsoolkdrfgezcgrrvhcyfjrmgsbsvzksdvwwccesseGrhJzheqwatatfvmxygk
+freq_LAPSE : {y,13} {k,13} {p,9} {z,7} {g,7} {a,5} {e,4} {d,4} {w,3} {q,3} {i,3} {s,2} {o,2} {l,2} {K,1} {H,1} {v,1} {c,1} 
+result_LAPSE : 372
+root_LAPSE : [8]([16]([8]([2]([10]([5,a],[1,H]),[5]([1,K],[3,i])),[6]([3,q],[3,w])),[16]([8]([4,d],[4,e]),[4]([2,l],[2,o]))),[43]([38]([4]([2,s],[2]([1,c],[1,v])),[22]([9,p],[13,k])),[27]([13,y],[14]([7,g],[7,z]))))
+Line 198: LAPSE yapxHsuxtifpqiilqokoakjewqGfwtxsvjovehlshPexursetfnvstppcertvllnyidtscdgygmnzjg
+freq_LAPSE : {z,10} {j,10} {t,9} {m,9} {y,8} {b,7} {p,4} {r,3} {q,3} {i,3} {w,2} {f,2} {e,2} {c,2} {Q,1} {I,1} {H,1} {n,1} {a,1} 
+result_LAPSE : 461
+root_LAPSE : [11]([22]([11]([5]([2]([1,H],[1,I]),[3,i]),[6]([3,q],[3,r])),[3]([14]([7,b],[1,Q]),[11]([7]([2,c],[4,p]),[8,y]))),[60]([8]([4]([2,e],[2,f]),[4]([2,w],[2]([1,a],[1,n]))),[38]([18]([9,m],[9,t]),[20]([10,j],[10,z]))))
+Line 199: LAPSE hhuaUp
+freq_LAPSE : {j,2} {V,1} {v,1} {q,1} {b,1} 
+result_LAPSE : 972
+root_LAPSE : [6]([2]([1,v],[1,V]),[4]([2,j],[2]([1,b],[1,q])))
+Line 200: LAPSE bbtnbQnjbvnkemjwzaxyYrknslailbuytecfohtNvvB
+freq_LAPSE : {g,8} {y,4} {r,4} {w,3} {n,3} {a,3} {m,2} {l,2} {c,2} {Z,1} {R,1} {O,1} {C,1} {x,1} {v,1} {t,1} {s,1} {p,1} {j,1} {i,1} {d,1} 
+result_LAPSE : 479
+root_LAPSE : [43]([16]([8]([4]([2,c],[2,l]),[4]([2,m],[2]([1,d],[1,i]))),[8]([4]([2]([1,j],[1,p]),[2]([1,s],[1,t])),[4]([2]([1,v],[1,x]),[2]([1,C],[1,O])))),[27]([11]([5]([2]([1,R],[1,Z]),[3,a]),[6]([3,n],[3,w])),[16]([8,g],[8]([4,r],[4,y]))))
+Line 201: LAPSE yaetugiipfoZhspcuoxbsHdsdmclbbxkyssarqliemvmuofburNxddEyxijdcchfeKfrz
+freq_LAPSE : {b,7} {r,6} {j,6} {x,5} {i,5} {y,4} {u,4} {m,4} {h,4} {g,4} {f,4} {p,3} {n,2} {c,2} {O,1} {L,1} {I,1} {F,1} {A,1} {w,1} {l,1} {k,1} {a,1} 
+result_LAPSE : 309
+root_LAPSE : [8]([34]([15]([7]([3]([1,O],[2,c]),[4,f]),[8]([4,g],[4,h])),[16]([8]([4,m],[4,u]),[4]([2]([1,l],[1,w]),[2]([1,A],[1,F])))),[19]([18]([4]([8]([4,y],[2,n]),[2]([1,a],[1,k])),[10]([5,i],[5,x])),[11]([5]([2]([1,I],[1,L]),[11]([3,p],[6,j])),[12]([6,r],[7,b]))))
+Line 202: KOKUSEN 
+number_KOKUSEN : 0 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 885(819(143(99(43(7(NULL,25(17,NULL)),77(NULL,77)),111(NULL,133(131(NULL,131),141))),655(395(273(187(163(NULL,177),219(193,267(225(219,245(NULL,247)),267(NULL,271)))),367(323(283(NULL,309),323(NULL,323(NULL,331(325,335)))),385(381(373,NULL),393(NULL,393)))),533(505(443(433(427(417,NULL),437(435,NULL)),495(451(447,469(461,479)),NULL)),NULL),557(545(537,NULL),623(567,639(NULL,649))))),677(669,713(NULL,725(NULL,751(NULL,767(NULL,811(NULL,813)))))))),869(819(NULL,835(NULL,865(837(NULL,863(855,NULL)),NULL))),871)),999(913(895(889,909(903(NULL,907),NULL)),945(NULL,971(955(NULL,955(NULL,957(NULL,961))),981(NULL,991)))),1023(1007(999,1021),NULL)))
+root_after_KOKUSEN : 
+AreaTable ID=2 : 885(819(143(99(43(7(NULL,25(17,NULL)),77(NULL,77)),111(NULL,133(131(NULL,131),141))),655(395(273(187(163(NULL,177),219(193,267(225(219,245(NULL,247)),267(NULL,271)))),367(323(283(NULL,309),323(NULL,323(NULL,331(325,335)))),385(381(373,NULL),393(NULL,393)))),533(505(443(433(427(417,NULL),437(435,NULL)),495(451(447,469(461,479)),NULL)),NULL),557(545(537,NULL),623(567,639(NULL,649))))),677(669,713(NULL,725(NULL,751(NULL,767(NULL,811(NULL,813)))))))),869(819(NULL,835(NULL,865(837(NULL,863(855,NULL)),NULL))),871)),999(913(895(889,909(903(NULL,907),NULL)),945(NULL,971(955(NULL,955(NULL,957(NULL,961))),981(NULL,991)))),1023(1007(999,1021),NULL)))
+Line 203: LAPSE unGjvouGSrjjvoad
+freq_LAPSE : {m,3} {I,2} {x,2} {w,2} {q,2} {T,1} {s,1} {o,1} {e,1} {b,1} 
+result_LAPSE : 854
+root_LAPSE : [16]([7]([3]([1,T],[2,q]),[4]([2,w],[2,x])),[9]([4]([2,I],[2]([1,b],[1,e])),[5]([2]([1,o],[1,s]),[3,m])))
+Line 204: LAPSE rlulFyjmcjwkhwts
+freq_LAPSE : {n,3} {l,3} {y,2} {G,1} {z,1} {v,1} {u,1} {t,1} {s,1} {i,1} {d,1} 
+result_LAPSE : 598
+root_LAPSE : [13]([5]([2]([1,z],[1,G]),[3,l]),[8]([4]([2]([1,s],[1,t]),[2]([1,u],[1,v])),[4]([7]([3,n],[2,y]),[2]([1,d],[1,i]))))
+Line 205: LAPSE gpwemdzurdCrbcbzihuzpgilirocakthkmctfrvlkllxkvctvagkdagujgjqycnghpzsnyAvwxrcwL
+freq_LAPSE : {p,12} {z,9} {d,9} {w,8} {m,6} {i,6} {l,5} {g,4} {x,3} {s,3} {k,3} {o,2} {a,2} {M,1} {D,1} {B,1} {t,1} {r,1} {f,1} 
+result_LAPSE : 568
+root_LAPSE : [9]([13]([4]([8]([4,g],[2,a]),[13]([17]([2,o],[9,d]),[9,z])),[4]([2]([1,f],[1,r]),[9]([2]([1,t],[1,B]),[5,l]))),[33]([27]([5]([2]([1,D],[1,M]),[3,k]),[14]([6]([3,s],[3,x]),[8,w])),[24]([12,p],[12]([6,i],[6,m]))))
+Line 206: LAPSE unfbpgndpjcbkrymmtrhatinsumzsnpleeehfkczfurfwPyxYongxxflyelhtxkxkvoliacocF
+freq_LAPSE : {k,11} {s,8} {p,7} {c,7} {i,6} {u,5} {b,5} {x,4} {w,4} {o,4} {g,4} {r,3} {d,2} {Z,1} {Q,1} {G,1} {e,1} 
+result_LAPSE : 130
+root_LAPSE : [15]([7]([2]([14]([7,p],[4]([2,d],[1,e])),[7]([9]([1,G],[5,b]),[5,u])),[5]([2]([1,Q],[1,Z]),[10]([3,r],[8,s]))),[18]([15]([8]([4,g],[4,o]),[8]([4,w],[4,x])),[20]([11,k],[13]([6,i],[7,c]))))
+Line 207: LAPSE yndjfbhwhywezabjlaonxgmssokdupybignddrslhyguhgxjkyhfaedahikeqbkgwmtwammeosxpjnllfUvtlaLjyusioj
+freq_LAPSE : {i,12} {q,9} {x,8} {l,8} {a,8} {r,7} {p,6} {n,6} {g,6} {e,6} {s,5} {o,4} {f,4} {v,2} {V,1} {M,1} {w,1} 
+result_LAPSE : 897
+root_LAPSE : [23]([11]([5]([10]([5,s],[2]([1,w],[1,M])),[3]([1,V],[2,v])),[11]([11]([6,e],[6,g]),[11]([6,n],[6,p]))),[28]([27]([26]([12,i],[15]([7,r],[8,a])),[16]([8,l],[8,x])),[17]([8]([4,f],[4,o]),[9,q])))
+Line 208: LAPSE frolwlvxyvydnfpnkkbsffvdkhbbkhcbltnnmekgpxo
+freq_LAPSE : {f,7} {r,6} {j,6} {p,5} {y,3} {o,3} {z,2} {q,2} {a,2} {x,1} {u,1} {t,1} {s,1} {n,1} {h,1} {d,1} 
+result_LAPSE : 239
+root_LAPSE : [19]([8]([2]([10]([5,p],[1,t]),[5]([1,u],[3,o])),[8]([6,j],[6,r])),[11]([3]([6]([3,y],[1,x]),[13]([2,a],[7,f])),[8]([4]([2,q],[2,z]),[4]([2]([1,d],[1,h]),[2]([1,n],[1,s])))))
+Line 209: LAPSE kqhzwwmkgqtskkewfyhcgktoyogxeqvhdunptnfumwhosymdjdxyqvaTflujuuhq
+freq_LAPSE : {p,10} {z,7} {m,6} {v,5} {g,5} {a,5} {c,4} {w,3} {r,3} {j,3} {i,3} {x,2} {u,2} {l,2} {U,1} {q,1} {d,1} {b,1} 
+result_LAPSE : 42
+root_LAPSE : [16]([30]([14]([7,z],[7]([3,w],[4,c])),[8]([4]([2,l],[2,u]),[4]([2,x],[2]([1,b],[1,d])))),[36]([8]([2]([10]([5,v],[1,q]),[5]([1,U],[3,i])),[8]([6,m],[6]([3,j],[3,r]))),[20]([10,p],[10]([5,a],[5,g]))))
+Line 210: LAPSE uotKmzpqzqUtzwjitxpkhwgoroohmWphyoulxbheldqsczac
+freq_LAPSE : {t,9} {w,5} {l,5} {s,4} {d,4} {z,3} {e,3} {y,2} {o,2} {n,2} {X,1} {V,1} {L,1} {k,1} {j,1} {h,1} {f,1} {c,1} {b,1} 
+result_LAPSE : 135
+root_LAPSE : [29]([48]([19]([9,t],[10]([5,l],[5,w])),[13]([6]([3,e],[3,z]),[7]([3]([1,X],[2,n]),[4,d]))),[16]([8]([4,s],[4]([2,o],[2,y])),[8]([4]([2]([1,b],[1,c]),[2]([1,f],[1,h])),[4]([2]([1,j],[1,k]),[2]([1,L],[1,V])))))
+Line 211: LAPSE plawpvtsuzisuwq
+freq_LAPSE : {w,3} {u,3} {r,3} {y,2} {m,1} {j,1} {b,1} {a,1} 
+result_LAPSE : 848
+root_LAPSE : [9]([15]([6]([3,u],[3,w]),[4]([2,y],[2]([1,a],[1,b]))),[5]([2]([1,j],[1,m]),[3,r]))
+Line 212: KOKUSEN 
+number_KOKUSEN : 0 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 885(819(143(99(43(7(NULL,25(17,NULL)),77(NULL,77)),111(NULL,133(131(NULL,131),141(135,NULL)))),655(395(273(187(163(NULL,177),219(193,267(225(219,245(239,247)),267(NULL,271)))),367(323(283(NULL,309),323(NULL,323(NULL,331(325,335)))),385(381(373,NULL),393(NULL,393)))),533(505(443(433(427(417,NULL),437(435,NULL)),495(451(447,469(461,479)),NULL)),NULL),557(545(537,NULL),623(567,639(NULL,649))))),677(669,713(NULL,725(NULL,751(NULL,767(NULL,811(NULL,813)))))))),869(819(NULL,835(NULL,865(837(NULL,863(855,NULL)),NULL))),871)),999(913(895(889,909(903(897,907),NULL)),945(NULL,971(955(NULL,955(NULL,957(NULL,961))),981(NULL,991)))),1023(1007(999,1021),NULL)))
+root_after_KOKUSEN : 
+AreaTable ID=2 : 885(819(143(99(43(7(NULL,25(17,NULL)),77(NULL,77)),111(NULL,133(131(NULL,131),141(135,NULL)))),655(395(273(187(163(NULL,177),219(193,267(225(219,245(239,247)),267(NULL,271)))),367(323(283(NULL,309),323(NULL,323(NULL,331(325,335)))),385(381(373,NULL),393(NULL,393)))),533(505(443(433(427(417,NULL),437(435,NULL)),495(451(447,469(461,479)),NULL)),NULL),557(545(537,NULL),623(567,639(NULL,649))))),677(669,713(NULL,725(NULL,751(NULL,767(NULL,811(NULL,813)))))))),869(819(NULL,835(NULL,865(837(NULL,863(855,NULL)),NULL))),871)),999(913(895(889,909(903(897,907),NULL)),945(NULL,971(955(NULL,955(NULL,957(NULL,961))),981(NULL,991)))),1023(1007(999,1021),NULL)))
+Line 213: LAPSE Zmpbqwhqpwmehjzpv
+freq_LAPSE : {s,5} {y,2} {o,2} {j,2} {A,1} {w,1} {k,1} {f,1} {c,1} {a,1} 
+result_LAPSE : 179
+root_LAPSE : [12]([4]([2]([1,f],[1,k]),[9]([2]([1,w],[1,A]),[5,s])),[8]([4]([2,j],[2,o]),[4]([2,y],[2]([1,a],[1,c]))))
+Line 214: LAPSE yclngsohvab
+freq_LAPSE : {z,1} {w,1} {t,1} {p,1} {o,1} {m,1} {i,1} {h,1} {d,1} {c,1} {b,1} 
+result_LAPSE : 855
+root_LAPSE : [11]([4]([2]([1,o],[1,p]),[2]([1,t],[1,w])),[7]([3]([1,z],[2]([1,b],[1,c])),[4]([2]([1,d],[1,h]),[2]([1,i],[1,m]))))
+Line 215: LAPSE wfogkpvbovzwzn
+freq_LAPSE : {q,3} {y,2} {x,2} {b,2} {o,1} {l,1} {h,1} {g,1} {c,1} 
+result_LAPSE : 363
+root_LAPSE : [14]([6]([3,q],[3]([1,o],[2,b])),[8]([4]([2,x],[2,y]),[4]([2]([1,c],[1,g]),[2]([1,h],[1,l]))))
+Line 216: LAPSE mxpllpokhsophWhyjqixzwkagtbgIpqlyylahjxnrsyhktaqbdyxzkhfganbbzrz
+freq_LAPSE : {t,9} {d,9} {n,7} {p,6} {e,5} {o,4} {j,4} {f,4} {b,4} {v,2} {u,2} {q,2} {l,2} {X,1} {J,1} {x,1} {g,1} 
+result_LAPSE : 441
+root_LAPSE : [32]([8]([16]([8]([4,j],[4,o]),[4]([2,l],[2,q])),[34]([4]([2,u],[2,v]),[18]([9,d],[9,t]))),[24]([9]([4]([2]([1,g],[1,x]),[2]([1,J],[1,X])),[10]([5,e],[6,p])),[15]([7,n],[8]([4,b],[4,f]))))
+Line 217: LAPSE lrkvlhqihuvjsdluzwaptsrfhg
+freq_LAPSE : {k,4} {x,3} {u,3} {o,3} {w,2} {t,2} {r,1} {q,1} {l,1} {j,1} {h,1} {g,1} {e,1} {b,1} {a,1} 
+result_LAPSE : 502
+root_LAPSE : [26]([11]([5]([2]([1,l],[1,q]),[3,o]),[6]([3,u],[3,x])),[15]([7]([3]([1,r],[2,t]),[4,k]),[8]([4]([2,w],[2]([1,a],[1,b])),[4]([2]([1,e],[1,g]),[2]([1,h],[1,j])))))
+Line 218: LAPSE yugwckkmeratnnkcujDdrrwzd
+freq_LAPSE : {u,4} {n,4} {f,3} {y,2} {w,2} {p,2} {e,2} {E,1} {z,1} {k,1} {h,1} {b,1} {a,1} 
+result_LAPSE : 775
+root_LAPSE : [25]([9]([4]([2]([1,a],[1,b]),[2]([1,h],[1,k])),[5]([2]([1,z],[1,E]),[3,f])),[16]([8]([4,n],[4,u]),[8]([4]([2,e],[2,p]),[4]([2,w],[2,y]))))
+Line 219: LAPSE uuynmeyIepamrqwkipaoldgokliyvsguoyihbyjtugzoghgpwndlyvysqayuoei
+freq_LAPSE : {g,8} {s,6} {m,6} {z,5} {t,5} {o,5} {l,5} {u,3} {h,3} {d,3} {y,2} {x,2} {p,2} {j,2} {f,2} {J,1} {k,1} {c,1} {a,1} 
+result_LAPSE : 386
+root_LAPSE : [15]([7]([2]([13]([6]([3,h],[3,u]),[4]([2,y],[1,a])),[9]([1,c],[5,l])),[10]([10]([7]([5,o],[5,t]),[8,g]),[8]([4]([2,f],[2,j]),[4]([2,p],[2,x])))),[8]([2]([10]([5,z],[1,k]),[5]([1,J],[3,d])),[8]([6,m],[6,s])))
+Line 220: LAPSE hscdoukwtcfHvmvkanbzPnatowobyvaclowoblfdPekdlDcdDhgbiuyazulrgmldhqavpatpzsrpnvnbrspufyeykdybodbeps
+freq_LAPSE : {u,14} {i,12} {k,10} {g,10} {w,7} {o,6} {r,5} {q,5} {d,5} {a,5} {y,4} {z,3} {h,3} {c,3} {R,2} {F,2} {I,1} {j,1} 
+result_LAPSE : 124
+root_LAPSE : [29]([49]([20]([10]([5,a],[5,d]),[10]([5,q],[5,r])),[11]([5]([2]([1,j],[1,I]),[11]([3,c],[6,o])),[23]([6]([3,h],[3,z]),[25]([12,i],[14,u])))),[18]([8]([15]([7,w],[4,y]),[4]([2,F],[2,R])),[18]([10,g],[10,k])))
+Line 221: LAPSE gjabHceojnmhtbjcdrcdhqletbvwrmakyvlqdxexwWrugxhoswwxjiGbrnWhztfixqltdwvenou
+freq_LAPSE : {f,7} {c,7} {i,6} {o,5} {l,5} {b,5} {x,4} {v,4} {t,4} {n,4} {h,4} {y,3} {r,3} {q,3} {Y,2} {w,2} {k,2} {I,1} {H,1} {z,1} {g,1} {a,1} 
+result_LAPSE : 306
+root_LAPSE : [43]([17]([8]([4,x],[4]([2,w],[2,Y])),[9]([4]([2]([1,a],[1,g]),[2]([1,z],[1,H])),[9]([5,b],[5,l]))),[26]([12]([23]([11]([5,o],[6,i]),[6]([3,q],[3,r])),[6]([3,y],[3]([1,I],[2,k]))),[28]([14]([7,c],[7,f]),[16]([8]([4,h],[4,n]),[8]([4,t],[4,v])))))
+Line 222: LAPSE xbiuacbcxdticeah
+freq_LAPSE : {f,4} {z,2} {k,2} {d,2} {c,2} {v,1} {u,1} {i,1} {e,1} 
+result_LAPSE : 720
+root_LAPSE : [16]([8]([4,f],[4]([2,c],[2,d])),[8]([4]([2,k],[2,z]),[4]([2]([1,e],[1,i]),[2]([1,u],[1,v]))))
+Line 223: LAPSE lucsuwzundsggcazykyjJfsducpnzttQmEpkhceqshxysypdhtugdnhmewasip
+freq_LAPSE : {y,9} {c,9} {g,7} {z,5} {t,4} {l,4} {j,4} {h,4} {w,3} {q,3} {m,3} {o,2} {R,1} {K,1} {F,1} {r,1} {k,1} 
+result_LAPSE : 572
+root_LAPSE : [9]([37]([17]([8]([4,l],[4,t]),[9,c]),[4]([18]([9,y],[2]([1,k],[1,r])),[2]([1,F],[1,K]))),[20]([10]([5,z],[6]([3,m],[3,q])),[11]([3]([6]([3,w],[1,R]),[13]([2,o],[7,g])),[8]([4,h],[4,j]))))
+Line 224: LAPSE bwohysejdabocow
+freq_LAPSE : {r,3} {d,3} {y,2} {z,1} {t,1} {k,1} {i,1} {f,1} {e,1} {b,1} 
+result_LAPSE : 796
+root_LAPSE : [15]([6]([3,r],[3]([1,z],[2,y])),[9]([4]([2]([1,b],[1,e]),[2]([1,f],[1,i])),[5]([2]([1,k],[1,t]),[3,d])))
+Line 225: LAPSE gbrjkjkpydyvfpirweeitomfxflwqHyiplcjwcr
+freq_LAPSE : {m,5} {u,4} {z,3} {s,3} {n,3} {l,3} {i,3} {e,3} {b,3} {g,2} {I,1} {y,1} {w,1} {r,1} {p,1} {h,1} {c,1} 
+result_LAPSE : 922
+root_LAPSE : [22]([9]([4]([2]([1,c],[1,h]),[9]([2]([1,p],[1,r]),[5,m])),[21]([5]([2]([1,w],[1,y]),[3,b]),[12]([6]([3,e],[3,i]),[6]([3,l],[3,n])))),[13]([6]([3,s],[3,z]),[7]([3]([1,I],[2,g]),[4,u])))
+Line 226: LAPSE xvlbanbsNbcfHmZrffreZwbzrkzrimqxkqwjuihnqpreeojbylxvgwknonnpituIutweplttdpqw
+freq_LAPSE : {x,9} {i,8} {b,8} {w,5} {t,5} {s,5} {o,5} {l,5} {g,5} {u,4} {n,3} {a,3} {B,2} {q,2} {O,1} {J,1} {I,1} {z,1} {h,1} {e,1} {d,1} 
+result_LAPSE : 61
+root_LAPSE : [18]([8]([34]([16]([8,b],[8,i]),[4]([2,B],[2]([1,d],[1,e]))),[4]([2]([1,h],[1,z]),[17]([2]([1,I],[1,J]),[9,x]))),[17]([14]([14]([10]([5,g],[5,l]),[10]([5,o],[5,s])),[10]([5,t],[5,w])),[13]([6]([3,a],[3,n]),[7]([3]([1,O],[2,q]),[4,u]))))
+Line 227: LAPSE llnnhaxpVrcbdxibjervmjkggbmxvzlgxorddZkqmuyqjtpspaiofkfqocfdqHmjzxaucfmoYwxezpcyjbfk
+freq_LAPSE : {o,12} {d,9} {u,8} {k,7} {g,6} {t,5} {r,5} {s,4} {h,4} {f,4} {x,3} {j,3} {c,3} {w,2} {p,2} {a,2} {Z,1} {W,1} {I,1} {A,1} {i,1} 
+result_LAPSE : 953
+root_LAPSE : [36]([13]([4]([8]([4,s],[2,p]),[17]([2,w],[9,d])),[9]([4]([2]([1,i],[1,A]),[2]([1,I],[1,W])),[9]([5,r],[5,t]))),[23]([11]([3]([6]([3,x],[1,Z]),[13]([2,a],[7,k])),[8]([11]([8,u],[4,f]),[23]([4,h],[12,o]))),[12]([6,g],[6]([3,c],[3,j]))))
+Line 228: LAPSE fxmnbabzhcxlljbatuhbdAtcavoqmwwujnfxgNncqbozwkfdlpigvcrectrxxtkwbzkcjjbogjxssexbsjspejsugmcmy
+freq_LAPSE : {j,18} {x,14} {q,14} {e,7} {r,5} {k,4} {a,4} {o,3} {n,3} {i,3} {h,3} {d,3} {c,3} {t,2} {s,2} {f,2} {O,1} {B,1} {z,1} 
+result_LAPSE : 77
+root_LAPSE : [41]([20]([4]([38]([18,j],[2,s]),[9]([2,t],[5,r])),[11]([5]([2]([1,z],[1,B]),[3,c]),[6]([3,d],[3,h]))),[21]([6]([12]([6]([3,i],[3,n]),[3,o]),[26]([3]([1,O],[2,f]),[20]([14,q],[14,x]))),[15]([7,e],[8]([4,a],[4,k]))))
+Line 229: LAPSE qspdqlbcdBvimaszlavlqdhrgjhkqquhmahpflinysickticdgnOwlwxhjwp
+freq_LAPSE : {m,11} {v,9} {q,5} {z,4} {s,4} {h,4} {f,3} {d,3} {x,2} {p,2} {o,2} {l,2} {i,2} {P,1} {C,1} {y,1} {u,1} {g,1} {c,1} {a,1} 
+result_LAPSE : 787
+root_LAPSE : [32]([16]([52]([20]([9,v],[11,m]),[8]([4,h],[4,s])),[8]([4,z],[4]([2,l],[2,o]))),[16]([8]([4]([2,p],[2,x]),[4]([2]([1,a],[1,c]),[2]([1,g],[1,u]))),[8]([2]([10]([5,q],[1,y]),[5]([1,C],[3,d])),[6]([3,f],[3]([1,P],[2,i])))))
+Line 230: LAPSE pwxzUtirolzbIiojwcbzblrmz
+freq_LAPSE : {d,5} {y,3} {q,3} {n,3} {k,3} {e,3} {t,2} {V,1} {J,1} {u,1} 
+result_LAPSE : 1003
+root_LAPSE : [25]([11]([5]([2]([1,u],[1,J]),[3,e]),[6]([3,k],[3,n])),[14]([6]([3,q],[3,y]),[8]([3]([1,V],[2,t]),[5,d])))
+Line 231: LAPSE vgjsnVziaz
+freq_LAPSE : {b,3} {W,1} {w,1} {t,1} {o,1} {k,1} {j,1} {h,1} 
+result_LAPSE : 12
+root_LAPSE : [7]([3]([6]([3,b],[1,W]),[2]([1,h],[1,j])),[4]([2]([1,k],[1,o]),[2]([1,t],[1,w])))
+Line 232: LAPSE snpxkbktusawgkaicqwvdacejzgpzydjtcbwhcesoqxej
+freq_LAPSE : {z,6} {v,6} {d,5} {g,4} {n,3} {m,3} {i,3} {h,3} {s,2} {r,2} {f,2} {b,2} {w,1} {p,1} {o,1} {j,1} 
+result_LAPSE : 59
+root_LAPSE : [30]([14]([6]([3,m],[3,n]),[8]([4,g],[4]([2,b],[2,f]))),[16]([4]([8]([4]([2,r],[2,s]),[2]([1,j],[1,o])),[19]([2]([1,p],[1,w]),[11]([5,d],[6,v]))),[12]([6,z],[6]([3,h],[3,i]))))
+Line 233: KEITEIKEN 3
+732-1
+442-1
+386-1
+Heap_before_KEITEIKEN : {ID=1,Len=106} 
+customers_before_KEITEIKEN : 
+AreaTable ID=1 : 12 922 796 572 720 306 124 386 502 848 42 130 568 598 854 972 372 286 892 538 14 686 768 470 480 122 364 120 964 296 886 506 116 442 438 1020 648 468 70 502 6 942 28 656 828 684 682 458 504 90 142 974 816 212 744 30 234 860 14 958 906 444 88 312 698 88 668 538 190 966 266 10 30 798 1004 862 196 642 232 0 12 764 112 404 900 544 498 244 30 420 72 660 116 398 256 586 308 974 52 638 958 910 78 386 442 732 
+Heap_after_KEITEIKEN : {ID=1,Len=103} 
+customers_after_KEITEIKEN : 
+AreaTable ID=1 : 12 922 796 572 720 306 124 386 502 848 42 130 568 598 854 972 372 286 892 538 14 686 768 470 480 122 364 120 964 296 886 506 116 442 438 1020 648 468 70 502 6 942 28 656 828 684 682 458 504 90 142 974 816 212 744 30 234 860 14 958 906 444 88 312 698 88 668 538 190 966 266 10 30 798 1004 862 196 642 232 0 12 764 112 404 900 544 498 244 30 420 72 660 116 398 256 586 308 974 52 638 958 910 78 
+Line 234: LAPSE vofqrnitlzfzuLfyxtonuafkfacjdAlmhnweflmwTtvalsoOhjyrlhd
+freq_LAPSE : {l,9} {q,8} {w,5} {r,4} {d,4} {y,3} {t,3} {k,3} {f,3} {x,2} {o,2} {b,2} {a,2} {U,1} {P,1} {M,1} {B,1} {j,1} 
+result_LAPSE : 879
+root_LAPSE : [19]([3]([20]([9,l],[6]([3,y],[1,U])),[11]([14]([2,a],[8,q]),[8]([4,d],[4,r]))),[16]([8]([4]([2,b],[2,o]),[4]([2,x],[2]([1,j],[1,B]))),[8]([2]([10]([5,w],[1,M]),[5]([1,P],[3,f])),[6]([3,k],[3,t]))))
+Line 235: LAPSE cwgsllfsghdsojrbkctycnyodtugzjjecijy
+freq_LAPSE : {v,6} {n,6} {g,5} {j,4} {f,3} {b,3} {q,2} {x,1} {s,1} {o,1} {l,1} {i,1} {c,1} {a,1} 
+result_LAPSE : 733
+root_LAPSE : [4]([15]([6]([3,f],[3]([1,x],[2,q])),[8]([4,j],[2]([1,a],[1,c]))),[9]([9]([2]([1,i],[1,l]),[5,g]),[16]([5]([2]([1,o],[1,s]),[3,b]),[12]([6,n],[6,v]))))
+Line 236: LAPSE dqzymsghjmmEnhzmpdgaawgean
+freq_LAPSE : {q,5} {j,5} {f,3} {d,3} {p,2} {b,2} {F,1} {z,1} {x,1} {t,1} {r,1} {k,1} 
+result_LAPSE : 1003
+root_LAPSE : [21]([9]([4]([2]([1,k],[1,r]),[2]([1,t],[1,x])),[9]([5,j],[5,q])),[12]([5]([2]([1,z],[1,F]),[3,d]),[7]([3,f],[4]([2,b],[2,p]))))
+Line 237: LAPSE yrgogjvtkoidgajytewwdnxjdsrzbejEiGRaaroshcbwlikjYmehhvciqrpgfsdjLprpVulzeo
+freq_LAPSE : {s,7} {k,7} {v,6} {p,6} {m,6} {w,5} {d,5} {i,4} {h,4} {z,3} {n,3} {x,2} {e,2} {b,2} {a,2} {Z,1} {W,1} {S,1} {M,1} {H,1} {F,1} {y,1} {r,1} {o,1} {g,1} 
+result_LAPSE : 943
+root_LAPSE : [43]([17]([8]([4]([2,e],[2,x]),[4]([2]([1,g],[1,o]),[2]([1,r],[1,y]))),[9]([4]([2]([1,F],[1,H]),[2]([1,M],[1,S])),[9]([5,d],[5,w]))),[26]([11]([5]([2]([1,W],[1,Z]),[11]([3,n],[6,m])),[25]([11]([6,p],[6,v]),[14]([7,k],[7,s]))),[15]([7]([3,z],[4,h]),[8]([4,i],[4]([2,a],[2,b])))))
+Line 238: LAPSE oqdmMffdoztolnasqdwpjdgdkptevrlmuWwx
+freq_LAPSE : {r,5} {i,5} {y,3} {v,3} {s,3} {o,3} {h,3} {n,2} {X,1} {N,1} {w,1} {t,1} {l,1} {k,1} {f,1} {b,1} {a,1} 
+result_LAPSE : 4
+root_LAPSE : [36]([14]([6]([3,y],[3]([1,X],[2,n])),[8]([4]([2]([1,a],[1,b]),[2]([1,f],[1,k])),[4]([2]([1,l],[1,t]),[2]([1,w],[1,N])))),[22]([10]([5,i],[5,r]),[12]([6]([3,h],[3,o]),[6]([3,s],[3,v]))))
+Line 239: LAPSE oposyixcnhmuhuziwwdxyghxbxhbyeyNyguvzuFetllyhyzujvulgmSdmzrkwnfegegnljhdgermznvvcfuKcxhcRzWljhohwqb
+freq_LAPSE : {q,19} {f,13} {m,9} {r,8} {g,7} {b,7} {j,5} {c,5} {z,4} {a,4} {t,3} {e,3} {k,2} {h,2} {X,1} {T,1} {S,1} {O,1} {L,1} {G,1} {u,1} {l,1} 
+result_LAPSE : 638
+root_LAPSE : [17]([8]([16]([8]([4,a],[4,z]),[4]([2,h],[2,k])),[4]([2]([1,l],[1,u]),[17]([2]([1,G],[1,L]),[9,m]))),[38]([9]([4]([2]([1,O],[1,S]),[2]([1,T],[1,X])),[36]([9]([5,c],[5,j]),[19,q])),[21]([6]([26]([13,f],[3,e]),[13]([3,t],[7,b])),[15]([7,g],[8,r]))))
+Line 240: LAPSE ixeyuamfiwusdaDZepnmarksmbmkxoscawnyxcjsainmwthokpolndgdsghynvwnjkbuxkddiqlkj
+freq_LAPSE : {r,11} {x,8} {m,7} {i,7} {b,7} {t,6} {q,6} {f,5} {a,4} {g,3} {n,2} {j,2} {e,2} {d,2} {E,1} {A,1} {w,1} {u,1} {s,1} 
+result_LAPSE : 73
+root_LAPSE : [19]([8]([33]([14]([7,b],[7,i]),[2]([10]([5,f],[1,w]),[5]([1,A],[3,g]))),[19]([8]([6,q],[6,t]),[11,r])),[11]([3]([14]([7,m],[1,E]),[11]([7]([2,d],[4,a]),[8,x])),[8]([4]([2,e],[2,j]),[4]([2,n],[2]([1,s],[1,u])))))
+Line 241: LAPSE twzzkiwyimfhrzhuhfalxsxnocgnpqdeducmmztzk
+freq_LAPSE : {e,7} {p,6} {k,5} {z,3} {m,3} {h,3} {f,3} {y,2} {w,2} {v,2} {t,1} {s,1} {r,1} {q,1} {b,1} 
+result_LAPSE : 267
+root_LAPSE : [16]([28]([12]([6]([3,f],[3,h]),[6]([3,m],[3,z])),[7]([14]([7,e],[3]([1,t],[2,v])),[4]([2,w],[2,y]))),[9]([4]([2]([1,b],[1,q]),[2]([1,r],[1,s])),[10]([5,k],[6,p])))
+Line 242: LAPSE pklxfPpasFkwsqccDycqpPsuwqsjgztzfwavftnkpfrtnnqykqoppbvedzwhcpnjpxdrajpxchwuouzmidakgtzbYnxalibsbim
+freq_LAPSE : {x,14} {f,10} {y,9} {b,9} {j,6} {v,5} {s,5} {p,5} {h,5} {e,5} {m,3} {l,3} {g,3} {R,2} {t,2} {q,2} {o,2} {n,2} {i,2} {a,2} {Z,1} {G,1} {E,1} 
+result_LAPSE : 249
+root_LAPSE : [16]([6]([8]([2]([10]([5,v],[1,E]),[5]([1,G],[3,g])),[8]([6,j],[3,l])),[17]([17]([3,m],[9,b]),[18]([9,y],[10,f]))),[21]([16]([10]([5,e],[5,h]),[20]([10]([5,p],[5,s]),[14,x])),[15]([7]([3]([1,Z],[2,a]),[4]([2,i],[2,n])),[8]([4]([2,o],[2,q]),[4]([2,t],[2,R])))))
+Line 243: LAPSE kyvgiopmvgydvehDipnwvpbxymomylpwdbyrAcycfyhd
+freq_LAPSE : {f,8} {z,4} {t,4} {g,4} {y,3} {p,3} {q,2} {k,2} {j,2} {i,2} {e,2} {d,2} {E,1} {B,1} {s,1} {o,1} {m,1} {l,1} 
+result_LAPSE : 881
+root_LAPSE : [44]([16]([8]([4]([2,d],[2,e]),[4]([2,i],[2,j])),[8]([4]([2,k],[2,q]),[4]([2]([1,l],[1,m]),[2]([1,o],[1,s])))),[28]([12]([5]([2]([1,B],[1,E]),[3,p]),[7]([3,y],[4,g])),[16]([8,f],[8]([4,t],[4,z]))))
+Line 244: LAPSE vlaxkzkVvjncsqvdwqfdhntemcfzhnqjczAolfmpdwymhopmgvppppyxjtomrnwXfij
+freq_LAPSE : {r,12} {z,9} {v,8} {n,6} {j,5} {t,4} {f,4} {k,3} {g,3} {c,3} {m,2} {a,2} {Y,1} {W,1} {B,1} {s,1} {h,1} {b,1} 
+result_LAPSE : 196
+root_LAPSE : [16]([32]([16]([8,v],[8]([4,f],[4,t])),[8]([4]([2,a],[2,m]),[4]([2]([1,b],[1,h]),[2]([1,s],[1,B])))),[8]([2]([10]([5,j],[1,W]),[5]([1,Y],[3,c])),[37]([8]([6,n],[6]([3,g],[3,k])),[21]([9,z],[12,r]))))
+Line 245: LAPSE HfalbbpvwstsdjuYtkjifdnhlvakecrg
+freq_LAPSE : {x,3} {v,3} {h,3} {f,3} {d,3} {u,2} {n,2} {m,2} {l,2} {c,2} {Z,1} {I,1} {s,1} {q,1} {o,1} {j,1} {i,1} 
+result_LAPSE : 967
+root_LAPSE : [32]([13]([6]([3,v],[3,x]),[7]([3]([1,Z],[2,c]),[4]([2,l],[2,m]))),[19]([8]([4]([2,n],[2,u]),[4]([2]([1,i],[1,j]),[2]([1,o],[1,q]))),[11]([5]([2]([1,s],[1,I]),[3,d]),[6]([3,f],[3,h]))))
+Line 246: LAPSE rmnxdsoigougsfTkpqbefc
+freq_LAPSE : {q,3} {u,2} {i,2} {h,2} {U,1} {y,1} {v,1} {s,1} {r,1} {o,1} {n,1} {l,1} {j,1} {f,1} {e,1} {d,1} {c,1} 
+result_LAPSE : 763
+root_LAPSE : [22]([8]([4]([2]([1,j],[1,l]),[2]([1,n],[1,o])),[4]([2]([1,r],[1,s]),[2]([1,v],[1,y]))),[14]([6]([3,q],[3]([1,U],[2,h])),[8]([4]([2,i],[2,u]),[4]([2]([1,c],[1,d]),[2]([1,e],[1,f])))))
+Line 247: LAPSE nlgjzhgsdhslmvbsiwjllmnbjleqslpobttltmnpjypsVxjmqmrzrfynueowuyzapdylomshYbg
+freq_LAPSE : {t,14} {y,9} {s,8} {r,7} {c,7} {w,6} {f,6} {o,5} {j,4} {k,3} {g,3} {Z,1} {W,1} {b,1} 
+result_LAPSE : 808
+root_LAPSE : [19]([7]([2]([3]([1,Z],[1,b]),[7]([1,W],[4,j])),[15]([8]([5,o],[6,f]),[16]([8,s],[9,y]))),[47]([12]([6,w],[6]([3,g],[3,k])),[28]([14,t],[14]([7,c],[7,r]))))
+Line 248: LAPSE rgmtrbqwzaprugmlcpsygSmecmq
+freq_LAPSE : {u,4} {q,4} {j,3} {s,2} {r,2} {e,2} {T,1} {z,1} {x,1} {v,1} {t,1} {m,1} {f,1} {c,1} {b,1} {a,1} 
+result_LAPSE : 242
+root_LAPSE : [27]([11]([4]([2]([1,v],[1,x]),[2]([1,z],[1,T])),[7]([3,j],[4,q])),[16]([8]([4,u],[4]([2,e],[2,r])),[8]([4]([2,s],[2]([1,a],[1,b])),[4]([2]([1,c],[1,f]),[2]([1,m],[1,t])))))
+Line 249: LAPSE iayomybkjwqwmbiidctbeebjcgdgsaLknurofzqadaaafgihooanaxxjwwlvhBuuvvPbfzzhwhcmvsmanbsbfrhb
+freq_LAPSE : {j,24} {m,15} {q,7} {z,6} {s,6} {g,5} {b,5} {x,3} {v,3} {f,3} {c,3} {t,2} {a,2} {Q,1} {M,1} {C,1} {u,1} 
+result_LAPSE : 108
+root_LAPSE : [30]([12]([54]([24,j],[6]([3,c],[3,f])),[27]([6]([3,v],[3,x]),[15,m])),[18]([8]([15]([7,q],[4]([2,a],[2,t])),[4]([2]([1,u],[1,C]),[2]([1,M],[1,Q]))),[20]([10]([5,b],[5,g]),[12]([6,s],[6,z]))))
+Line 250: LAPSE evhunbalmbzfxfavGldbsbqirt
+freq_LAPSE : {f,5} {n,3} {x,2} {h,2} {c,2} {H,1} {y,1} {v,1} {u,1} {t,1} {s,1} {r,1} {o,1} {j,1} {i,1} {e,1} {a,1} 
+result_LAPSE : 394
+root_LAPSE : [18]([8]([4]([2]([1,i],[1,j]),[2]([1,o],[1,r])),[4]([2]([1,s],[1,t]),[2]([1,u],[1,v]))),[10]([2]([10]([5,f],[1,y]),[5]([1,H],[3,n])),[8]([4]([2,c],[2,h]),[4]([2,x],[2]([1,a],[1,e])))))
+Line 251: LAPSE lgpijgatmmaqmrypksevwykhuEsfapzwfpomrhhttljtsfmwfrjydwlckwfolkgqiwevmhqhqck
+freq_LAPSE : {p,9} {m,8} {u,7} {k,7} {x,6} {s,6} {c,6} {v,4} {t,4} {j,3} {e,3} {d,3} {b,3} {q,2} {g,2} {F,1} {a,1} 
+result_LAPSE : 805
+root_LAPSE : [46]([19]([8]([16]([8,m],[4,v]),[17]([4]([2,g],[2,q]),[9,p])),[11]([5]([2]([1,a],[1,F]),[11]([3,b],[6,c])),[11]([6,s],[6,x]))),[27]([13]([6]([3,d],[3,e]),[7,k]),[14]([7,u],[7]([3,j],[4,t]))))
+Line 252: LAPSE ekunuexpanuaglnazWccmartesddhtwvozyjowntIuqXboXowhzcqrildzrvlhcdxvzpmobvfoihnhZvnzDpvddygto
+freq_LAPSE : {v,7} {t,7} {j,6} {f,6} {b,6} {z,5} {s,5} {o,5} {m,5} {g,5} {y,4} {x,4} {e,4} {u,3} {k,3} {h,3} {Z,2} {i,2} {d,2} {a,2} {X,1} {J,1} {E,1} {A,1} {l,1} 
+result_LAPSE : 978
+root_LAPSE : [77]([31]([15]([7]([3]([1,X],[2,a]),[4,e]),[8]([4,x],[4,y])),[16]([8]([4]([2,d],[2,i]),[4]([2,Z],[2]([1,l],[1,A]))),[8]([2]([10]([5,z],[1,E]),[5]([1,J],[3,h])),[8]([6,b],[6,f])))),[46]([20]([10]([5,g],[5,m]),[10]([5,o],[5,s])),[26]([12]([6,j],[6]([3,k],[3,u])),[14]([7,t],[7,v]))))
+Line 253: LAPSE kkcrqdravubeupblnUldrzrhizhiXliihnBnuvpmyfWwbomcxsdcdTzmlmphukyzok
+freq_LAPSE : {q,9} {y,5} {v,4} {p,4} {o,4} {m,4} {l,4} {h,4} {f,4} {d,4} {x,3} {s,3} {e,3} {a,2} {Y,1} {X,1} {V,1} {U,1} {C,1} {t,1} {r,1} {g,1} {b,1} 
+result_LAPSE : 796
+root_LAPSE : [19]([8]([35]([16]([8]([4,h],[4,l]),[8]([4,m],[4,o])),[16]([8]([4,p],[4,v]),[4]([2]([1,b],[1,g]),[2]([1,r],[1,t])))),[4]([2]([1,C],[1,U]),[17]([2]([1,V],[1,X]),[9,q]))),[22]([11]([5,y],[6]([3,e],[3,s])),[14]([6]([3,x],[3]([1,Y],[2,a])),[8]([4,d],[4,f]))))
+Line 254: LAPSE whfcscztbmcpbowaqcckzqjdhlpfwybzlnunvdocqgipxisldkmjnyvoz
+freq_LAPSE : {i,6} {o,5} {d,4} {z,3} {u,3} {t,3} {s,3} {r,3} {q,3} {h,3} {g,3} {e,3} {x,2} {m,2} {l,2} {k,2} {j,2} {a,2} {y,1} {v,1} {b,1} 
+result_LAPSE : 454
+root_LAPSE : [42]([16]([4]([8]([4]([2,l],[2,m]),[2,x]),[19]([2]([1,b],[1,v]),[11]([5,o],[6,i]))),[12]([6]([3,e],[3,g]),[6]([3,h],[3,q]))),[26]([12]([6]([3,r],[3,s]),[6]([3,t],[3,u])),[14]([6]([3,z],[3]([1,y],[2,a])),[8]([4,d],[4]([2,j],[2,k])))))
+Line 255: LAPSE ZbjenzntljsupmcwmmetiifAcgzoitowkvzthrmlG
+freq_LAPSE : {q,7} {l,6} {x,4} {c,4} {g,3} {y,2} {p,2} {n,2} {e,2} {H,1} {B,1} {A,1} {w,1} {v,1} {t,1} {s,1} {i,1} {h,1} 
+result_LAPSE : 151
+root_LAPSE : [28]([12]([5]([2]([1,A],[1,B]),[12]([11]([3,g],[6,l]),[7,q])),[7]([3]([1,H],[2,e]),[4,c])),[16]([8]([4,x],[4]([2,n],[2,p])),[8]([4]([2,y],[2]([1,h],[1,i])),[4]([2]([1,s],[1,t]),[2]([1,v],[1,w])))))
+Line 256: LAPSE aynwpxsfrgofnbjtoruingwewwocWrqvywkodcmsubrvxovlldevzoxClrlbzwc
+freq_LAPSE : {u,9} {w,7} {c,6} {f,5} {a,5} {z,4} {q,4} {p,4} {e,3} {b,3} {i,2} {h,2} {g,2} {X,1} {D,1} {r,1} {n,1} {l,1} {k,1} {j,1} 
+result_LAPSE : 1012
+root_LAPSE : [24]([39]([15]([7,w],[8]([4,p],[4,q])),[11]([5]([2]([1,r],[1,D]),[11]([3,b],[6,c])),[6]([3,e],[3]([1,X],[2,g])))),[13]([4]([8]([4,z],[2,h]),[17]([2,i],[9,u])),[9]([4]([2]([1,j],[1,k]),[2]([1,l],[1,n])),[9]([5,a],[5,f]))))
+Line 257: LAPSE rsuEzheqnkbetmxsaklhigkjhyoecujydjqyfxiybqlhejZjbfksjtkhtd
+freq_LAPSE : {p,12} {w,5} {m,5} {i,4} {c,4} {v,3} {t,3} {n,3} {h,3} {e,3} {z,2} {k,2} {f,2} {F,1} {A,1} {s,1} {o,1} {d,1} {b,1} {a,1} 
+result_LAPSE : 764
+root_LAPSE : [41]([17]([8]([4,i],[4]([2,k],[2,z])),[9]([4]([2]([1,a],[1,b]),[2]([1,d],[1,o])),[9]([5,m],[5,w]))),[24]([11]([5]([2]([1,s],[1,A]),[3,e]),[23]([6]([3,h],[3,n]),[12,p])),[13]([6]([3,t],[3,v]),[7]([3]([1,F],[2,f]),[4,c]))))
+Line 258: LAPSE kgyoasst
+freq_LAPSE : {u,3} {z,1} {p,1} {l,1} {h,1} {b,1} 
+result_LAPSE : 1013
+root_LAPSE : [8]([3]([1,z],[2]([1,b],[1,h])),[5]([2]([1,l],[1,p]),[3,u]))
+Line 259: LAPSE qppekhctwmabmiGifpwWjgzmxinkuwwfywkljohdqeusolknblftqogfsbbhorcbompbedvxlfzgvwsvohsifb
+freq_LAPSE : {l,12} {t,7} {i,7} {w,6} {u,6} {p,6} {c,6} {q,4} {o,4} {m,4} {z,3} {y,3} {j,3} {h,3} {b,3} {v,2} {f,2} {e,2} {X,1} {H,1} {s,1} 
+result_LAPSE : 42
+root_LAPSE : [24]([7]([29]([14]([7,i],[7,t]),[3]([1,X],[2,e])),[15]([4,m],[8]([4,o],[4,q]))),[17]([5]([9]([4]([2,f],[2,v]),[2]([1,s],[1,H])),[17]([21]([3,b],[12,l]),[12]([6,c],[6,p]))),[17]([12]([6,u],[6,w]),[12]([6]([3,h],[3,j]),[6]([3,y],[3,z])))))
+Line 260: LAPSE wvnaadmKtpebwpmqmtgyqisbffqibsmedjztbtzdawdvroujhrkuyqnaasgmrvgyzvb
+freq_LAPSE : {z,7} {u,7} {r,7} {g,7} {h,6} {f,5} {x,4} {v,3} {p,3} {l,3} {j,3} {c,3} {b,3} {w,2} {k,2} {L,1} {i,1} 
+result_LAPSE : 643
+root_LAPSE : [47]([20]([34]([14]([7,z],[7]([3,v],[4,x])),[9]([4]([2,k],[2,w]),[5,f])),[11]([5]([2]([1,i],[1,L]),[11]([3,b],[6,h])),[6]([3,c],[3,j]))),[27]([13]([6]([3,l],[3,p]),[7,g]),[14]([7,r],[7,u])))
+Line 261: LAPSE zueDoxmaarsswosiyoqsrqipztvgytzhrsuekelhbwJpeoljpohdbdjgzesgzysatqheghuffm
+freq_LAPSE : {k,12} {t,8} {z,7} {m,5} {e,5} {d,5} {w,4} {y,3} {x,3} {u,3} {s,3} {l,3} {b,3} {o,2} {n,2} {h,2} {f,2} {K,1} {E,1} 
+result_LAPSE : 784
+root_LAPSE : [36]([8]([16]([8]([4]([2,f],[2,h]),[4]([2,n],[2,o])),[2]([10]([5,m],[1,E]),[5]([1,K],[3,b]))),[38]([6]([3,l],[3,s]),[22]([10]([5,d],[5,e]),[12,k]))),[28]([13]([6]([3,u],[3,x]),[7,z]),[15]([7]([3,y],[4,w]),[8,t])))
+Line 262: LAPSE xgohigmhrtflhvxgmlqawrtvouNvklarfuimbewaneckJhaxHabcvvs
+freq_LAPSE : {a,8} {f,5} {o,4} {l,4} {u,3} {p,3} {j,3} {y,2} {w,2} {v,2} {q,2} {m,2} {k,2} {h,2} {g,2} {e,2} {d,2} {O,1} {K,1} {I,1} {t,1} {r,1} 
+result_LAPSE : 987
+root_LAPSE : [39]([16]([8]([4]([2,h],[2,k]),[4]([2,m],[2,q])),[8]([4]([2,v],[2,w]),[4]([2,y],[2]([1,r],[1,t])))),[23]([8]([2]([10]([5,f],[1,I]),[5]([1,K],[3,j])),[6]([3,p],[3,u])),[15]([7]([3]([1,O],[2,d]),[15]([4,l],[8,a])),[8]([4,o],[4]([2,e],[2,g])))))
+Line 263: LAPSE ugxqiwkunsgbmGqadzhvplqmdhmcbuggbiyhwrrhhuvavwnimjjjxtfhfFjltrircgatiroaz
+freq_LAPSE : {n,17} {e,9} {w,8} {y,7} {z,6} {l,6} {q,5} {t,4} {p,3} {h,2} {f,2} {b,2} {H,1} {G,1} 
+result_LAPSE : 168
+root_LAPSE : [4]([30]([15]([7]([3,p],[4,t]),[8,w]),[8]([4]([2,b],[2,f]),[2,h])),[15]([17]([2]([1,G],[1,H]),[9,e]),[17]([11]([5,q],[6,l]),[21]([13]([6,z],[7,y]),[17,n]))))
+Line 264: LAPSE grsxglyytaczyg
+freq_LAPSE : {b,4} {j,3} {y,1} {u,1} {t,1} {s,1} {m,1} {d,1} {a,1} 
+result_LAPSE : 98
+root_LAPSE : [7]([3]([6]([3,j],[1,y]),[7]([2]([1,a],[1,d]),[4,b])),[4]([2]([1,m],[1,s]),[2]([1,t],[1,u])))
+Line 265: LAPSE qfXrqittxsenygpekjbjecLczhqawrpdioumcbiePlbzbqxtHxptojostippbjtxjzhmvcatmlib
+freq_LAPSE : {u,11} {n,7} {h,7} {a,7} {o,6} {g,5} {c,5} {i,4} {b,4} {r,3} {p,3} {t,2} {j,2} {Y,1} {Q,1} {M,1} {I,1} {z,1} {x,1} {w,1} {v,1} {l,1} {e,1} 
+result_LAPSE : 859
+root_LAPSE : [34]([8]([16]([8]([4,i],[4]([2,j],[2,t])),[4]([2]([1,e],[1,l]),[2]([1,v],[1,w]))),[37]([4]([2]([1,x],[1,z]),[2]([1,I],[1,M])),[21]([10]([5,c],[5,g]),[11,u]))),[26]([12]([5]([2]([1,Q],[1,Y]),[11]([3,p],[6,o])),[12]([7,a],[7,h])),[14]([7,n],[7]([3,r],[4,b]))))
+Line 266: LAPSE nyyedcwmeluczmvfuqrWmlhvemcaSaqa
+freq_LAPSE : {q,4} {x,3} {s,3} {h,3} {f,3} {d,3} {a,3} {w,2} {n,2} {X,1} {T,1} {o,1} {i,1} {g,1} {e,1} 
+result_LAPSE : 451
+root_LAPSE : [19]([32]([13]([6]([3,h],[3,s]),[7]([3,x],[4,q])),[8]([4]([2,n],[2,w]),[4]([2]([1,e],[1,g]),[2]([1,i],[1,o])))),[11]([5]([2]([1,T],[1,X]),[3,a]),[6]([3,d],[3,f])))
+Line 267: LAPSE bncqoiksib
+freq_LAPSE : {d,3} {k,2} {t,1} {r,1} {p,1} {o,1} {l,1} 
+result_LAPSE : 492
+root_LAPSE : [10]([4]([2]([1,l],[1,o]),[2]([1,p],[1,r])),[6]([3,d],[3]([1,t],[2,k])))
+Line 268: LAPSE cgds
+freq_LAPSE : {t,1} {h,1} {e,1} {d,1} 
+result_LAPSE : 228
+root_LAPSE : [4]([2]([1,d],[1,e]),[2]([1,h],[1,t]))
+Line 269: LAPSE itpibbdmcxspgootNcrfvdrwklppmkrvilxnlpixiwuvjrpvkhlogauwjlmejsxchgcrudborcsfb
+freq_LAPSE : {v,11} {x,9} {n,8} {z,7} {h,7} {q,5} {j,5} {f,5} {b,5} {s,4} {p,3} {m,3} {g,3} {O,1} {o,1} 
+result_LAPSE : 349
+root_LAPSE : [11]([8]([2]([16]([8,n],[10]([5,q],[1,o])),[5]([1,O],[3,g])),[11]([6]([3,m],[3,p]),[9,x])),[19]([18]([9]([4,s],[5,b]),[10]([5,f],[5,j])),[22]([11,v],[14]([7,h],[7,z]))))
+Line 270: LAPSE liAhxeDsowjmwndgwsOgztgUuhfoucaiamuyiG
+freq_LAPSE : {j,5} {z,4} {x,3} {u,3} {o,3} {l,3} {q,2} {c,2} {V,1} {P,1} {H,1} {E,1} {B,1} {y,1} {m,1} {k,1} {g,1} {f,1} {e,1} {d,1} {a,1} 
+result_LAPSE : 248
+root_LAPSE : [17]([29]([12]([6]([3,o],[3,u]),[6]([3,x],[3]([1,V],[2,c]))),[8]([4]([2]([1,e],[1,f]),[2]([1,g],[1,k])),[4]([2]([1,m],[1,y]),[2]([1,B],[1,E])))),[9]([4]([8]([4,z],[2,q]),[9]([2]([1,a],[1,d]),[5,j])),[5]([2]([1,H],[1,P]),[3,l])))
+Line 271: KEITEIKEN 1
+78-1
+Heap_before_KEITEIKEN : {ID=1,Len=122} 
+customers_before_KEITEIKEN : 
+AreaTable ID=1 : 248 228 492 98 168 784 42 764 1012 454 796 978 394 108 242 808 196 638 4 12 922 796 572 720 306 124 386 502 848 42 130 568 598 854 972 372 286 892 538 14 686 768 470 480 122 364 120 964 296 886 506 116 442 438 1020 648 468 70 502 6 942 28 656 828 684 682 458 504 90 142 974 816 212 744 30 234 860 14 958 906 444 88 312 698 88 668 538 190 966 266 10 30 798 1004 862 196 642 232 0 12 764 112 404 900 544 498 244 30 420 72 660 116 398 256 586 308 974 52 638 958 910 78 
+Heap_after_KEITEIKEN : {ID=1,Len=121} 
+customers_after_KEITEIKEN : 
+AreaTable ID=1 : 248 228 492 98 168 784 42 764 1012 454 796 978 394 108 242 808 196 638 4 12 922 796 572 720 306 124 386 502 848 42 130 568 598 854 972 372 286 892 538 14 686 768 470 480 122 364 120 964 296 886 506 116 442 438 1020 648 468 70 502 6 942 28 656 828 684 682 458 504 90 142 974 816 212 744 30 234 860 14 958 906 444 88 312 698 88 668 538 190 966 266 10 30 798 1004 862 196 642 232 0 12 764 112 404 900 544 498 244 30 420 72 660 116 398 256 586 308 974 52 638 958 910 
+Line 272: LAPSE stdbzkeulnqarkeihvkrzznbvtruqkfzaggcjaqNoplmtnwsvwfcnelvafpBebqwocChvnlrxtqpjpkaljfpilkmnqQUp
+freq_LAPSE : {v,10} {w,8} {q,8} {f,8} {t,6} {r,6} {j,6} {i,6} {a,5} {x,4} {e,4} {d,4} {z,3} {m,3} {u,2} {o,2} {k,2} {V,1} {R,1} {O,1} {D,1} {C,1} {y,1} 
+result_LAPSE : 370
+root_LAPSE : [8]([64]([32]([16]([8,f],[8,q]),[16]([8,w],[8]([4,d],[4,e]))),[16]([8]([4,x],[4]([2,k],[2,o])),[4]([2,u],[2]([1,y],[1,C])))),[32]([37]([4]([2]([1,D],[1,O]),[2]([1,R],[1,V])),[21]([10,v],[11]([5,a],[6,i]))),[24]([12]([6,j],[6,r]),[12]([6,t],[6]([3,m],[3,z])))))
+Line 273: LAPSE fnoqvcmcLvkiyzvhgbyajeihjfiistqwsfftclvcvvfdreYUhMofgsxrJszcchkwuuzpmkrtqgzrsaLZVjwgvC
+freq_LAPSE : {l,10} {c,10} {m,8} {i,6} {x,5} {w,5} {v,4} {k,4} {d,4} {N,3} {z,3} {t,3} {q,3} {o,3} {n,3} {g,2} {a,2} {Z,1} {W,1} {V,1} {K,1} {D,1} {A,1} {y,1} {e,1} 
+result_LAPSE : 971
+root_LAPSE : [8]([58]([28]([12]([6]([3,q],[3,t]),[6]([3,z],[3,N])),[16]([8,m],[8]([4,d],[4,k]))),[16]([8]([4,v],[4]([2,a],[2,g])),[4]([2]([1,e],[1,y]),[2]([1,A],[1,D])))),[30]([36]([4]([2]([1,K],[1,V]),[2]([1,W],[1,Z])),[20]([10,c],[10,l])),[22]([10]([5,w],[5,x]),[12]([6,i],[6]([3,n],[3,o])))))
+Line 274: LAPSE syMqxtandxrizofpqxkkdtohehmquwhgrxqlifmxnreqvnnkpxutmoffnfwdhdmwsjkjncnnzcuafbirulmeonh
+freq_LAPSE : {w,13} {l,11} {v,9} {h,8} {r,7} {d,6} {m,5} {z,4} {y,4} {s,4} {o,4} {c,3} {u,2} {n,2} {e,2} {b,2} {N,1} 
+result_LAPSE : 195
+root_LAPSE : [14]([27]([53]([24]([11,l],[13,w]),[13]([6,d],[7,r])),[4]([8]([4,z],[2,e]),[17]([2,n],[9,v]))),[29]([10]([5,m],[5]([2,u],[3,c])),[15]([7]([3]([1,N],[2,b]),[15]([4,o],[8,h])),[8]([4,s],[4,y]))))
+Line 275: LAPSE znacebwoeikqhldpnugxqmnaszrbp
+freq_LAPSE : {s,3} {q,3} {d,3} {r,2} {g,2} {c,2} {b,2} {y,1} {x,1} {v,1} {t,1} {p,1} {n,1} {m,1} {l,1} {j,1} {i,1} {h,1} {e,1} 
+result_LAPSE : 578
+root_LAPSE : [29]([13]([6]([3,d],[3,q]),[7]([3,s],[4]([2,b],[2,c]))),[16]([8]([4]([2,g],[2,r]),[4]([2]([1,e],[1,h]),[2]([1,i],[1,j]))),[8]([4]([2]([1,l],[1,m]),[2]([1,n],[1,p])),[4]([2]([1,t],[1,v]),[2]([1,x],[1,y])))))
+Line 276: LAPSE pvyyizkflxqoilewcqemnsbdvbvfrhoiNiznruqjwjvmftuglHwpqzegjoft
+freq_LAPSE : {z,7} {m,7} {r,5} {o,5} {u,4} {j,4} {t,3} {i,3} {h,3} {d,3} {c,3} {w,2} {v,2} {p,2} {a,2} {O,1} {I,1} {y,1} {l,1} {e,1} 
+result_LAPSE : 866
+root_LAPSE : [10]([2]([14]([7]([3]([1,O],[2,a]),[4,j]),[4]([2,w],[1,e])),[7]([7]([9]([1,l],[5,o]),[5,r]),[5]([2]([1,y],[1,I]),[3,c]))),[14]([8]([4,u],[4]([2,p],[2,v])),[24]([12]([6]([3,d],[3,h]),[6]([3,i],[3,t])),[14]([7,m],[7,z]))))
+Line 277: LIMITLESS 0
+Line 278: LAPSE lxgqivoopdpjvhoyhjszyspnrodpgnnylnmxhjpbxntkghrrLtiefvtdxfPnbcvcsklrjlhvojteqzcjpeewscuikxdyzqsteyec
+freq_LAPSE : {t,14} {v,11} {h,11} {p,10} {c,8} {d,7} {x,6} {k,6} {y,5} {m,5} {a,5} {n,4} {l,3} {j,3} {Q,1} {M,1} 
+result_LAPSE : 164
+root_LAPSE : [12]([8]([2]([16]([8,c],[10]([5,y],[1,M])),[5]([1,Q],[3,j])),[12]([8]([6,k],[6,x]),[10,p])),[22]([19]([10]([5,a],[5,m]),[22]([19]([11,h],[11,v]),[14,t])),[14]([7,d],[7]([3,l],[4,n]))))
+Line 279: LAPSE Birlwanmaompfrqwjvrfzzzzolvbakfcxjzaxylanzujhwcvtfhmnywmvfsfnabsonmwrlvkmmzqyorn
+freq_LAPSE : {t,13} {g,13} {b,8} {s,6} {l,6} {w,5} {m,5} {a,5} {p,4} {u,3} {j,3} {z,2} {e,2} {d,2} {C,1} {v,1} {q,1} 
+result_LAPSE : 962
+root_LAPSE : [19]([8]([2]([10]([5,w],[1,q]),[5]([1,v],[3,j])),[18]([8]([6,l],[6,s]),[10]([5,a],[5,m]))),[11]([3]([6]([3,u],[1,C]),[14]([2,d],[8,b])),[45]([8]([4,p],[4]([2,e],[2,z])),[26]([13,g],[13,t]))))
+Line 280: LAPSE tQcegiynilqvJxtkqqppchdrfdrhwePfrppethsKmqeotoasufgxboydxpgrrjw
+freq_LAPSE : {u,11} {i,7} {w,6} {k,6} {a,5} {x,4} {r,3} {j,3} {g,3} {y,2} {e,2} {R,1} {Q,1} {L,1} {K,1} {v,1} {o,1} {n,1} {m,1} {l,1} {c,1} {b,1} 
+result_LAPSE : 598
+root_LAPSE : [20]([32]([12]([6,w],[6]([3,g],[3,j])),[9]([4]([8]([4,x],[2,y]),[2]([1,b],[1,c])),[20]([10]([5,a],[6,k]),[11,u]))),[11]([3]([6]([3,r],[1,R]),[13]([2,e],[7,i])),[8]([4]([2]([1,l],[1,m]),[2]([1,n],[1,o])),[4]([2]([1,v],[1,K]),[2]([1,L],[1,Q])))))
+Line 281: LAPSE lawxryrowarysdcprtmgdnhagdslmrtnepziygxdsesgrrohrtlhjqondgeuodqfqfgjtdirndeuMaryrj
+freq_LAPSE : {c,15} {m,9} {l,8} {w,6} {r,6} {o,5} {k,5} {x,4} {s,4} {i,4} {e,4} {t,3} {z,2} {y,2} {h,2} {N,1} {d,1} {a,1} 
+result_LAPSE : 864
+root_LAPSE : [12]([42]([16]([31]([15,c],[8,l]),[8]([4,i],[4,s])),[5]([2]([1,a],[1,d]),[11]([11]([3,t],[6,r]),[6,w]))),[26]([7]([3]([1,N],[2,h]),[4,e]),[14]([4]([8]([4,x],[2,y]),[17]([2,z],[9,m])),[10]([5,k],[5,o]))))
+Line 282: LAPSE jqcubvayfwfwpw
+freq_LAPSE : {z,4} {h,2} {w,1} {v,1} {r,1} {q,1} {k,1} {d,1} {c,1} {b,1} 
+result_LAPSE : 632
+root_LAPSE : [14]([6]([2]([1,v],[1,w]),[4,z]),[8]([4]([2,h],[2]([1,b],[1,c])),[4]([2]([1,d],[1,k]),[2]([1,q],[1,r]))))
+Line 283: LAPSE yesfhtsghzemjAghqiazub
+freq_LAPSE : {k,4} {u,3} {g,3} {b,3} {i,2} {B,1} {z,1} {v,1} {r,1} {n,1} {j,1} {c,1} 
+result_LAPSE : 11
+root_LAPSE : [22]([9]([4]([2]([1,c],[1,j]),[2]([1,n],[1,r])),[5]([2]([1,v],[1,z]),[3,b])),[13]([6]([3,g],[3,u]),[7]([3]([1,B],[2,i]),[4,k])))
+Line 284: LAPSE gbihvzbzbehtjlkwcyxsnfsmudyldVyqlapjbufndecrhyehrwjzcuveeikxgtnnltrsbquhzsptlNehrgwhrldeeytf
+freq_LAPSE : {m,13} {r,12} {y,9} {w,9} {d,9} {o,7} {z,5} {g,5} {h,4} {j,3} {i,3} {f,3} {x,2} {s,2} {k,2} {W,1} {O,1} {n,1} {b,1} 
+result_LAPSE : 47
+root_LAPSE : [7]([28]([13]([6]([3,i],[3,j]),[7,o]),[2]([4]([2,x],[1,b]),[7]([9]([1,n],[5,g]),[5,z]))),[16]([15]([5]([2]([1,O],[1,W]),[3,f]),[4]([8]([4,h],[2,k]),[16]([2,s],[9,d]))),[32]([16]([9,w],[9,y]),[25]([12,r],[13,m]))))
+Line 285: LAPSE rc
+freq_LAPSE : 
+result_LAPSE : 0
+root_LAPSE : 
+Line 286: LAPSE wjbmqplekyqrzzuaqkndwvwkylezczadrhsdpbdogvgkjtkpbardjedjcrmluceukywkdTcbe
+freq_LAPSE : {r,7} {k,7} {d,7} {o,6} {x,5} {j,5} {v,4} {t,4} {n,4} {g,4} {f,4} {a,4} {s,3} {i,3} {b,3} {U,1} {u,1} {p,1} 
+result_LAPSE : 52
+root_LAPSE : [15]([3]([21]([10]([5,j],[5,x]),[14]([7,r],[6]([3,s],[1,U]))),[11]([7]([2]([1,p],[1,u]),[7]([4,a],[4,f])),[11]([8]([4,g],[4,n]),[8]([4,t],[4,v])))),[17]([12]([6,o],[6]([3,b],[3,i])),[14]([7,d],[7,k])))
+Line 287: LAPSE gzhakbnsculhsiqqfiobnclTtxtrgixvkuxftnqbpbhqiNhgkdznadAryroyadgomeedbviqyhofsphmizchropvgoomjdZzhvh
+freq_LAPSE : {v,19} {q,9} {i,8} {g,7} {d,7} {o,6} {w,5} {n,5} {l,5} {z,4} {r,4} {s,3} {p,3} {f,3} {b,3} {a,3} {U,1} {O,1} {B,1} {A,1} {k,1} 
+result_LAPSE : 706
+root_LAPSE : [17]([6]([2]([12]([6]([3,p],[3,s]),[3]([1,U],[1,k])),[7]([1,A],[4,r])),[14]([9]([7]([4,z],[5,l]),[9]([7,d],[7,g])),[16]([15]([8,i],[9,q]),[10]([5,n],[5,w])))),[11]([5]([2]([1,B],[1,O]),[11]([3,a],[6,o])),[36]([6]([3,b],[3,f]),[19,v])))
+Line 288: LAPSE oroqkwkxwlxwksibnPmxlhMsVqwbqq
+freq_LAPSE : {a,7} {u,6} {n,6} {q,2} {d,2} {W,1} {Q,1} {N,1} {s,1} {o,1} {j,1} {i,1} 
+result_LAPSE : 1020
+root_LAPSE : [17]([7]([14]([7,a],[3]([1,W],[2,d])),[4]([2,q],[2]([1,i],[1,j]))),[10]([4]([2]([1,o],[1,s]),[2]([1,N],[1,Q])),[10]([6,n],[6,u])))
+Line 289: LAPSE mkzjnouvncceauaaaojjpsojotiJkbgesedkVimmjdeojbk
+freq_LAPSE : {p,11} {e,6} {t,5} {o,4} {i,4} {w,3} {u,3} {k,2} {f,2} {d,2} {W,1} {K,1} {q,1} {h,1} {a,1} 
+result_LAPSE : 208
+root_LAPSE : [30]([13]([24]([11,p],[6]([3,u],[3,w])),[7]([3]([1,W],[2,d]),[4,i])),[17]([8]([4,o],[4]([2,f],[2,k])),[9]([4]([2]([1,a],[1,h]),[2]([1,q],[1,K])),[10]([5,t],[6,e]))))
+Line 290: LAPSE tbjwCfoftfoxydwpffdsy
+freq_LAPSE : {k,6} {y,3} {q,3} {v,2} {f,2} {a,2} {D,1} {t,1} {c,1} 
+result_LAPSE : 857
+root_LAPSE : [15]([6]([12]([6,k],[3,y]),[3]([1,D],[2,a])),[9]([4]([2,f],[2,v]),[5]([2]([1,c],[1,t]),[3,q])))
+Line 291: LAPSE nYeqyHoptwMaklpnowbkbgxodboqnbh
+freq_LAPSE : {s,6} {f,5} {y,3} {q,3} {m,3} {r,2} {Z,1} {N,1} {I,1} {z,1} {u,1} {i,1} {h,1} {e,1} {b,1} 
+result_LAPSE : 794
+root_LAPSE : [20]([8]([4]([2]([1,b],[1,e]),[2]([1,h],[1,i])),[19]([4]([2]([1,u],[1,z]),[2]([1,I],[1,N])),[11]([5,f],[6,s]))),[12]([6]([3,m],[3,q]),[6]([3,y],[3]([1,Z],[2,r]))))
+Line 292: LAPSE tjgkqbsdsfhjnxadygllnuethvlbkmykmpsy
+freq_LAPSE : {v,6} {o,5} {b,4} {n,3} {f,3} {p,2} {l,2} {j,2} {i,2} {d,2} {y,1} {w,1} {r,1} {q,1} {g,1} 
+result_LAPSE : 892
+root_LAPSE : [30]([13]([6]([3,f],[3,n]),[7]([3]([1,y],[2,d]),[4,b])),[17]([8]([4]([2,i],[2,j]),[4]([2,l],[2,p])),[9]([4]([2]([1,g],[1,q]),[2]([1,r],[1,w])),[10]([5,o],[6,v]))))
+Line 293: LAPSE fmtqdrairfhzythtjrricovshwixhtflgxtripdygjbqfgkihpvqjimqsfppnqkgoblsnprrfRtucjv
+freq_LAPSE : {y,10} {v,9} {z,8} {o,8} {m,7} {n,6} {l,6} {u,5} {k,4} {a,3} {q,2} {p,2} {f,2} {e,2} {d,2} {S,1} {x,1} {b,1} 
+result_LAPSE : 572
+root_LAPSE : [27]([3]([46]([19]([9,v],[10,y]),[14]([7,m],[1,S])),[11]([7]([2,d],[4,k]),[11]([8,o],[8,z]))),[16]([8]([4]([2,e],[2,f]),[4]([2,p],[2,q])),[8]([2]([10]([5,u],[1,b]),[5]([1,x],[3,a])),[8]([6,l],[6,n]))))
+Line 294: LAPSE bxtoavjadurmfnIkirfvdpcenjywjrnjspbblrwvcPorla
+freq_LAPSE : {n,7} {y,6} {w,5} {q,5} {e,5} {f,3} {d,3} {r,2} {h,2} {Q,1} {J,1} {z,1} {v,1} {u,1} {t,1} {l,1} {j,1} 
+result_LAPSE : 249
+root_LAPSE : [41]([17]([8]([4]([2,h],[2,r]),[4]([2]([1,j],[1,l]),[2]([1,t],[1,u]))),[9]([4]([2]([1,v],[1,z]),[2]([1,J],[1,Q])),[9]([5,e],[5,q]))),[24]([11]([5,w],[6,y]),[13]([6]([3,d],[3,f]),[7,n])))
+Line 295: HAND 
+h
+4
+r
+8
+j
+2
+l
+4
+t
+2
+u
+17
+v
+2
+z
+4
+J
+2
+Q
+9
+e
+9
+q
+41
+w
+11
+y
+24
+d
+6
+f
+13
+n
+Line 296: LAPSE gzpnzhcvkwurmolohbVgdqtyxjtcYenlopdzckkhzhtOjqtmxvyrRolbbnlmodylyjjutoilbnchzp
+freq_LAPSE : {r,10} {n,7} {g,7} {u,6} {y,5} {s,5} {m,5} {f,5} {e,5} {c,4} {x,3} {p,3} {z,2} {w,2} {t,2} {i,2} {Z,1} {W,1} {S,1} {P,1} {j,1} 
+result_LAPSE : 281
+root_LAPSE : [26]([11]([46]([20]([10,r],[10]([5,s],[5,y])),[5]([2]([1,S],[1,W]),[11]([3,p],[6,u]))),[25]([6]([3,x],[3]([1,Z],[2,i])),[14]([7,g],[7,n]))),[15]([7]([2]([4]([2,z],[1,j]),[9]([1,P],[5,e])),[7]([5,f],[5,m])),[8]([4,c],[4]([2,t],[2,w]))))
+Line 297: LAPSE oiydrgkiieeoosryrakfkOpfozagxfdzrajoh
+freq_LAPSE : {t,6} {i,6} {v,4} {n,3} {l,3} {d,3} {g,2} {f,2} {b,2} {a,2} {P,1} {y,1} {q,1} {k,1} 
+result_LAPSE : 497
+root_LAPSE : [18]([31]([13]([6]([3,d],[3,l]),[7]([3,n],[4,v])),[8]([4]([2,a],[2,b]),[4]([2,f],[2,g]))),[10]([4]([2]([1,k],[1,q]),[2]([1,y],[1,P])),[10]([6,i],[6,t])))
+Line 298: KOKUSEN 
+number_KOKUSEN : 0 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 885(819(143(99(43(7(NULL,25(17(11,NULL),NULL)),77(61(59(47,NULL),73),77(NULL,77))),111(NULL,133(131(NULL,131),141(135,NULL)))),655(395(273(187(163(151,177(NULL,179)),219(193(NULL,195),267(225(219,245(239,247(NULL,249(NULL,249)))),267(NULL,271(267,NULL))))),367(323(283(281,309),323(NULL,323(NULL,331(325,335(NULL,363(349,NULL)))))),385(381(373,NULL),393(NULL,393)))),533(505(443(433(427(417,NULL),437(435,441)),495(451(447,469(461(451,NULL),479)),497)),NULL),557(545(537,NULL),623(567,639(NULL,649(643,NULL)))))),677(669,713(NULL,725(NULL,751(733,767(763,811(775(NULL,787(NULL,805)),813)))))))),869(819(NULL,835(NULL,865(837(NULL,863(855(NULL,855(NULL,859(857,NULL))),NULL)),NULL))),871(NULL,879(NULL,881)))),999(913(895(889,909(903(897,907),NULL)),945(943,971(955(953,955(NULL,957(NULL,961(NULL,967)))),981(971,991(987,NULL))))),1023(1007(999(NULL,1003(NULL,1003)),1021(1013,NULL)),NULL)))
+root_after_KOKUSEN : 
+AreaTable ID=2 : 885(819(143(99(43(7(NULL,25(17(11,NULL),NULL)),77(61(59(47,NULL),73),77(NULL,77))),111(NULL,133(131(NULL,131),141(135,NULL)))),655(395(273(187(163(151,177(NULL,179)),219(193(NULL,195),267(225(219,245(239,247(NULL,249(NULL,249)))),267(NULL,271(267,NULL))))),367(323(283(281,309),323(NULL,323(NULL,331(325,335(NULL,363(349,NULL)))))),385(381(373,NULL),393(NULL,393)))),533(505(443(433(427(417,NULL),437(435,441)),495(451(447,469(461(451,NULL),479)),497)),NULL),557(545(537,NULL),623(567,639(NULL,649(643,NULL)))))),677(669,713(NULL,725(NULL,751(733,767(763,811(775(NULL,787(NULL,805)),813)))))))),869(819(NULL,835(NULL,865(837(NULL,863(855(NULL,855(NULL,859(857,NULL))),NULL)),NULL))),871(NULL,879(NULL,881)))),999(913(895(889,909(903(897,907),NULL)),945(943,971(955(953,955(NULL,957(NULL,961(NULL,967)))),981(971,991(987,NULL))))),1023(1007(999(NULL,1003(NULL,1003)),1021(1013,NULL)),NULL)))
+Line 299: LAPSE vtughthpllsnawdwsfxvrHMrnlonubmtqjmfmhuh
+freq_LAPSE : {x,5} {q,4} {p,4} {l,4} {y,3} {w,3} {o,3} {h,3} {u,2} {t,2} {N,1} {I,1} {r,1} {k,1} {e,1} {c,1} {b,1} 
+result_LAPSE : 951
+root_LAPSE : [21]([8]([16]([8]([4,p],[4,q]),[4]([2,u],[2]([1,b],[1,c]))),[19]([4]([2]([1,e],[1,k]),[2]([1,r],[1,I])),[11]([5,x],[6]([3,h],[3,o])))),[13]([6]([3,w],[3,y]),[7]([3]([1,N],[2,t]),[4,l])))
+Line 300: LAPSE vgxrfkjgzqusiwtqennywkikqqfvgxwebbJmcjRjcoqykwbsgZfnocnghndqzclxfvZeindkoyuwtXiomrfuHizgylrlgsgc
+freq_LAPSE : {o,13} {h,8} {c,7} {w,6} {t,6} {v,5} {p,5} {n,5} {k,5} {b,5} {s,4} {y,3} {x,3} {u,3} {m,3} {e,3} {a,3} {B,2} {f,2} {Y,1} {S,1} {K,1} {I,1} {i,1} 
+result_LAPSE : 880
+root_LAPSE : [20]([32]([12]([6]([3,e],[3,m]),[25]([6]([3,u],[3,x]),[13,o])),[9]([4]([8]([4,s],[2,B]),[2]([1,i],[1,I])),[19]([9]([5,b],[5,k]),[10]([5,n],[5,p])))),[11]([3]([6]([3,y],[1,Y]),[11]([13]([2,f],[7,c]),[8,h])),[8]([2]([10]([5,v],[1,K]),[5]([1,S],[3,a])),[8]([6,t],[6,w]))))
+Line 301: LAPSE zqwafnjatcjbhxMcghrhtfljdynaVvfuibrccvsu
+freq_LAPSE : {d,5} {m,4} {g,4} {x,3} {t,3} {k,3} {i,3} {w,2} {v,2} {p,2} {W,1} {N,1} {z,1} {y,1} {r,1} {j,1} {h,1} {e,1} {a,1} 
+result_LAPSE : 782
+root_LAPSE : [40]([16]([8]([4,m],[4]([2,v],[2,w])),[8]([4]([2]([1,a],[1,e]),[2]([1,h],[1,j])),[4]([2]([1,r],[1,y]),[2]([1,z],[1,N])))),[24]([11]([5,d],[6]([3,i],[3,k])),[13]([6]([3,t],[3,x]),[7]([3]([1,W],[2,p]),[4,g]))))
+Line 302: HAND 
+m
+8
+v
+4
+w
+16
+a
+2
+e
+4
+h
+2
+j
+8
+r
+2
+y
+4
+z
+2
+N
+40
+d
+11
+i
+6
+k
+24
+t
+6
+x
+13
+W
+3
+p
+7
+g
+Line 303: LIMITLESS 2
+7
+11
+17
+25
+43
+47
+59
+61
+73
+77
+77
+77
+99
+111
+131
+131
+133
+135
+141
+143
+151
+163
+177
+179
+187
+193
+195
+219
+219
+225
+239
+245
+247
+249
+249
+267
+267
+267
+271
+273
+281
+283
+309
+323
+323
+323
+325
+331
+335
+349
+363
+367
+373
+381
+385
+393
+393
+395
+417
+427
+433
+435
+437
+441
+443
+447
+451
+451
+461
+469
+479
+495
+497
+505
+533
+537
+545
+557
+567
+623
+639
+643
+649
+655
+669
+677
+713
+725
+733
+751
+763
+767
+775
+787
+805
+811
+813
+819
+819
+835
+837
+855
+855
+857
+859
+863
+865
+869
+871
+879
+881
+885
+889
+895
+897
+903
+907
+909
+913
+943
+945
+951
+953
+955
+955
+957
+961
+967
+971
+971
+981
+987
+991
+999
+999
+1003
+1003
+1007
+1013
+1021
+1023
+Line 304: KOKUSEN 
+number_KOKUSEN : 0 
+root_before_KOKUSEN : 
+AreaTable ID=2 : 885(819(143(99(43(7(NULL,25(17(11,NULL),NULL)),77(61(59(47,NULL),73),77(NULL,77))),111(NULL,133(131(NULL,131),141(135,NULL)))),655(395(273(187(163(151,177(NULL,179)),219(193(NULL,195),267(225(219,245(239,247(NULL,249(NULL,249)))),267(NULL,271(267,NULL))))),367(323(283(281,309),323(NULL,323(NULL,331(325,335(NULL,363(349,NULL)))))),385(381(373,NULL),393(NULL,393)))),533(505(443(433(427(417,NULL),437(435,441)),495(451(447,469(461(451,NULL),479)),497)),NULL),557(545(537,NULL),623(567,639(NULL,649(643,NULL)))))),677(669,713(NULL,725(NULL,751(733,767(763,811(775(NULL,787(NULL,805)),813)))))))),869(819(NULL,835(NULL,865(837(NULL,863(855(NULL,855(NULL,859(857,NULL))),NULL)),NULL))),871(NULL,879(NULL,881)))),999(913(895(889,909(903(897,907),NULL)),945(943,971(955(953(951,NULL),955(NULL,957(NULL,961(NULL,967)))),981(971,991(987,NULL))))),1023(1007(999(NULL,1003(NULL,1003)),1021(1013,NULL)),NULL)))
+root_after_KOKUSEN : 
+AreaTable ID=2 : 885(819(143(99(43(7(NULL,25(17(11,NULL),NULL)),77(61(59(47,NULL),73),77(NULL,77))),111(NULL,133(131(NULL,131),141(135,NULL)))),655(395(273(187(163(151,177(NULL,179)),219(193(NULL,195),267(225(219,245(239,247(NULL,249(NULL,249)))),267(NULL,271(267,NULL))))),367(323(283(281,309),323(NULL,323(NULL,331(325,335(NULL,363(349,NULL)))))),385(381(373,NULL),393(NULL,393)))),533(505(443(433(427(417,NULL),437(435,441)),495(451(447,469(461(451,NULL),479)),497)),NULL),557(545(537,NULL),623(567,639(NULL,649(643,NULL)))))),677(669,713(NULL,725(NULL,751(733,767(763,811(775(NULL,787(NULL,805)),813)))))))),869(819(NULL,835(NULL,865(837(NULL,863(855(NULL,855(NULL,859(857,NULL))),NULL)),NULL))),871(NULL,879(NULL,881)))),999(913(895(889,909(903(897,907),NULL)),945(943,971(955(953(951,NULL),955(NULL,957(NULL,961(NULL,967)))),981(971,991(987,NULL))))),1023(1007(999(NULL,1003(NULL,1003)),1021(1013,NULL)),NULL)))
+Line 305: CLEAVE 2
+1-782
+1-880
+Line 306: KEITEIKEN 2
+910-1
+958-1
+Heap_before_KEITEIKEN : {ID=1,Len=138} 
+customers_before_KEITEIKEN : 
+AreaTable ID=1 : 782 880 572 892 794 208 1020 706 52 632 864 598 962 164 866 578 370 248 228 492 98 168 784 42 764 1012 454 796 978 394 108 242 808 196 638 4 12 922 796 572 720 306 124 386 502 848 42 130 568 598 854 972 372 286 892 538 14 686 768 470 480 122 364 120 964 296 886 506 116 442 438 1020 648 468 70 502 6 942 28 656 828 684 682 458 504 90 142 974 816 212 744 30 234 860 14 958 906 444 88 312 698 88 668 538 190 966 266 10 30 798 1004 862 196 642 232 0 12 764 112 404 900 544 498 244 30 420 72 660 116 398 256 586 308 974 52 638 958 910 
+Heap_after_KEITEIKEN : {ID=1,Len=136} 
+customers_after_KEITEIKEN : 
+AreaTable ID=1 : 782 880 572 892 794 208 1020 706 52 632 864 598 962 164 866 578 370 248 228 492 98 168 784 42 764 1012 454 796 978 394 108 242 808 196 638 4 12 922 796 572 720 306 124 386 502 848 42 130 568 598 854 972 372 286 892 538 14 686 768 470 480 122 364 120 964 296 886 506 116 442 438 1020 648 468 70 502 6 942 28 656 828 684 682 458 504 90 142 974 816 212 744 30 234 860 14 958 906 444 88 312 698 88 668 538 190 966 266 10 30 798 1004 862 196 642 232 0 12 764 112 404 900 544 498 244 30 420 72 660 116 398 256 586 308 974 52 638 
