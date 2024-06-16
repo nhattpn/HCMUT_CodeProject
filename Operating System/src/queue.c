@@ -4,42 +4,62 @@
 
 int empty(struct queue_t *q)
 {
-        if (q == NULL)
-                return 1;
-        return (q->size == 0);
+    if (q == NULL)
+        return 1;
+    return (q->size == 0);
 }
 
 void enqueue(struct queue_t *q, struct pcb_t *proc)
 {
-        /* TODO: put a new process to queue [q] */
-        if (q->size >= MAX_QUEUE_SIZE)
-                return;
-        if (q->size >= 0)
-        {
-                #ifdef MLQ_SCHED
-		if(proc->priority != proc->prio){
-			proc->priority = proc->prio;
-		}
-		#endif
-                q->proc[q->size] = proc;
-                q->size++;
-        }
+    if (q->size < 0)
+        exit(0);
+#ifdef PRIO_OVERWRITE
+    if (q->size >= MAX_QUEUE_SIZE && proc->prio < MAX_PRIO)
+    {
+        proc->prio++;
+        printf("\t-----Switch process PID %d to queue %d --------\n", proc->pid, proc->prio);
+        enqueue(q->next, proc);
+    }
+    else if (proc->prio <= MAX_PRIO)
+    {
+        q->proc[q->size] = proc;
+        q->size++;
+    }
+#else
+    if (q->size >= MAX_QUEUE_SIZE && proc->priority < MAX_PRIO)
+    {
+        proc->priority++;
+        printf("\t-----Switch process PID %d to queue %d --------\n", proc->pid, proc->priority);
+        enqueue(q->next, proc);
+    }
+    else if (proc->priority <= MAX_PRIO)
+    {
+        q->proc[q->size] = proc;
+        q->size++;
+    }
+#endif
+    // q->top = (q->top + 1) % MAX_QUEUE_SIZE;
+    // q->proc[q->top] = proc;
+    // q->size++;
 }
 
 struct pcb_t *dequeue(struct queue_t *q)
 {
-        /* TODO: return a pcb whose prioprity is the highest
-         * in the queue [q] and remember to remove it from q
-         * */
-        if (!q->size)
-                return NULL;
-        int id = 0;
-        for (int i = 0; i < q->size; i++)
-                if (q->proc[id]->priority < q->proc[i]->priority)
-                        id = i;
-        struct pcb_t *temp = q->proc[id];
-        q->size--;
-        for (int i = id; i < q->size; i++)
-                q->proc[i] = q->proc[i + 1];
-        return temp;
+    if (!q->size)
+        return NULL;
+    int id = 0;
+    for (int i = 0; i < q->size; i++)
+#ifdef PRIO_OVERWRITE
+        if (q->proc[id]->prio < q->proc[i]->prio)
+            id = i;
+#else
+        if (q->proc[id]->priority < q->proc[i]->priority)
+            id = i;
+#endif
+    struct pcb_t *curr = q->proc[id];
+    q->size--;
+    for (int i = id; i < q->size; i++)
+        q->proc[i] = q->proc[i + 1];
+    return curr;
+
 }

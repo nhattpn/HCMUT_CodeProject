@@ -7,9 +7,6 @@
 #include "mm.h"
 #include <stdlib.h>
 #include <stdio.h>
-#include <pthread.h>
-
-
 /*
  *  MEMPHY_mv_csr - move MEMPHY cursor
  *  @mp: memphy struct
@@ -163,13 +160,12 @@ int MEMPHY_dump(struct memphy_struct * mp)
     /*TODO dump memphy contnt mp->storage 
      *     for tracing the memory content
      */
-    printf("Memory Dump-----\n");
-    for (int i = 0; i < mp->maxsz; i++)
-       if (mp->storage[i] != 0)
-          printf("Index %d: %d\n", i, mp->storage[i]);
-    printf("-----End dump\n");
-    // pthread_mutex_unlock(&mem_lock);
-    return 0;
+   printf("-------Memory Dump-----\n");
+   for (int i = 0; i < mp->maxsz; i++)
+      if (mp->storage[i] != 0)
+         printf("Index %d: %d\n", i, mp->storage[i]);
+   printf("-------End dump\n");
+   return 0;
 }
 
 int MEMPHY_put_freefp(struct memphy_struct *mp, int fpn)

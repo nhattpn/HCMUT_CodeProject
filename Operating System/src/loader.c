@@ -51,7 +51,6 @@ struct pcb_t * load(const char * path) {
 	proc->code->text = (struct inst_t*)malloc(
 		sizeof(struct inst_t) * proc->code->size
 	);
-	// printf("Process %u has %u instructions\n", proc->pid, proc->code->size);
 	uint32_t i = 0;
 	for (i = 0; i < proc->code->size; i++) {
 		fscanf(file, "%s", opcode);
@@ -79,8 +78,9 @@ struct pcb_t * load(const char * path) {
 				&proc->code->text[i].arg_1,
 				&proc->code->text[i].arg_2
 			);
-			break;
+			break;	
 		default:
+			printf("Opcode: %s\n", opcode);
 			exit(1);
 		}
 	}
